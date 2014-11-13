@@ -1,0 +1,707 @@
+#kombox-filter{
+	/*border: 2px solid #ffea94;*/
+	margin-top: 1em;
+	/*margin-bottom: 2em;*/
+	font-size: .8em;
+	padding: 10px 10px 0px 0;
+	position: relative;
+	background: white;
+}
+
+#kombox-filter ul{
+	width:100%;
+	list-style: none !important;
+	margin:0;
+	padding:0 0 20px 0;
+    line-height: 0;
+}
+
+#kombox-filter ul li{
+	list-style: none !important;
+	margin:0;
+	padding:0;
+	/*margin-top: .7em;*/
+	text-indent: 0 !important;
+    background: none !important;
+}
+
+#kombox-filter td{
+	margin:0;
+	padding:0;
+    border: medium none;
+}
+
+#kombox-filter ul li.lvl1 ul{
+	padding: 0;
+	margin:0;
+}
+
+#kombox-filter ul li ul li{
+	margin:0;
+	/*padding: 4px 20px 4px 0;*/
+	width:auto;
+	float:left;
+}
+
+#kombox-filter .lvl1 {
+	position: relative;
+}
+
+#kombox-filter .lvl1:before, #kombox-filter li:before {
+	content: none !important;
+}
+
+#kombox-filter .select_right .kombox-filter-property-head {
+    zoom: 1;
+    padding: 1.8em 15px 5px 5px;
+    /*text-align:right;*/
+    /*width: 180px;*/
+    width: 155px;
+    float:left;
+    height:auto;
+}
+
+#kombox-filter .select_left .kombox-filter-property-head {
+	zoom: 1;
+	padding: 1.8em 15px 5px 5px;
+	/*text-align:right;*/
+    /*width: 180px;*/
+	/*width: 150px;*/
+	float:left;
+	height:auto;
+}
+
+#kombox-filter .kombox-filter-property-name {
+	position: relative;
+	/*font-weight:bold;   */
+}
+
+#kombox-filter .kombox-middle{
+	vertical-align:middle;
+}
+
+#kombox-filter .kombox-num,
+#kombox-filter .kombox-combo{
+	 overflow: hidden;
+}
+#kombox-filter .kombox-num{
+    height: 60px;
+    overflow: visible;
+    display: flex;
+}
+#kombox-filter .kombox-num .kombox-input{
+	width: 4em;
+	margin:0;
+}
+
+#kombox-filter .kombox-num table{
+	width:75%;
+    margin: 0;
+    padding: 0;
+}
+
+#kombox-filter .kombox-from{
+	vertical-align:middle;
+	white-space:nowrap;
+}
+
+#kombox-filter .kombox-to{
+	vertical-align:middle;
+	white-space:nowrap;
+}
+
+#kombox-filter .kombox-num .kombox-range{
+	padding:0 20px 0 20px;
+	width:100%;
+}
+
+#kombox-filter .kombox-num .kombox-input{
+	width: 4em;
+	margin:0;
+	
+}
+
+#kombox-filter .kombox-num .kombox-range input{
+	display:none;
+}
+
+#kombox-filter .kombox-combo{
+	padding: 5px 0 0 15px;
+	margin: 0;
+}
+
+#kombox-filter .kombox-combo li{
+	float:left;
+	margin-right:5px;
+	padding-right:0;
+	white-space:nowrap;
+}
+
+#kombox-filter .kombox-combo li label{
+	padding-left: 4px;
+    padding-right:20px;
+	/*padding-right:45px;   */
+	position:relative;
+	display:inline-block;
+    
+    padding-top: 3px;
+    float:left;
+}
+
+#kombox-filter .kombox-combo li.kombox-disabled label{
+	color: #6f7980;
+}
+
+#kombox-filter .kombox-combo li label span{
+	position:absolute;
+	color: #6f7980;
+	font-size: .85em;
+	right:0;
+	/*top:1px;*/
+	display:inline-block;
+	width:40px;
+	text-align:left;
+    
+    top:3px;
+    
+}
+
+#kombox-filter .kombox-combo li.kombox-disabled label span, .kombox-filter .kombox-combo li.kombox-checked label span{
+	display:none;
+}
+
+#kombox-filter .kombox-filter-property-hint{
+	cursor: pointer;
+	position: relative;
+	top: 2px;
+	width: 12px;
+	height: 12px;
+	margin-left:5px;
+	display: inline-block;
+	background: rgba(0, 0, 0, 0) url(images/hint.gif) no-repeat right center;
+}
+
+#kombox-filter .kombox-filter-property-hint-text{
+	display:none;
+}
+
+.kombox-filter-hint{
+	padding:5px 10px 5px 5px;
+	font-size: .8em;
+	max-width: 500px;
+}
+
+#kombox-filter .modef {
+	background: transparent url('images/modef.gif') no-repeat right center;
+	top: 4px;
+	position: absolute;
+	padding-right:5px;
+	z-index:1000;
+}
+
+#kombox-filter .modef-right {
+	background: transparent url('images/modef-right.gif') no-repeat left center;
+	padding-left:5px;
+}
+
+#kombox-filter .modef .modef-wrap {
+	background-color:#fff;
+	border: 1px solid #ffea94;
+	border-right:none;
+	color: #3F3F3F;
+	padding: 5px 25px 5px 10px;
+	white-space: nowrap;
+}
+
+#kombox-filter .modef-right .modef-wrap {
+	border: 1px solid #ffea94;
+	border-left:none;
+}
+
+#kombox-filter .kombox-loading {
+	position:absolute;
+	z-index:100;
+	left:0;
+	top:0;
+	background:transparent url(images/loading.png) repeat center;
+	display:none;
+}
+
+a.kombox-del-filter{
+	display:inline-block;
+	margin-top :18px;
+    font-family: Verdana;
+    font-size: 14px;
+    font-weight: bold;
+    color: #cd1922;
+    text-decoration: underline;
+    height: 14px;
+}
+
+#kombox-filter .kombox-clear{
+	clear:both;
+	/*height:1px;*/
+	width: 100%;
+	display: inline-block;
+}
+
+#kombox-filter .kombox-filter-show-properties{
+	text-align:right;
+	float:left;
+	width:180px;
+	padding: 1em 15px 0 5px;
+	
+}
+
+#kombox-filter .kombox-show .kombox-show{
+	display:inline;
+}
+
+#kombox-filter .kombox-hide .kombox-show{
+	display:none;
+}
+
+#kombox-filter .kombox-hide .kombox-hide{
+	display:inline;
+}
+
+#kombox-filter .kombox-show .kombox-hide{
+	display:none;
+}
+
+#kombox-filter .kombox-filter-submit{
+	/*padding: 1em 0 0 15px;*/
+	overflow:hidden;
+    float: left;
+}
+
+.irs {
+    position: relative; display: block;
+}
+    .irs-line {
+        position: relative; display: block;
+        overflow: hidden;
+    }
+        .irs-line-left, .irs-line-mid, .irs-line-right {
+            position: absolute; display: block;
+            top: 0;
+        }
+        .irs-line-left {
+            left: 0; width: 0%;
+        }
+        .irs-line-mid {
+            left: 10%;
+        }
+        .irs-line-right {
+            right: 0; width: 0%;
+        }
+
+    .irs-diapason, .irs-diapason-left, .irs-diapason-right {
+        position: absolute; display: block;
+        left: 0; width: 100%;
+    }
+    .irs-slider {
+        position: absolute; display: block;
+        cursor: pointer;
+        z-index: 1;
+    }
+        .irs-slider.single {
+            left: 10px;
+        }
+            .irs-slider.single:before {
+                position: absolute; display: block; content: "";
+                top: -50%; left: -100%;
+                width: 300%; height: 200%;
+                background: rgba(0,0,0,0.0);
+            }
+        .irs-slider.from {
+            left: 100px;
+        }
+            .irs-slider.from:before {
+                position: absolute; display: block; content: "";
+                top: -50%; left: -200%;
+                width: 300%; height: 200%;
+                background: rgba(0,0,0,0.0);
+            }
+        .irs-slider.to {
+            left: 300px;
+        }
+            .irs-slider.to:before {
+                position: absolute; display: block; content: "";
+                top: -50%; left: 0;
+                width: 300%; height: 200%;
+                background: rgba(0,0,0,0.0);
+            }
+        .irs-slider.last {
+            z-index: 2;
+        }
+
+    .irs-min {
+        position: absolute; display: block;
+        left: 0;
+        cursor: default;
+    }
+    .irs-max {
+        position: absolute; display: block;
+        right: 0;
+        cursor: default;
+    }
+
+    .irs-from, .irs-to, .irs-single {
+        position: absolute; display: block;
+        bottom: 0; left: 0;
+        cursor: default;
+        white-space: nowrap;
+		margin-bottom:-17px;
+    }
+	
+	.irs-from {
+        /*margin-left:-7px;*/
+        border-radius: 0 50% 50% 0 !important;
+        margin-left: -40px;
+    }
+	
+	.irs-to {
+        /*margin-left:10px; */
+        border-radius: 50% 0 0 50% !important;
+        margin-left: 45px;
+    }
+
+
+.irs-grid {
+    position: absolute; display: none;
+    top: 0; left: 0;
+    width: 100%; height: 26px;
+}
+.irs-with-grid .irs-grid {
+    display: block;
+}
+    .irs-grid-pol {
+        position: absolute;
+        bottom: 0; left: 0;
+        width: 1px; height: 8px;
+        background: #000;
+    }
+    .irs-grid-pol.small {
+        height: 0px;
+    }
+    .irs-grid-text {
+        position: absolute;
+        top: 0; left: 0;
+        width: 100px;
+        white-space: nowrap;
+        text-align: center;
+        font-size: 9px; line-height: 9px;
+        color: #000;
+    }
+	
+.irs-line-mid,
+.irs-line,
+.irs-diapason-left, 
+.irs-diapason-right,
+.irs-slider {
+    background: url(images/slider.png) repeat-x,
+    url(images/slider.png) 0 -19px;
+}
+
+.irs {
+    height: 40px;
+}
+.irs-with-grid {
+    margin-top: 0;
+}
+.irs-line {
+    height: 8px; top: 25px;
+	/* background-position: 0 -19px;      */
+}
+    .irs-line-left {
+        height: 8px;
+        background-position: 0 -30px;
+    }
+    .irs-line-mid {
+        height: 6px;
+        background-position: 0 -19px;
+    }
+    .irs-line-right {
+        height: 8px;
+        background-position: 100% -30px;
+    }
+
+.irs-diapason, .irs-diapason-left, .irs-diapason-right {
+    height: 8px; top: 25px;
+    background-position: 0 -60px;
+}
+
+.irs-diapason{
+	background:none;
+}
+
+.irs-slider {
+    width: 22px; height: 22px;
+    top: 17px;
+    background-position: 0 -90px;
+}
+
+.irs-min, .irs-max {
+    color: #999;
+    font-size: 10px; line-height: 1.333;
+    text-shadow: none;
+    top: 0; padding: 1px 3px;
+    background: rgba(0,0,0,0.1);
+    border-radius: 3px;
+}
+.lt-ie9 .irs-min, .lt-ie9 .irs-max {
+    background: #ccc;
+}
+
+.irs-from, .irs-to, .irs-single {
+    color: #fff;
+    font-size: 10px; line-height: 1.333;
+    text-shadow: none;
+    padding: 1px 5px;
+    background: rgba(0,0,0,0.3);
+    border-radius: 3px;
+	/*display:none !important; */
+}
+.lt-ie9 .irs-from, .lt-ie9 .irs-to, .lt-ie9 .irs-single {
+    background: #999;
+}
+
+.irs-grid-pol {
+    background: #000;
+}
+.irs-grid-text {
+    color: #99a4ac;
+}
+
+.irs-slider.from {
+	background-position:-4px -75px;
+	width: 13px;
+	height: 28px;
+	margin-left: -6px;
+}
+
+.irs-slider.to {
+	background-position:-4px -75px;
+	width: 13px;
+	height: 28px;
+	margin-left: -7px;
+}
+
+#irs-active-slider, .irs-slider:hover {
+    /*background-position: -4px -105px;*/
+}
+
+.irs {
+    height: 40px;
+}
+.irs-with-grid {
+    margin-top: 0;
+}
+.irs-line {
+    height: 8px; top: 25px;
+	/* background-position: 0 -19px;    */
+}
+    .irs-line-left {
+        height: 8px;
+        background-position: 0 -30px;
+    }
+    .irs-line-mid {
+        height: 6px;
+        /*background-position: left bottom;    */
+    }
+    .irs-line-right {
+        height: 8px;
+        background-position: 100% -30px;
+    }
+
+.irs-diapason, .irs-diapason-left, .irs-diapason-right {
+    height: 8px; top: 25px;
+    background-position: 0 0;
+}
+
+.irs-diapason{
+	background:none;
+}
+
+.irs-slider {
+    width: 22px; height: 22px;
+    top: 17px;
+    background-position: 0 -90px;
+}
+
+.irs-min, .irs-max {
+    color: #999;
+    font-size: 10px; line-height: 1.333;
+    text-shadow: none;
+    top: 0; padding: 1px 3px;
+    background: rgba(0,0,0,0.1);
+    border-radius: 3px;
+}
+.lt-ie9 .irs-min, .lt-ie9 .irs-max {
+    background: #ccc;
+}
+
+.irs-from, .irs-to, .irs-single {
+    /*color: #fff;
+    font-size: 10px; line-height: 1.333;
+    text-shadow: none;
+    padding: 1px 5px;
+    background: rgba(0,0,0,0.3);
+    border-radius: 3px;  */
+	/*display:none !important; */
+    background: none repeat scroll 0 0 #D8D8D8;
+    border-radius: 50%;
+    color: #000000;
+    display: none;
+    font-size: 10px;
+    line-height: 1.333;
+    padding: 1px 5px;
+    text-shadow: none;
+    z-index: 1;
+    margin-bottom: 3px;    
+}
+.lt-ie9 .irs-from, .lt-ie9 .irs-to, .lt-ie9 .irs-single {
+    background: #999;
+}
+
+.irs-grid-pol {
+    background: #000;
+}
+.irs-grid-text {
+    color: #99a4ac;
+}
+
+.irs-slider.from {
+	background-position: 0 -70px;
+	width: 13px;
+	height: 28px;
+	margin-left: -10px;
+}
+
+.irs-slider.to {
+	background-position: 0 -110px;
+	width: 13px;
+	height: 28px;
+	margin-left: -1px;
+}
+
+#irs-active-slider, .irs-slider:hover {
+    /*background-position: -4px -105px;*/
+}
+label.label_checked{
+    background: url("/design/images/checkbox.png") no-repeat scroll left center rgba(0, 0, 0, 0);
+    cursor: pointer;
+    min-height: 21px;    
+}
+label.checkbox_on{
+    background: url("/design/images/checkbox_checked.png") no-repeat scroll left center rgba(0, 0, 0, 0);    
+}
+.kombox-hidden-input{
+    display:none;
+}
+#kombox-filter .kombox-combo li label font{
+    display: inline-block;
+    text-align: left;
+    top: 3px;
+    padding-left: 20px;   
+}
+
+#kombox-filter .sbHolder {
+    display: block;
+    float: right;
+    position: relative;
+    width: 246px;
+}
+
+#kombox-filter .sbHolder li{
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border-bottom: 1px solid #C8C8C8;
+    line-height: 28px;
+    margin: 0;
+    padding: 0 7px 0 15px;
+    float: none;
+}
+#kombox-filter #sort_button{
+   /* background-color: #FF0000;
+    border: 1px solid #000000;
+    border-radius: 4px;
+    width: 150px;
+    cursor: pointer;  */
+    
+    background: url("/design/images/button_red.jpg") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+    border: 1px solid #B1151A;
+    border-radius: 4px;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Verdana;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 25px;
+    outline: medium none;
+    padding: 0 30px;
+    position: relative;
+    cursor: pointer;     
+}
+.solo_brand{
+    padding-top: 9px;
+}
+#kombox-filter .select_left{
+    width: 380px;
+    display: inline-block;
+    float:left;
+    margin-right: 35px;   
+}
+#kombox-filter .select_right{
+    width: 400px;
+    display: inline-block;
+    float:right; 
+}
+#kombox-filter #sort_button_div{
+    text-align: center;
+    
+    background: url("/design/images/button_red.jpg") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+    border: 1px solid #B1151A;
+    border-radius: 4px;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Verdana;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 25px;
+    outline: medium none;
+    padding: 0 30px;
+    position: relative;
+    cursor: pointer;  
+}
+
+#kombox-filter .sort_count {
+    font-family: Verdana;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 30px 0;
+}
+#kombox-filter #vil_vid .sbHolder {
+    display: block;
+    float: right;
+    position: relative;
+    width: 278px;
+}
+#kombox-filter #vil_type .sbHolder {
+    display: block;
+    float: right;
+    position: relative;
+    width: 300px;
+}
+#kombox-filter #brand_holder .sbHolder {
+    display: block;
+    float: left;
+    position: relative;
+    width: 100px;
+}
+#kombox-filter .privod{
+    clear:both;
+    float:left;
+}

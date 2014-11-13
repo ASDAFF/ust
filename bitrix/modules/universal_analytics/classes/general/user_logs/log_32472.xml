@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409834833>
+    <timestamp>04.09.2014 16:47:13</timestamp>
+    <webpage>http://ust-co.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409834833>
+  <logInfo1409834841>
+    <timestamp>04.09.2014 16:47:21</timestamp>
+    <webpage>http://ust-co.ru/filialy/moscow/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409834841>
+  <logInfo1409834899>
+    <timestamp>04.09.2014 16:48:19</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/filter/brand-john_deere/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409834899>
+  <logInfo1409834907>
+    <timestamp>04.09.2014 16:48:27</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/filter/brand-john_deere/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409834907>
+  <logInfo1409834918>
+    <timestamp>04.09.2014 16:48:38</timestamp>
+    <webpage>http://ust-co.ru/catalog/skladskaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409834918>
+  <logInfo1409834923>
+    <timestamp>04.09.2014 16:48:43</timestamp>
+    <webpage>http://ust-co.ru/catalog/skladskaya-tekhnika/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409834923>
+  <logInfo1409834949>
+    <timestamp>04.09.2014 16:49:09</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409834949>
+  <logInfo1409834958>
+    <timestamp>04.09.2014 16:49:18</timestamp>
+    <webpage>http://u-st.ru/catalog/gusenichnye-samosvaly/gusenichnyy-samosval-mst-800vd/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409834958>
+  <logInfo1409835049>
+    <timestamp>04.09.2014 16:50:49</timestamp>
+    <webpage>http://u-st.ru/catalog/karernye-samosvaly/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409835049>
+  <logInfo1409835133>
+    <timestamp>04.09.2014 16:52:13</timestamp>
+    <webpage>http://u-st.ru/catalog/frontalnye-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409835133>
+  <logInfo1409835141>
+    <timestamp>04.09.2014 16:52:21</timestamp>
+    <webpage>http://u-st.ru/catalog/frontalnye-pogruzchiki/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409835141>
+  <logInfo1409835145>
+    <timestamp>04.09.2014 16:52:25</timestamp>
+    <webpage>http://u-st.ru/catalog/frontalnye-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409835145>
+</root>

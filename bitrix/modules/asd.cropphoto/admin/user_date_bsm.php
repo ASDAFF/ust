@@ -1,0 +1,1 @@
+<?define("asd_cropphoto_TEMPORARY_CACHE", "fGcEBH1mAAk6UXE2AGIGfAIm");?>

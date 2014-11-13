@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409895884>
+    <timestamp>05.09.2014 09:44:44</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/?quantity=10000</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409895884>
+  <logInfo1409895913>
+    <timestamp>05.09.2014 09:45:13</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/gidravlicheskaya-telezhka-dlya-perevozki-bochek-unilift-td-300/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409895913>
+  <logInfo1409895928>
+    <timestamp>05.09.2014 09:45:28</timestamp>
+    <webpage>http://ust-co.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409895928>
+  <logInfo1409895936>
+    <timestamp>05.09.2014 09:45:36</timestamp>
+    <webpage>http://ust-co.ru/filialy/petrozavodsk/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409895936>
+  <logInfo1409895940>
+    <timestamp>05.09.2014 09:45:40</timestamp>
+    <webpage>http://ust-co.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409895940>
+  <logInfo1409895946>
+    <timestamp>05.09.2014 09:45:46</timestamp>
+    <webpage>http://ust-co.ru/filialy/st-petersburg/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409895946>
+</root>

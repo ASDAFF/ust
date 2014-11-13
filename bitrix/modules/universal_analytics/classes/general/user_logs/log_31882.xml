@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409823941>
+    <timestamp>04.09.2014 13:45:41</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409823941>
+  <logInfo1409823961>
+    <timestamp>04.09.2014 13:46:01</timestamp>
+    <webpage>http://ust-co.ru/servis/zapchasti-i-komplektuyushie/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409823961>
+  <logInfo1409824034>
+    <timestamp>04.09.2014 13:47:14</timestamp>
+    <webpage>http://ust-co.ru/poisk/?q=%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9+%D1%82%D0%BE%D1%80%D0%BC%D0%BE%D0%B7%D0%BD%D0%BE%D0%B9+%D1%86%D0%B8%D0%BB%D0%B8%D0%BD%D0%B4%D1%80</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409824034>
+  <logInfo1409824061>
+    <timestamp>04.09.2014 13:47:41</timestamp>
+    <webpage>http://ust-co.ru/poisk/?q=%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9+%D1%82%D0%BE%D1%80%D0%BC%D0%BE%D0%B7%D0%BD%D0%BE%D0%B9+%D1%86%D0%B8%D0%BB%D0%B8%D0%BD%D0%B4%D1%80&amp;where=&amp;how=r</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409824061>
+  <logInfo1409824069>
+    <timestamp>04.09.2014 13:47:49</timestamp>
+    <webpage>http://ust-co.ru/poisk/?q=%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9+%D1%82%D0%BE%D1%80%D0%BC%D0%BE%D0%B7%D0%BD%D0%BE%D0%B9+%D1%86%D0%B8%D0%BB%D0%B8%D0%BD%D0%B4%D1%80&amp;where=iblock_catalog&amp;how=r</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409824069>
+</root>

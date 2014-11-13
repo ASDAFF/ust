@@ -1,0 +1,37 @@
+body {
+	font-family: Arial, Verdana, sans-serif;
+	font-size: 14px;
+	line-height: 16px;
+}
+h2, h3 {
+    page-break-after: avoid;
+}
+a:after {
+	content:" <" attr(href) ">";
+}
+header .quick-links, header .links, .top-nav, #bx-panel, .a-side, .inside-logos, footer .foot-top, hr, .crumbs, footer .foot-bot .links, .jcarousel, footer::before, .company-plate .carousel, form, .tooltip, .index-slider, .actions-slider, .tabs-plate, .index-main-plate .site-descr .show-more, .index-main-plate .site-descr .overlay-grad, .other-actions {
+	display: none !important;
+}
+.index-main-plate .site-descr .more-text {
+	display: block;
+}
+.content {
+	display: block;
+	float: none;
+	width: auto;
+}
+.wrapper, section {
+	width: auto;
+}
+header, footer {
+	background: none;	
+	padding: 0;
+	box-sizing: none;
+}
+.company-plate .counters {
+	background: none;	
+	padding: 0;
+	box-sizing: none;
+	width: auto;
+	float: none;
+}

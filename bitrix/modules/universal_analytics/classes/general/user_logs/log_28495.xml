@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409821387>
+    <timestamp>04.09.2014 13:03:07</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/karera/nasha-zhizn/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409821387>
+  <logInfo1409821959>
+    <timestamp>04.09.2014 13:12:39</timestamp>
+    <webpage>http://u-st.ru/arenda/stroitelnaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409821959>
+  <logInfo1409821991>
+    <timestamp>04.09.2014 13:13:11</timestamp>
+    <webpage>http://u-st.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409821991>
+  <logInfo1409822006>
+    <timestamp>04.09.2014 13:13:26</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/novosti/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409822006>
+  <logInfo1409822018>
+    <timestamp>04.09.2014 13:13:38</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/novosti/?PAGEN_1=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409822018>
+</root>

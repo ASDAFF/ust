@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409812463>
+    <timestamp>04.09.2014 10:34:23</timestamp>
+    <webpage>http://ust-co.ru/catalog/uzkoprokhodnye-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409812463>
+  <logInfo1409812497>
+    <timestamp>04.09.2014 10:34:57</timestamp>
+    <webpage>http://ust-co.ru/%D0%A3%D0%B7%D0%BA%D0%BE%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BE%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA%20Aisle-Master</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409812497>
+  <logInfo1409812772>
+    <timestamp>04.09.2014 10:39:32</timestamp>
+    <webpage>http://ust-co.ru/catalog/uzkoprokhodnye-pogruzchiki/uzkoprokhodnyy-pogruzchik-aisle-master-15e/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409812772>
+  <logInfo1409812830>
+    <timestamp>04.09.2014 10:40:30</timestamp>
+    <webpage>http://ust-co.ru/catalog/elektricheskie-shtabelery/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409812830>
+</root>

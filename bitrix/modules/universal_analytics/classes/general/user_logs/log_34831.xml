@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409917545>
+    <timestamp>05.09.2014 15:45:45</timestamp>
+    <webpage>http://ust-co.ru/catalog/skladskaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409917545>
+  <logInfo1409917555>
+    <timestamp>05.09.2014 15:45:55</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409917555>
+  <logInfo1409917561>
+    <timestamp>05.09.2014 15:46:01</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409917561>
+  <logInfo1409917567>
+    <timestamp>05.09.2014 15:46:07</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/?PAGEN_3=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409917567>
+  <logInfo1409917578>
+    <timestamp>05.09.2014 15:46:18</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/ruchnaya-gidravlicheskaya-telezhka-unilift-th-g/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409917578>
+  <logInfo1409917602>
+    <timestamp>05.09.2014 15:46:42</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/?PAGEN_3=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409917602>
+  <logInfo1409917614>
+    <timestamp>05.09.2014 15:46:54</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/?PAGEN_3=4</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409917614>
+</root>

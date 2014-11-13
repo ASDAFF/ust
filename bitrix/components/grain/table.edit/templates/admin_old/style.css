@@ -1,0 +1,13 @@
+table.grain-tables-table-edit { border: 1px solid #CFD6E9; border-collapse: collapse }
+table.grain-tables-table-edit td { padding: 4px !important; border: 1px solid #CFD6E9 !important }
+
+table.grain-tables-table-edit thead td { background-color: #E7EAF5 }
+table.grain-tables-table-edit thead td span.grain-tables-table-edit-star-required { color: red }
+table.grain-tables-table-edit thead div.grain-tables-table-edit-tooltip { font-size: 0.8em }
+
+table.grain-tables-table-edit tbody td img.grain-tables-table-edit-file-icon { vertical-align: middle }
+table.grain-tables-table-edit tbody td img.grain-tables-table-edit-image-preview { margin-top: 5px }
+
+table.grain-tables-table-edit tfoot a { text-decoration: none }
+table.grain-tables-table-edit tfoot a img { vertical-align: middle }
+table.grain-tables-table-edit tfoot a span { text-decoration: underline }

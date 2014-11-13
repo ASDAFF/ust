@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409990936>
+    <timestamp>06.09.2014 12:08:56</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409990936>
+  <logInfo1409990952>
+    <timestamp>06.09.2014 12:09:12</timestamp>
+    <webpage>http://ust-co.ru/design/img/css/transparent.png</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409990952>
+  <logInfo1409990954>
+    <timestamp>06.09.2014 12:09:14</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409990954>
+  <logInfo1409991465>
+    <timestamp>06.09.2014 12:17:45</timestamp>
+    <webpage>http://ust-co.ru/arenda/elektroshtabelery-yale/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409991465>
+  <logInfo1409991471>
+    <timestamp>06.09.2014 12:17:51</timestamp>
+    <webpage>http://ust-co.ru/design/img/css/transparent.png</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409991471>
+  <logInfo1409991818>
+    <timestamp>06.09.2014 12:23:38</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409991818>
+  <logInfo1409991821>
+    <timestamp>06.09.2014 12:23:41</timestamp>
+    <webpage>http://ust-co.ru/design/img/css/transparent.png</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409991821>
+  <logInfo1409991822>
+    <timestamp>06.09.2014 12:23:42</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409991822>
+</root>

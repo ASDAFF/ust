@@ -1,0 +1,5 @@
+<?
+$MESS ['GRAIN_TABLES_TV_DESCRIPTION_NAME'] = "Таблица";
+$MESS ['GRAIN_TABLES_TV_DESCRIPTION_DESCRIPTION'] = "Отображение таблицы";
+$MESS ['GRAIN_TABLES_TV_DESCRIPTION_MENU'] = "Свойства-таблицы";
+?>

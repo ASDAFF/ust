@@ -1,0 +1,701 @@
+/* regions list styles start */
+.dealers-map .regions-list li,
+.offices-map .regions-list li{
+	background: url(../images/map.png) no-repeat -9999px -9999px;
+	position: absolute;
+}
+
+/*
+ ***************
+ * OFFICES MAP *
+ ***************
+ */
+
+/* petrozavodsk styles start */
+.offices-map .regions-list .petrozavodsk{
+	width: 88px;
+	height: 104px;
+	top: 33px;
+	left: 140px;
+}
+.offices-map .regions-list .petrozavodsk.active,
+.offices-map .regions-list .petrozavodsk.hover{background-position: -767px 0;}
+/* petrozavodsk styles end */
+/* st-petersburg styles start */
+.offices-map .regions-list .st-petersburg{
+	width: 72px;
+	height: 63px;
+	top: 87px;
+	left: 104px;
+}
+.offices-map .regions-list .st-petersburg.active,
+.offices-map .regions-list .st-petersburg.hover{background-position: -857px 0;}
+/* st-petersburg styles end */
+/* smolensk styles start */
+.offices-map .regions-list .smolensk{
+	width: 51px;
+	height: 39px;
+	left: 64px;
+	top: 160px;
+}
+.offices-map .regions-list .smolensk.active,
+.offices-map .regions-list .smolensk.hover{background-position: -931px 0;}
+/* smolensk styles end */
+/* moscow styles start */
+.offices-map .regions-list .moscow{
+	width: 39px;
+	height: 30px;
+	left: 103px;
+	top: 182px;
+}
+.offices-map .regions-list .moscow.active,
+.offices-map .regions-list .moscow.hover{background-position: -984px 0;}
+/* moscow styles end */
+/* yaroslavl styles start */
+.offices-map .regions-list .yaroslavl{
+	width: 41px;
+	height: 34px;
+	left: 140px;
+	top: 170px;
+}
+.offices-map .regions-list .yaroslavl.active,
+.offices-map .regions-list .yaroslavl.hover{background-position: -1024px 0;}
+/* yaroslavl styles end */
+/* kaluga styles start */
+.offices-map .regions-list .kaluga{
+	width: 39px;
+	height: 29px;
+	left: 77px;
+	top: 192px;
+}
+.offices-map .regions-list .kaluga.active,
+.offices-map .regions-list .kaluga.hover{background-position: -1026px -38px;}
+/* kaluga styles end */
+/* ivanovo styles start */
+.offices-map .regions-list .ivanovo{
+	height: 34px;
+	left: 151px;
+	top: 191px;
+	width: 58px;
+}
+.offices-map .regions-list .ivanovo.active,
+.offices-map .regions-list .ivanovo.hover{background-position: -729px -831px;}
+/* ivanovo styles end */
+/* lubertsy styles start */
+.offices-map .regions-list .lubertsy{
+	width: 31px;
+	height: 19px;
+	left: 112px;
+	top: 206px;
+}
+.offices-map .regions-list .lubertsy.active,
+.offices-map .regions-list .lubertsy.hover{background-position: -951px -41px;}
+/* lubertsy styles end */
+/* tula styles start */
+.offices-map .regions-list .tula{
+	width: 30px;
+	height: 32px;
+	left: 90px;
+	top: 212px;
+}
+.offices-map .regions-list .tula.active,
+.offices-map .regions-list .tula.hover{background-position: -952px -62px;}
+/* tula styles end */
+/* vladimir styles start */
+.offices-map .regions-list .vladimir{
+	height: 27px;
+	left: 139px;
+	top: 215px;
+	width: 72px;
+}
+.offices-map .regions-list .vladimir.active,
+.offices-map .regions-list .vladimir.hover{background-position: -789px -831px;}
+/* vladimir styles end */
+/* kursk styles start */
+.offices-map .regions-list .kursk{
+	width: 42px;
+	height: 37px;
+	left: 50px;
+	top: 224px;
+}
+.offices-map .regions-list .kursk.active,
+.offices-map .regions-list .kursk.hover{background-position: -887px -66px;}
+/* kursk styles end */
+/* orel styles start */
+.offices-map .regions-list .orel{
+	width: 32px;
+	height: 35px;
+	left: 67px;
+	top: 215px;
+}
+.offices-map .regions-list .orel.active,
+.offices-map .regions-list .orel.hover{background-position: -1033px -70px;}
+/* orel styles end */
+/* kolomna styles start */
+.offices-map .regions-list .kolomna{
+	width: 36px;
+	height: 24px;
+	left: 111px;
+	top: 220px;
+}
+.offices-map .regions-list .kolomna.active,
+.offices-map .regions-list .kolomna.hover{background-position: -946px -96px;}
+/* kolomna styles end */
+/* ryazan styles start */
+.offices-map .regions-list .ryazan{
+	height: 25px;
+	left: 113px;
+	top: 238px;
+	width: 39px;
+}
+.offices-map .regions-list .ryazan.active,
+.offices-map .regions-list .ryazan.hover{background-position: -729px -867px;}
+/* ryazan styles end */
+/* n-novgorod styles start */
+.offices-map .regions-list .n-novgorod{
+	height: 39px;
+	left: 147px;
+	top: 224px;
+	width: 71px;
+}
+.offices-map .regions-list .n-novgorod.active,
+.offices-map .regions-list .n-novgorod.hover{background-position: -994px -124px;}
+/* n-novgorod styles end */
+/* cheboksary styles start */
+.offices-map .regions-list .cheboksary{
+	width: 29px;
+	height: 28px;
+	left: 178px;
+	top: 248px;
+}
+.offices-map .regions-list .cheboksary.active,
+.offices-map .regions-list .cheboksary.hover{background-position: -900px -105px;}
+/* cheboksary styles end */
+/* belgorod styles start */
+.offices-map .regions-list .belgorod{
+	width: 35px;
+	height: 45px;
+	left: 49px;
+	top: 242px;
+}
+.offices-map .regions-list .belgorod.active,
+.offices-map .regions-list .belgorod.hover{background-position: -894px -135px;}
+/* belgorod styles end */
+/* voronezh styles start */
+.offices-map .regions-list .voronezh{
+	width: 49px;
+	height: 47px;
+	left: 70px;
+	top: 252px;
+}
+.offices-map .regions-list .voronezh.active,
+.offices-map .regions-list .voronezh.hover{background-position: -880px -182px;}
+/* voronezh styles end */
+/* saransk styles start */
+.offices-map .regions-list .saransk{
+	height: 37px;
+	left: 136px;
+	top: 245px;
+	width: 46px;
+}
+.offices-map .regions-list .saransk.active,
+.offices-map .regions-list .saransk.hover{background-position: -932px -728px;}
+/* saransk styles end */
+/* izhevsk styles start */
+.offices-map .regions-list .izhevsk{
+	height: 45px;
+	left: 231px;
+	top: 245px;
+	width: 37px;
+}
+.offices-map .regions-list .izhevsk.active,
+.offices-map .regions-list .izhevsk.hover{background-position: -822px -641px;;}
+/* izhevsk styles end */
+/* perm styles start */
+.offices-map .regions-list .perm{
+	left: 253px;
+	top: 218px;
+	width: 82px;
+	height: 82px;
+}
+.offices-map .regions-list .perm.active,
+.offices-map .regions-list .perm.hover{background-position: -983px -214px;}
+/* perm styles end */
+/* penza styles start */
+.offices-map .regions-list .penza{
+	height: 41px;
+	left: 130px;
+	top: 257px;
+	width: 42px;
+}
+.offices-map .regions-list .penza.active,
+.offices-map .regions-list .penza.hover{background-position: -818px -756px;}
+/* penza styles end */
+/* kazan styles start */
+.offices-map .regions-list .kazan{
+	height: 58px;
+	left: 192px;
+	top: 258px;
+	width: 56px;
+}
+.offices-map .regions-list .kazan.active,
+.offices-map .regions-list .kazan.hover{background-position: -770px -867px;}
+/* kazan styles end */
+/* rostov-on-don styles start */
+.offices-map .regions-list .rostov-on-don{
+	height: 69px;
+	left: 33px;
+	top: 293px;
+	width: 64px;
+}
+.offices-map .regions-list .rostov-on-don.active,
+.offices-map .regions-list .rostov-on-don.hover{background-position: -1001px -355px;}
+/* rostov-on-don styles end */
+/* saratov styles start */
+.offices-map .regions-list .saratov{
+	width: 75px;
+	height: 72px;
+	left: 115px;
+	top: 275px;
+}
+.offices-map .regions-list .saratov.active,
+.offices-map .regions-list .saratov.hover{background-position: -810px -105px;}
+/* saratov styles end */
+/* samara styles start */
+.offices-map .regions-list .samara{
+	width: 50px;
+	height: 44px;
+	left: 176px;
+	top: 289px;
+}
+.offices-map .regions-list .samara.active,
+.offices-map .regions-list .samara.hover{background-position: -932px -260px;}
+/* samara styles end */
+/* ufa styles start */
+.offices-map .regions-list .ufa{
+	width: 66px;
+	height: 85px;
+	left: 228px;
+	top: 283px;
+}
+.offices-map .regions-list .ufa.active,
+.offices-map .regions-list .ufa.hover{background-position: -728px -105px;}
+/* ufa styles end */
+/* orenburg styles start */
+.offices-map .regions-list .orenburg{
+	width: 98px;
+	height: 93px;
+	left: 186px;
+	top: 302px;
+}
+.offices-map .regions-list .orenburg.active,
+.offices-map .regions-list .orenburg.hover{background-position: -728px -192px;}
+/* orenburg styles end */
+/* ekaterinburg styles start */
+.offices-map .regions-list .ekaterinburg{
+	height: 100px;
+	left: 278px;
+	top: 221px;
+	width: 83px;
+}
+.offices-map .regions-list .ekaterinburg.active,
+.offices-map .regions-list .ekaterinburg.hover{background-position: -841px -231px;}
+/* ekaterinburg styles end */
+/* chelyabinsk styles start */
+.offices-map .regions-list .chelyabinsk{
+	width: 56px;
+	height: 69px;
+	left: 263px;
+	top: 303px;
+}
+.offices-map .regions-list .chelyabinsk.active,
+.offices-map .regions-list .chelyabinsk.hover{background-position: -940px -306px;}
+/* chelyabinsk styles end */
+/* tumen styles start */
+.offices-map .regions-list .tumen{
+	width: 97px;
+	height: 80px;
+	left: 342px;
+	top: 279px;
+}
+.offices-map .regions-list .tumen.active,
+.offices-map .regions-list .tumen.hover{background-position: -728px -287px;}
+/* tumen styles end */
+/* surgut styles start */
+.offices-map .regions-list .surgut{
+	width: 199px;
+	height: 140px;
+	left: 334px;
+	top: 172px;
+}
+.offices-map .regions-list .surgut.active,
+.offices-map .regions-list .surgut.hover{background-position: -728px -369px;}
+/* surgut styles end */
+/* surgut styles start */
+.offices-map .regions-list .surgut{
+	width: 199px;
+	height: 140px;
+	left: 334px;
+	top: 172px;
+}
+.offices-map .regions-list .surgut.active,
+.offices-map .regions-list .surgut.hover{background-position: -728px -369px;}
+/* surgut styles end */
+/* omsk styles start */
+.offices-map .regions-list .omsk{
+	width: 61px;
+	height: 89px;
+	left: 382px;
+	top: 305px;
+}
+.offices-map .regions-list .omsk.active,
+.offices-map .regions-list .omsk.hover{background-position: -935px -377px;}
+/* omsk styles end */
+/* omsk styles start */
+.offices-map .regions-list .omsk{
+	height: 85px;
+	left: 384px;
+	top: 308px;
+	width: 62px;
+}
+.offices-map .regions-list .omsk.active,
+.offices-map .regions-list .omsk.hover{background-position: -935px -377px;}
+/* omsk styles end */
+/* tomsk styles start */
+.offices-map .regions-list .tomsk{
+	height: 91px;
+	left: 435px;
+	top: 282px;
+	width: 125px;
+}
+.offices-map .regions-list .tomsk.active,
+.offices-map .regions-list .tomsk.hover{background-position: -940px -468px;}
+/* tomsk styles end */
+/* novosibirsk styles start */
+.offices-map .regions-list .novosibirsk{
+	width: 94px;
+	height: 71px;
+	left: 426px;
+	top: 335px;
+}
+.offices-map .regions-list .novosibirsk.active,
+.offices-map .regions-list .novosibirsk.hover{background-position: -971px -561px;}
+/* novosibirsk styles end */
+/* kemerovo styles start */
+.offices-map .regions-list .kemerovo{
+	width: 48px;
+	height: 34px;
+	left: 512px;
+	top: 353px;
+}
+.offices-map .regions-list .kemerovo.active,
+.offices-map .regions-list .kemerovo.hover{background-position: -828px -179px;}
+/* kemerovo styles end */
+/* novokuznetsk styles start */
+.offices-map .regions-list .novokuznetsk{
+	width: 43px;
+	height: 49px;
+	left: 514px;
+	top: 381px;
+}
+.offices-map .regions-list .novokuznetsk.active,
+.offices-map .regions-list .novokuznetsk.hover{background-position: -895px -511px;}
+/* novokuznetsk styles end */
+/* barnaul styles start */
+.offices-map .regions-list .barnaul{
+	width: 95px;
+	height: 65px;
+	left: 442px;
+	top: 388px;
+}
+.offices-map .regions-list .barnaul.active,
+.offices-map .regions-list .barnaul.hover{background-position: -728px -511px;}
+/* barnaul styles end */
+
+/*
+ ***************
+ * DEALERS MAP *
+ ***************
+ */
+
+/* kaliningrad styles start */
+.dealers-map .regions-list .kaliningrad{
+	width: 17px;
+	height: 36px;
+	left: 67px;
+	top: -1px;
+}
+.dealers-map .regions-list .kaliningrad.active,
+.dealers-map .regions-list .kaliningrad.hover{background-position: -910px -332px;}
+/* kaliningrad styles end */
+/* murmansk styles start */
+.dealers-map .regions-list .murmansk{
+	width: 39px;
+	height: 60px;
+	left: 193px;
+	top: 23px;
+}
+.dealers-map .regions-list .murmansk.active,
+.dealers-map .regions-list .murmansk.hover{background-position: -825px -511px;}
+/* murmansk styles end */
+/* minsk styles start */
+.dealers-map .regions-list .minsk{
+	width: 68px;
+	height: 61px;
+	left: 33px;
+	top: 63px;
+}
+.dealers-map .regions-list .minsk.active,
+.dealers-map .regions-list .minsk.hover{background-position: -728px -578px;}
+/* minsk styles end */
+/* smolensk styles start */
+.dealers-map .regions-list .smolensk{
+	width: 33px;
+	height: 30px;
+	left: 82px;
+	top: 99px;
+}
+.dealers-map .regions-list .smolensk.active,
+.dealers-map .regions-list .smolensk.hover{background-position: -875px -332px;}
+/* smolensk styles end */
+/* vologda styles start */
+.dealers-map .regions-list .vologda{
+	width: 52px;
+	height: 61px;
+	left: 137px;
+	top: 92px;
+}
+.dealers-map .regions-list .vologda.active,
+.dealers-map .regions-list .vologda.hover{background-position: -799px -578px;}
+/* vologda styles end */
+/* yaroslavl styles start */
+.dealers-map .regions-list .yaroslavl{
+	width: 30px;
+	height: 24px;
+	left: 126px;
+	top: 118px;
+}
+.dealers-map .regions-list .yaroslavl.active,
+.dealers-map .regions-list .yaroslavl.hover{background-position: -843px -332px;}
+/* yaroslavl styles end */
+/* moscow styles start */
+.dealers-map .regions-list .moscow{
+	width: 24px;
+	height: 32px;
+	left: 106px;
+	top: 120px;
+}
+.dealers-map .regions-list .moscow.active,
+.dealers-map .regions-list .moscow.hover{background-position: -1001px -165px;}
+/* moscow styles end */
+/* kiev styles start */
+.dealers-map .regions-list .kiev{
+	width: 78px;
+	height: 122px;
+	left: 0;
+	top: 76px;
+}
+.dealers-map .regions-list .kiev.active,
+.dealers-map .regions-list .kiev.hover{background-position: -987px -634px;}
+/* kiev styles end */
+/* vladimir styles start */
+.dealers-map .regions-list .vladimir{
+	width: 21px;
+	height: 27px;
+	left: 121px;
+	top: 133px;
+}
+.dealers-map .regions-list .vladimir.active,
+.dealers-map .regions-list .vladimir.hover{background-position: -873px -511px;}
+/* vladimir styles end */
+/* lipetsk styles start */
+.dealers-map .regions-list .lipetsk{
+	width: 22px;
+	height: 24px;
+	left: 85px;
+	top: 152px;
+}
+.dealers-map .regions-list .lipetsk.active,
+.dealers-map .regions-list .lipetsk.hover{background-position: -873px -511px;}
+/* lipetsk styles end */
+/* n-novgorod styles start */
+.dealers-map .regions-list .n-novgorod{
+	width: 44px;
+	height: 30px;
+	left: 124px;
+	top: 152px;
+}
+.dealers-map .regions-list .n-novgorod.active,
+.dealers-map .regions-list .n-novgorod.hover{background-position: -1021px -427px;}
+/* n-novgorod styles end */
+/* voronezh styles start */
+.dealers-map .regions-list .voronezh{
+	width: 29px;
+	height: 32px;
+	left: 72px;
+	top: 160px;
+}
+.dealers-map .regions-list .voronezh.active,
+.dealers-map .regions-list .voronezh.hover{background-position: -856px -65px;}
+/* voronezh styles end */
+/* kirov styles start */
+.dealers-map .regions-list .kirov{
+	width: 50px;
+	height: 57px;
+	left: 155px;
+	top: 142px;
+}
+.dealers-map .regions-list .kirov.active,
+.dealers-map .regions-list .kirov.hover{background-position: -853px -578px;}
+/* kirov styles end */
+/* izhevsk styles start */
+.dealers-map .regions-list .izhevsk{
+	width: 58px;
+	height: 49px;
+	left: 178px;
+	top: 172px;
+}
+.dealers-map .regions-list .izhevsk.active,
+.dealers-map .regions-list .izhevsk.hover{background-position: -905px -578px;}
+/* izhevsk styles end */
+/* rostov-on-don styles start */
+.dealers-map .regions-list .rostov-on-don{
+	width: 41px;
+	height: 46px;
+	left: 44px;
+	top: 184px;
+}
+.dealers-map .regions-list .rostov-on-don.active,
+.dealers-map .regions-list .rostov-on-don.hover{background-position: -944px -633px;}
+/* rostov-on-don styles end */
+/* krasnodar styles start */
+.dealers-map .regions-list .krasnodar{
+	width: 30px;
+	height: 42px;
+	left: 22px;
+	top: 189px;
+}
+.dealers-map .regions-list .krasnodar.active,
+.dealers-map .regions-list .krasnodar.hover{background-position: -955px -681px;}
+/* krasnodar styles end */
+/* krasnodar styles start */
+.dealers-map .regions-list .krasnodar{
+	width: 30px;
+	height: 42px;
+	left: 22px;
+	top: 189px;
+}
+.dealers-map .regions-list .krasnodar.active,
+.dealers-map .regions-list .krasnodar.hover{background-position: -955px -681px;}
+/* krasnodar styles end */
+/* volgograd styles start */
+.dealers-map .regions-list .volgograd{
+	width: 42px;
+	height: 44px;
+	left: 67px;
+	top: 184px;
+}
+.dealers-map .regions-list .volgograd.active,
+.dealers-map .regions-list .volgograd.hover{background-position: -900px -637px;}
+/* volgograd styles end */
+/* baksan styles start */
+.dealers-map .regions-list .baksan{
+	width: 26px;
+	height: 43px;
+	left: 36px;
+	top: 214px;
+}
+.dealers-map .regions-list .baksan.active,
+.dealers-map .regions-list .baksan.hover{background-position: -916px -683px;}
+/* baksan styles end */
+/* baksan styles start */
+.dealers-map .regions-list .baksan{
+	width: 26px;
+	height: 43px;
+	left: 36px;
+	top: 214px;
+}
+.dealers-map .regions-list .baksan.active,
+.dealers-map .regions-list .baksan.hover{background-position: -916px -683px;}
+/* baksan styles end */
+/* tbilisi styles start */
+.dealers-map .regions-list .tbilisi{
+	width: 22px;
+	height: 47px;
+	left: 19px;
+	top: 234px;
+}
+.dealers-map .regions-list .tbilisi.active,
+.dealers-map .regions-list .tbilisi.hover{background-position: -1043px -757px;}
+/* tbilisi styles end */
+/* baku styles start */
+.dealers-map .regions-list .baku{
+	width: 33px;
+	height: 49px;
+	left: 19px;
+	top: 264px;
+}
+.dealers-map .regions-list .baku.active,
+.dealers-map .regions-list .baku.hover{background-position: -865px -637px;}
+/* baku styles end */
+/* krasnoyarsk styles start */
+.dealers-map .regions-list .krasnoyarsk{
+	width: 88px;
+	height: 188px;
+	left: 329px;
+	top: 168px;
+}
+.dealers-map .regions-list .krasnoyarsk.active,
+.dealers-map .regions-list .krasnoyarsk.hover{background-position: -728px -641px;}
+/* krasnoyarsk styles end */
+/* krasnoyarsk styles start */
+.dealers-map .regions-list .krasnoyarsk{
+	width: 88px;
+	height: 188px;
+	left: 329px;
+	top: 168px;
+}
+.dealers-map .regions-list .krasnoyarsk.active,
+.dealers-map .regions-list .krasnoyarsk.hover{background-position: -728px -641px;}
+/* krasnoyarsk styles end */
+/* novosibirsk styles start */
+.dealers-map .regions-list .novosibirsk{
+	width: 71px;
+	height: 66px;
+	left: 277px;
+	top: 236px;
+}
+.dealers-map .regions-list .novosibirsk.active,
+.dealers-map .regions-list .novosibirsk.hover{background-position: -819px -688px;}
+/* novosibirsk styles end */
+/* irkutsk styles start */
+.dealers-map .regions-list .irkutsk{
+	width: 131px;
+	height: 143px;
+	left: 371px;
+	top: 229px;
+}
+.dealers-map .regions-list .irkutsk.active,
+.dealers-map .regions-list .irkutsk.hover{background-position: -934px -805px;}
+/* irkutsk styles end */
+/* barnaul styles start */
+.dealers-map .regions-list .barnaul{
+	width: 57px;
+	height: 45px;
+	left: 267px;
+	top: 308px;
+}
+.dealers-map .regions-list .barnaul.active,
+.dealers-map .regions-list .barnaul.hover{background-position: -982px -758px;}
+/* barnaul styles end */
+/* yuzhno-sakhalinsk styles start */
+.dealers-map .regions-list .yuzhno-sakhalinsk{
+	width: 45px;
+	height: 83px;
+	left: 631px;
+	top: 275px;
+}
+.dealers-map .regions-list .yuzhno-sakhalinsk.active,
+.dealers-map .regions-list .yuzhno-sakhalinsk.hover{background-position: -885px -758px;}
+/* yuzhno-sakhalinsk styles end */
+/* regions list styles end */

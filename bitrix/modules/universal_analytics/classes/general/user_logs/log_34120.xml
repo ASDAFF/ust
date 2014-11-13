@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409905363>
+    <timestamp>05.09.2014 12:22:43</timestamp>
+    <webpage>http://u-st.ru/catalog/podemniki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409905363>
+  <logInfo1409905417>
+    <timestamp>05.09.2014 12:23:37</timestamp>
+    <webpage>http://u-st.ru/catalog/podemniki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409905417>
+  <logInfo1409905459>
+    <timestamp>05.09.2014 12:24:19</timestamp>
+    <webpage>http://ust-co.ru/%D0%9A%D0%BE%D0%BB%D0%B5%D0%BD%D1%87%D0%B0%D1%82%D1%8B%D0%B9%20%D0%BF%D0%BE%D0%B4%D1%8A%D0%B5%D0%BC%D0%BD%D0%B8%D0%BA</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409905459>
+  <logInfo1409905507>
+    <timestamp>05.09.2014 12:25:07</timestamp>
+    <webpage>http://u-st.ru/catalog/podemniki/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409905507>
+  <logInfo1409905539>
+    <timestamp>05.09.2014 12:25:39</timestamp>
+    <webpage>http://u-st.ru/catalog/podemniki/kolenchatyy-podemnik-samokhodnyy-manitou-170-aetj-l-bi-energy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409905539>
+  <logInfo1409905585>
+    <timestamp>05.09.2014 12:26:25</timestamp>
+    <webpage>http://u-st.ru/catalog/mini-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409905585>
+  <logInfo1409905647>
+    <timestamp>05.09.2014 12:27:27</timestamp>
+    <webpage>http://ust-co.ru/dilery-skladskoj-tehniki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409905647>
+</root>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409821096>
+    <timestamp>04.09.2014 12:58:16</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409821096>
+  <logInfo1409821112>
+    <timestamp>04.09.2014 12:58:32</timestamp>
+    <webpage>http://u-st.ru/catalog/ekskavatory/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409821112>
+  <logInfo1409821118>
+    <timestamp>04.09.2014 12:58:38</timestamp>
+    <webpage>http://u-st.ru/catalog/mobilnye-krany/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409821118>
+  <logInfo1409821137>
+    <timestamp>04.09.2014 12:58:57</timestamp>
+    <webpage>http://ust-co.ru/dilery-skladskoj-tehniki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409821137>
+  <logInfo1409821151>
+    <timestamp>04.09.2014 12:59:11</timestamp>
+    <webpage>http://u-st.ru/akcii/stroitelnaya-tekhnika/poprobuy-i-kupi-lyubaya-tekhnika-v-arendu-s-vykupom/</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409821151>
+  <logInfo1409821160>
+    <timestamp>04.09.2014 12:59:20</timestamp>
+    <webpage>http://u-st.ru/catalog/mobilnye-krany/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409821160>
+</root>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1410263273>
+    <timestamp>09.09.2014 15:47:53</timestamp>
+    <webpage>http://generatory.ust-co.ru/catalog/dizelnye-generatory/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410263273>
+  <logInfo1410263300>
+    <timestamp>09.09.2014 15:48:20</timestamp>
+    <webpage>http://generatory.ust-co.ru/catalog/dizelnye-generatory/filter/brand-transprogress/isposlenenie_generatory-otkrytyy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410263300>
+  <logInfo1410263322>
+    <timestamp>09.09.2014 15:48:42</timestamp>
+    <webpage>http://generatory.ust-co.ru/catalog/dizelnye-generatory/filter/brand-transprogress/isposlenenie_generatory-otkrytyy/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410263322>
+  <logInfo1410263336>
+    <timestamp>09.09.2014 15:48:56</timestamp>
+    <webpage>http://generatory.ust-co.ru/catalog/dizelnye-generatory/filter/brand-transprogress/isposlenenie_generatory-otkrytyy/?PAGEN_3=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410263336>
+  <logInfo1410263362>
+    <timestamp>09.09.2014 15:49:22</timestamp>
+    <webpage>http://generatory.ust-co.ru/catalog/dizelnye-generatory/otkrytyy-generator-transprogress-lovol-adt-100-t400-1rl/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410263362>
+</root>

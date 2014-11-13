@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409826815>
+    <timestamp>04.09.2014 14:33:35</timestamp>
+    <webpage>http://ust-co.ru/servis/remont-i-vosstanovlenie/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409826815>
+  <logInfo1409826832>
+    <timestamp>04.09.2014 14:33:52</timestamp>
+    <webpage>http://ust-co.ru/poisk/?q=%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3%D0%B8</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409826832>
+  <logInfo1409827869>
+    <timestamp>04.09.2014 14:51:09</timestamp>
+    <webpage>http://ust-co.ru/poisk/?q=%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE&amp;where=&amp;how=r</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409827869>
+  <logInfo1409827875>
+    <timestamp>04.09.2014 14:51:15</timestamp>
+    <webpage>http://ust-co.ru/poisk/?q=%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE&amp;where=iblock_catalog&amp;how=r</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409827875>
+  <logInfo1409827884>
+    <timestamp>04.09.2014 14:51:24</timestamp>
+    <webpage>http://ust-co.ru/poisk/?q=%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE&amp;where=iblock_catalog&amp;how=r</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409827884>
+</root>

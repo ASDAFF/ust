@@ -1,0 +1,10 @@
+<?
+$MESS ['GRAIN_TABLES_TE_TEMPLATE_ADD_ROW'] = "Добавить";
+$MESS ['GRAIN_TABLES_TE_TEMPLATE_DRAG_ROW'] = "Захватите для перемещения";
+$MESS ['GRAIN_TABLES_TE_TEMPLATE_DELETE_ROW'] = "Удалить";
+$MESS ['GRAIN_TABLES_TE_TEMPLATE_MEDIALIB'] = "Медиабиблиотека";
+$MESS ['GRAIN_TABLES_TE_TEMPLATE_STRUCTURE'] = "Структура";
+$MESS ['GRAIN_TABLES_TE_TEMPLATE_IMAGE_TITLE'] = "Размер: #WIDTH#x#HEIGHT# пикселей";
+$MESS ['GRAIN_TABLES_TE_TEMPLATE_FILE_DOWNLOAD'] = "Загрузить";
+$MESS ['GRAIN_TABLES_TE_TEMPLATE_LINKS_DS_NOT_SET'] = "Источник данных не настроен";
+?>

@@ -1,0 +1,297 @@
+.visible {
+	display:block!important;
+}
+.on_top {
+	position:absolute;
+	top:-40px;
+	right:0;	
+}
+.on_top div {
+	float: left;
+	margin-left:15px;
+}
+.on_top button, .on_top button.silver, .on_top button.silver:hover {
+	border:0;
+	background:transparent url(/design/images/ask_ico.png) no-repeat left;
+	padding-left:16px;
+	padding-right:0;	
+	line-height:16px;
+}
+.catalog .on_top .comparison {
+	clear:none;
+}
+
+
+.catalog-detail.vert_design {
+	position:relative;	
+}
+.catalog-detail.vert_design .properties {
+	background:#f4f5f6;
+	position:absolute;
+	left:10px;
+	top:10px;
+	width:245px;
+	margin:0;
+}
+.catalog-detail.vert_design .properties h2 {
+	padding:10px;
+	font-size:16px;
+	font-weight:normal;
+	color:#fff;
+	background:#656565;	
+	margin-bottom:0;
+	line-height:1em;
+}
+.catalog-detail.vert_design .list ul li {
+	list-style:none;
+	text-indent:-10px;
+	padding-left:10px;
+	font-size:12px;
+	margin-bottom:5px;
+	margin-left:10px;
+	background:transparent;
+}
+.catalog-detail.vert_design .list ul li:before {
+	content:'■';
+	font-size:12px;
+	color:#c50000;	
+	position:relative;
+	left:-10px;
+}
+.catalog-detail.catalog.vert_design .properties .characteristics .chars, .catalog-detail.catalog.vert_design .properties .characteristics.with-price .chars {
+	height:auto;
+	border-bottom: 1px solid #d5d6d4;
+}
+.catalog-detail.vert_design table {
+	width:100%;
+}
+.catalog-detail.vert_design .even {
+	background:#f1f1f1;
+}
+.catalog-detail.vert_design .chars td {
+	border:0;
+	font-size:10px;
+	padding:3px;
+	text-align:left;	
+}
+.catalog-detail.vert_design .properties .characteristics .cost span.value {
+	font-size:20px;
+	line-height:40px;	
+	height:34px;
+}
+.catalog-detail.vert_design .chars .name {
+	width:80%;
+}
+.catalog-detail.vert_design .properties .form-button{
+	height:auto;
+	margin-bottom:10px;	
+}
+.catalog-detail.catalog.vert_design .properties .form-button button.left {
+	background:#D34045;
+	width:auto;
+	padding:5px 24px;
+	font-weight:normal;
+	font-size:16px;
+	border:none;
+}
+.catalog-detail.catalog.vert_design .properties .form-button button.left:hover {
+	background:#BD3F44;	
+}
+.catalog-detail.vert_design .properties .action {
+	margin-bottom:10px;
+}
+.catalog-detail.vert_design .properties .to_chars {
+	margin-left:20px;
+	margin-right:20px;
+	border-top: 1px solid #d5d6d4;	
+	color:#000;
+	padding-right:30px;	
+	position:relative;
+}
+.catalog-detail.vert_design .properties .to_chars:after {
+	content:'\25BC';
+	position:absolute;
+	top:4px;
+	right:20px;
+}
+.catalog-detail.vert_design .ppic {
+	width:auto;
+	float:none;
+	margin-bottom:25px;
+}
+.catalog-detail.vert_design .ppic img{
+	max-width:100%;
+	height:auto;	
+}
+.catalog-detail.vert_design #description h4
+.catalog-detail.vert_design .image-main img {
+	width:100%;
+}
+.catalog-detail.vert_design .image-main .full {
+	display:none;
+}
+.item_props h3 {
+	font-size:36px;
+	font-weight:normal;
+	line-height:1em;
+	margin-bottom:30px;
+}
+.item_props .group {
+	margin-bottom:30px;
+}
+.item_props .group_name {
+	font-size:14px;
+	text-transform:uppercase;
+	padding-left:3px;
+}
+.item_props .scroll-pane {
+	width:100%;
+	height:auto;	
+	padding:0 30px 0px 30px;
+}
+.item_props .scroll-pane table td {
+	border:0;
+	border-bottom:1px solid #ccc;
+	padding:17px 10px 17px 3px;
+	font-size:14px;
+}
+.item_props .scroll-pane .name {
+	width:70%;
+	text-align:left;
+	color:#353535;
+}
+.item_props .scroll-pane .value {
+	text-align:right;
+	color:#858585;
+}
+
+.item_props .scroll-pane table .even {
+	background:transparent;
+}
+.with_arrow {
+	padding-right:50px;
+	display:inline-block;
+	background:url(/design/images/long_arrow_r.png) right no-repeat;	
+	margin:10px 0 25px;
+	text-transform:uppercase;
+	font-size:14px;
+}
+.catalog-detail.vert_design .item-video .video {
+	border-radius:0;
+	box-shadow:none;
+	background:none;
+	border:none;	
+}
+.catalog-detail.vert_design .item-video .video .icon {
+	width:94px;
+	height:94px;
+	margin:-47px 0 0 -47px;
+	background:url(/design/images/video_ico.png) no-repeat;	
+}
+.catalog-detail.vert_design .item-video .video-overlay {
+	display:none;
+}
+.catalog-detail.vert_design h4 {
+	font-size:24px;
+	font-weight:normal;
+	margin-bottom:25px;	
+}
+.catalog-detail.vert_design .small_photos {
+	margin-bottom:25px;	
+}
+.sertificates {
+	margin:10px 0;
+}
+.sertificates li {
+	font-size:10px;	
+}
+.no-list li{
+	background:none!important;
+}
+.inline li {
+	float:left;
+	margin-right:20px;
+	padding:0 0 0 10px;	
+	
+}
+
+.catalog-detail.vert_design .hided {
+	text-transform:uppercase;
+	font-size:14px;
+	padding-left:25px;
+	line-height:60px;
+	background:url(/design/images/open_ico.png) no-repeat center left;
+	cursor:pointer;	
+}
+.catalog-detail.vert_design .hided.open {
+	background:transparent;	
+}
+.catalog-detail.vert_design #benefits .hided {
+	margin-left:-25px;	
+}
+.catalog-detail.vert_design  .sub_title, .catalog-detail.vert_design #description h4{
+	text-transform:uppercase;
+	font-size:14px;
+}
+.catalog-detail.vert_design #description p, .catalog-detail.vert_design #description li, .catalog-detail.vert_design .to_show, .catalog-detail.vert_design .hided   {
+	color:#999;
+}
+.catalog-detail.vert_design .to_show {
+	display:none;
+	margin-top:20px;
+}
+.pdf_ico {
+	background:url(/design/images/pdf_ico.png) no-repeat;
+	width:44px;
+	height:46px;
+	display:inline-block;
+	position:relative;
+	top:-18px;
+	margin-left:10px;
+}
+.pdf_ico:hover {
+	text-decoration:none;
+}
+
+.a-side .aside-block {
+	width:290px;
+	margin-left: -28px;
+	margin-top:25px;
+}
+.a-side  .title-block {
+	font-size:14px;
+	text-transform:uppercase;	
+}
+.a-side .related-propducts li {
+	padding-left:0;
+	float:left;	
+}
+.catalog-detail.vert_design .jcarousel {
+	width:100%!important;
+}
+
+.a-side .related-propducts li{
+	width:145px;
+}
+.a-side  .aside-block li img {
+	display:block;
+	margin:0 auto;
+}
+.a-side .aside-block button {
+	display:block;
+	float:left;
+	width:44px;
+	height:7px;
+	border:none;
+	border-radius:0;
+	margin:20px 20px 20px 0;	
+}
+.a-side .aside-block button.prev {
+	background:url(/design/images/long_arrow_l.png) no-repeat;
+}
+.a-side .aside-block button.next{
+	background:url(/design/images/long_arrow_r.png) no-repeat;
+}
+.a-side .aside-block button.disabled {
+	opacity:0.4;	
+}

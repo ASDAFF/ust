@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409906090>
+    <timestamp>05.09.2014 12:34:50</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409906090>
+  <logInfo1409906096>
+    <timestamp>05.09.2014 12:34:56</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/ekskavatory-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409906096>
+  <logInfo1409907501>
+    <timestamp>05.09.2014 12:58:21</timestamp>
+    <webpage>http://u-st.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409907501>
+  <logInfo1409907508>
+    <timestamp>05.09.2014 12:58:28</timestamp>
+    <webpage>http://u-st.ru/filialy/petrozavodsk/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409907508>
+  <logInfo1409907539>
+    <timestamp>05.09.2014 12:58:59</timestamp>
+    <webpage>http://u-st.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409907539>
+  <logInfo1409907565>
+    <timestamp>05.09.2014 12:59:25</timestamp>
+    <webpage>http://u-st.ru/filialy/vladimir/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409907565>
+  <logInfo1409907574>
+    <timestamp>05.09.2014 12:59:34</timestamp>
+    <webpage>http://u-st.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409907574>
+  <logInfo1409920829>
+    <timestamp>05.09.2014 16:40:29</timestamp>
+    <webpage>http://u-st.ru/catalog/ekskavatory/ekskavator-john-deere-e-210lc/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409920829>
+  <logInfo1409920830>
+    <timestamp>05.09.2014 16:40:30</timestamp>
+    <webpage>http://u-st.ru/catalog/ekskavatory/ekskavator-john-deere-e-210lc/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409920830>
+</root>

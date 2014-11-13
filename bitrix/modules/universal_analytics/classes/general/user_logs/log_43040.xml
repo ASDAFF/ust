@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1410285699>
+    <timestamp>09.09.2014 22:01:39</timestamp>
+    <webpage>http://u-st.ru/catalog/asfaltoukladchiki/asfaltoukladchik-gusenichnyy-ammann-aft-350/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410285699>
+  <logInfo1410286480>
+    <timestamp>09.09.2014 22:14:40</timestamp>
+    <webpage>http://u-st.ru/catalog/katki/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410286480>
+  <logInfo1410286629>
+    <timestamp>09.09.2014 22:17:09</timestamp>
+    <webpage>http://u-st.ru/catalog/katki/?PAGEN_3=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410286629>
+  <logInfo1410287202>
+    <timestamp>09.09.2014 22:26:42</timestamp>
+    <webpage>http://u-st.ru/catalog/katki/?PAGEN_3=6</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410287202>
+  <logInfo1410287316>
+    <timestamp>09.09.2014 22:28:36</timestamp>
+    <webpage>http://ust-co.ru/%CA%E0%F2%EA%E8%20Ammann</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1410287316>
+</root>

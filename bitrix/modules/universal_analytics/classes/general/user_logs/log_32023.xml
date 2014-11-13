@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409826701>
+    <timestamp>04.09.2014 14:31:41</timestamp>
+    <webpage>http://ust-co.ru/servis/remont-i-vosstanovlenie/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409826701>
+  <logInfo1409826703>
+    <timestamp>04.09.2014 14:31:43</timestamp>
+    <webpage>http://ust-co.ru/design/img/css/transparent.png</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409826703>
+  <logInfo1409831415>
+    <timestamp>04.09.2014 15:50:15</timestamp>
+    <webpage>http://ust-co.ru/servis/remont-i-vosstanovlenie/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409831415>
+  <logInfo1409831417>
+    <timestamp>04.09.2014 15:50:17</timestamp>
+    <webpage>http://ust-co.ru/design/img/css/transparent.png</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409831417>
+</root>

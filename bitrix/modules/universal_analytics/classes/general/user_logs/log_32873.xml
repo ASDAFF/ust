@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409850867>
+    <timestamp>04.09.2014 21:14:27</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409850867>
+  <logInfo1409851594>
+    <timestamp>04.09.2014 21:26:34</timestamp>
+    <webpage>http://u-st.ru/catalog/mobilnye-krany/filter/brand-manitowoc/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409851594>
+  <logInfo1409851600>
+    <timestamp>04.09.2014 21:26:40</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409851600>
+  <logInfo1409851608>
+    <timestamp>04.09.2014 21:26:48</timestamp>
+    <webpage>http://u-st.ru/catalog/podemniki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409851608>
+  <logInfo1409851627>
+    <timestamp>04.09.2014 21:27:07</timestamp>
+    <webpage>http://u-st.ru/catalog/podemniki/?PAGEN_3=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409851627>
+  <logInfo1409851628>
+    <timestamp>04.09.2014 21:27:08</timestamp>
+    <webpage>http://u-st.ru/catalog/podemniki/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409851628>
+  <logInfo1409851661>
+    <timestamp>04.09.2014 21:27:41</timestamp>
+    <webpage>http://u-st.ru/catalog/podemniki/kolenchatyy-podemnik-samokhodnyy-manitou-200-atj/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409851661>
+</root>

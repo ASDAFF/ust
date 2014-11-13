@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409809685>
+    <timestamp>04.09.2014 09:48:05</timestamp>
+    <webpage>http://ust-co.ru/catalog/mnogokhodovye-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409809685>
+  <logInfo1409809691>
+    <timestamp>04.09.2014 09:48:11</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409809691>
+  <logInfo1409809698>
+    <timestamp>04.09.2014 09:48:18</timestamp>
+    <webpage>http://ust-co.ru/catalog/vilochnye-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409809698>
+  <logInfo1409809750>
+    <timestamp>04.09.2014 09:49:10</timestamp>
+    <webpage>http://ust-co.ru/catalog/vilochnye-pogruzchiki/filter/pto_tip_privoda-dizel/pto_nominalnaya_g_p-from-2291-to-3220/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409809750>
+  <logInfo1409809774>
+    <timestamp>04.09.2014 09:49:34</timestamp>
+    <webpage>http://ust-co.ru/catalog/vilochnye-pogruzchiki/avtopogruzchiki-yale-gdp30tk/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409809774>
+</root>

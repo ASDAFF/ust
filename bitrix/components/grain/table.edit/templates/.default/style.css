@@ -1,0 +1,12 @@
+table.grain-tables-table-edit { border: 1px solid #999999; border-collapse: collapse }
+table.grain-tables-table-edit td { padding: 4px !important; border: 1px solid #999999 !important }
+
+table.grain-tables-table-edit thead td { background-color: #EAEAEA }
+table.grain-tables-table-edit thead td span.grain-tables-table-edit-star-required { color: red }
+table.grain-tables-table-edit thead div.grain-tables-table-edit-tooltip { font-size: 0.8em }
+
+table.grain-tables-table-edit tbody tr.grain-tables-table-edit-row-drag td { background-color: #E2E2E2 }
+
+table.grain-tables-table-edit tfoot a { text-decoration: none }
+table.grain-tables-table-edit tfoot a img { vertical-align: middle }
+table.grain-tables-table-edit tfoot a span { text-decoration: underline }

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409905666>
+    <timestamp>05.09.2014 12:27:46</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409905666>
+  <logInfo1409905693>
+    <timestamp>05.09.2014 12:28:13</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/filter/brand-nissan/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409905693>
+  <logInfo1409906012>
+    <timestamp>05.09.2014 12:33:32</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/filter/max_weight-from-1879-to-4166/brand-nissan/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409906012>
+  <logInfo1409906033>
+    <timestamp>05.09.2014 12:33:53</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/nissan_pl02a25w_bu13f11045/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409906033>
+  <logInfo1409906040>
+    <timestamp>05.09.2014 12:34:00</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/filter/max_weight-from-1879-to-4166/brand-nissan/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409906040>
+</root>

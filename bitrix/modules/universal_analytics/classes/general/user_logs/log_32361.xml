@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409832706>
+    <timestamp>04.09.2014 16:11:46</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409832706>
+  <logInfo1409832727>
+    <timestamp>04.09.2014 16:12:07</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409832727>
+  <logInfo1409832733>
+    <timestamp>04.09.2014 16:12:13</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/?PAGEN_3=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409832733>
+  <logInfo1409832756>
+    <timestamp>04.09.2014 16:12:36</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/?PAGEN_3=4</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409832756>
+  <logInfo1409832778>
+    <timestamp>04.09.2014 16:12:58</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/?PAGEN_3=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409832778>
+  <logInfo1409832804>
+    <timestamp>04.09.2014 16:13:24</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/telezhka-s-vesami-unilift-2/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409832804>
+  <logInfo1409833503>
+    <timestamp>04.09.2014 16:25:03</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409833503>
+  <logInfo1409833538>
+    <timestamp>04.09.2014 16:25:38</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/?quantity=10000</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409833538>
+  <logInfo1409833552>
+    <timestamp>04.09.2014 16:25:52</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409833552>
+</root>

@@ -1,0 +1,33 @@
+div.prop_div
+{
+	font-size: 16px;
+}
+
+div.prop_div div.group_title
+{
+	margin: 10px 0 5px;
+	font-weight: bold;
+}
+
+div.prop_div ul li
+{
+	line-height: 28px;
+	border-top: 1px solid #dddddd;
+	list-style-type: none;
+}
+
+div.prop_div ul li span.value
+{
+	font-size: 16px;
+	float: right;
+}
+
+div.prop_div ul li:before
+{
+	content: none;
+}
+
+div.prop_div div.clear
+{
+	clear: both;
+}

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409924688>
+    <timestamp>05.09.2014 17:44:48</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/novosti/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409924688>
+  <logInfo1409924717>
+    <timestamp>05.09.2014 17:45:17</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/novosti/?PAGEN_1=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409924717>
+  <logInfo1409924743>
+    <timestamp>05.09.2014 17:45:43</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/novosti/?PAGEN_1=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409924743>
+  <logInfo1409924775>
+    <timestamp>05.09.2014 17:46:15</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/novosti/?PAGEN_1=4</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409924775>
+  <logInfo1409924800>
+    <timestamp>05.09.2014 17:46:40</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/novosti/skladskaya-tekhnika/pochetnaya-nagrada-combilift/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409924800>
+  <logInfo1409924816>
+    <timestamp>05.09.2014 17:46:56</timestamp>
+    <webpage>http://ust-co.ru/catalog/skladskaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409924816>
+  <logInfo1409924828>
+    <timestamp>05.09.2014 17:47:08</timestamp>
+    <webpage>http://ust-co.ru/catalog/skladskaya-tekhnika/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409924828>
+  <logInfo1409924864>
+    <timestamp>05.09.2014 17:47:44</timestamp>
+    <webpage>http://ust-co.ru/ajax/filter_new.php</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409924864>
+  <logInfo1409924865>
+    <timestamp>05.09.2014 17:47:45</timestamp>
+    <webpage>http://ust-co.ru/catalog/skladskaya-tekhnika/?PAGEN_3=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409924865>
+  <logInfo1409924866>
+    <timestamp>05.09.2014 17:47:46</timestamp>
+    <webpage>http://ust-co.ru/ajax/filter_new.php</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409924866>
+  <logInfo1409924867>
+    <timestamp>05.09.2014 17:47:47</timestamp>
+    <webpage>http://ust-co.ru/catalog/skladskaya-tekhnika/?PAGEN_3=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409924867>
+</root>

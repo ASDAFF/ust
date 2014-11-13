@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409809604>
+    <timestamp>04.09.2014 09:46:44</timestamp>
+    <webpage>http://ust-co.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409809604>
+  <logInfo1409809611>
+    <timestamp>04.09.2014 09:46:51</timestamp>
+    <webpage>http://ust-co.ru/filialy/kursk/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409809611>
+  <logInfo1409809651>
+    <timestamp>04.09.2014 09:47:31</timestamp>
+    <webpage>http://ust-co.ru/dilery-skladskoj-tehniki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409809651>
+  <logInfo1409809669>
+    <timestamp>04.09.2014 09:47:49</timestamp>
+    <webpage>http://ust-co.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409809669>
+  <logInfo1409809677>
+    <timestamp>04.09.2014 09:47:57</timestamp>
+    <webpage>http://ust-co.ru/filialy/orel/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409809677>
+</root>

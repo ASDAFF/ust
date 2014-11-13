@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1410272873>
+    <timestamp>09.09.2014 18:27:53</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410272873>
+  <logInfo1410272874>
+    <timestamp>09.09.2014 18:27:54</timestamp>
+    <webpage>http://ust-co.ru/design/img/css/transparent.png</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1410272874>
+  <logInfo1410272876>
+    <timestamp>09.09.2014 18:27:56</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410272876>
+</root>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409921190>
+    <timestamp>05.09.2014 16:46:30</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409921190>
+  <logInfo1409921201>
+    <timestamp>05.09.2014 16:46:41</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409921201>
+  <logInfo1409921215>
+    <timestamp>05.09.2014 16:46:55</timestamp>
+    <webpage>http://generatory.ust-co.ru/catalog/generatory/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409921215>
+  <logInfo1409921251>
+    <timestamp>05.09.2014 16:47:31</timestamp>
+    <webpage>http://generatory.ust-co.ru/catalog/generatory/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409921251>
+  <logInfo1409921255>
+    <timestamp>05.09.2014 16:47:35</timestamp>
+    <webpage>http://generatory.ust-co.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409921255>
+  <logInfo1409921262>
+    <timestamp>05.09.2014 16:47:42</timestamp>
+    <webpage>http://generatory.ust-co.ru/filialy/rostov-on-don/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409921262>
+</root>

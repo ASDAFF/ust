@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409819590>
+    <timestamp>04.09.2014 12:33:10</timestamp>
+    <webpage>http://u-st.ru/akcii/finansovye-predlozheniya/otdaem-za-poltseny/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409819590>
+  <logInfo1409819605>
+    <timestamp>04.09.2014 12:33:25</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409819605>
+  <logInfo1409819631>
+    <timestamp>04.09.2014 12:33:51</timestamp>
+    <webpage>http://u-st.ru/ajax/filter_new.php</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409819631>
+  <logInfo1409819636>
+    <timestamp>04.09.2014 12:33:56</timestamp>
+    <webpage>http://u-st.ru/catalog/ekskavatory/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409819636>
+  <logInfo1409819650>
+    <timestamp>04.09.2014 12:34:10</timestamp>
+    <webpage>http://u-st.ru/catalog/ekskavatory/ekskavator-john-deere-e-210lc/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409819650>
+  <logInfo1409819694>
+    <timestamp>04.09.2014 12:34:54</timestamp>
+    <webpage>http://ust-co.ru/%D0%AD%D0%BA%D1%81%D0%BA%D0%B0%D0%B2%D0%B0%D1%82%D0%BE%D1%80%D1%8B%20John%20Deere</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409819694>
+  <logInfo1409819798>
+    <timestamp>04.09.2014 12:36:38</timestamp>
+    <webpage>http://u-st.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409819798>
+  <logInfo1409819807>
+    <timestamp>04.09.2014 12:36:47</timestamp>
+    <webpage>http://u-st.ru/filialy/moscow/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409819807>
+  <logInfo1409819835>
+    <timestamp>04.09.2014 12:37:15</timestamp>
+    <webpage>http://u-st.ru/catalog/mini-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409819835>
+</root>

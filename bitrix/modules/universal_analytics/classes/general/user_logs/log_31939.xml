@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409825243>
+    <timestamp>04.09.2014 14:07:23</timestamp>
+    <webpage>http://u-st.ru/catalog/kolesnye-krany/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409825243>
+  <logInfo1409825254>
+    <timestamp>04.09.2014 14:07:34</timestamp>
+    <webpage>http://u-st.ru/akcii/stroitelnaya-tekhnika/poprobuy-i-kupi-lyubaya-tekhnika-v-arendu-s-vykupom/</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409825254>
+  <logInfo1409825261>
+    <timestamp>04.09.2014 14:07:41</timestamp>
+    <webpage>http://u-st.ru/catalog/kolesnye-krany/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409825261>
+  <logInfo1409825276>
+    <timestamp>04.09.2014 14:07:56</timestamp>
+    <webpage>http://u-st.ru/catalog/kolesnye-krany/?quantity=10000</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409825276>
+  <logInfo1409825298>
+    <timestamp>04.09.2014 14:08:18</timestamp>
+    <webpage>http://u-st.ru/arenda/stroitelnaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409825298>
+  <logInfo1409825305>
+    <timestamp>04.09.2014 14:08:25</timestamp>
+    <webpage>http://u-st.ru/arenda/mini-pogruzchik-s-bortovym-povorotom/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409825305>
+  <logInfo1409825310>
+    <timestamp>04.09.2014 14:08:30</timestamp>
+    <webpage>http://u-st.ru/arenda/stroitelnaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409825310>
+  <logInfo1409825324>
+    <timestamp>04.09.2014 14:08:44</timestamp>
+    <webpage>http://ust-co.ru/arenda/skladskaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409825324>
+  <logInfo1409825354>
+    <timestamp>04.09.2014 14:09:14</timestamp>
+    <webpage>http://u-st.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409825354>
+</root>

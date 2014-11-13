@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1410259512>
+    <timestamp>09.09.2014 14:45:12</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410259512>
+  <logInfo1410259559>
+    <timestamp>09.09.2014 14:45:59</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410259559>
+  <logInfo1410259687>
+    <timestamp>09.09.2014 14:48:07</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/kontakty/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410259687>
+  <logInfo1410259784>
+    <timestamp>09.09.2014 14:49:44</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/otzyvy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410259784>
+</root>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409824015>
+    <timestamp>04.09.2014 13:46:55</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409824015>
+  <logInfo1409826088>
+    <timestamp>04.09.2014 14:21:28</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409826088>
+  <logInfo1409826121>
+    <timestamp>04.09.2014 14:22:01</timestamp>
+    <webpage>http://ust-co.ru/ajax/filter_new.php</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409826121>
+  <logInfo1409826140>
+    <timestamp>04.09.2014 14:22:20</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/bu_shtabeler_elektricheskiy/filter/city-moskva/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409826140>
+</root>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1410262878>
+    <timestamp>09.09.2014 15:41:18</timestamp>
+    <webpage>http://ust-co.ru/catalog/skladskaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410262878>
+  <logInfo1410262880>
+    <timestamp>09.09.2014 15:41:20</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/filter/brand-unilift/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410262880>
+  <logInfo1410262884>
+    <timestamp>09.09.2014 15:41:24</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410262884>
+  <logInfo1410262900>
+    <timestamp>09.09.2014 15:41:40</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/filter/brand-unilift/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410262900>
+  <logInfo1410262914>
+    <timestamp>09.09.2014 15:41:54</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/filter/brand-unilift/?PAGEN_3=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410262914>
+  <logInfo1410262938>
+    <timestamp>09.09.2014 15:42:18</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/filter/brand-unilift/?PAGEN_3=4</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410262938>
+  <logInfo1410263070>
+    <timestamp>09.09.2014 15:44:30</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/filter/brand-unilift/?PAGEN_3=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410263070>
+  <logInfo1410263083>
+    <timestamp>09.09.2014 15:44:43</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/filter/brand-unilift/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410263083>
+  <logInfo1410263094>
+    <timestamp>09.09.2014 15:44:54</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/filter/brand-unilift/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410263094>
+  <logInfo1410263102>
+    <timestamp>09.09.2014 15:45:02</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-shtabelery/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410263102>
+  <logInfo1410263124>
+    <timestamp>09.09.2014 15:45:24</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-shtabelery/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410263124>
+  <logInfo1410263136>
+    <timestamp>09.09.2014 15:45:36</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-shtabelery/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410263136>
+</root>

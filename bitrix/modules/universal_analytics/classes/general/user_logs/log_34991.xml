@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409921253>
+    <timestamp>05.09.2014 16:47:33</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409921253>
+  <logInfo1409921265>
+    <timestamp>05.09.2014 16:47:45</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409921265>
+  <logInfo1409921271>
+    <timestamp>05.09.2014 16:47:51</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/?PAGEN_3=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409921271>
+  <logInfo1409921281>
+    <timestamp>05.09.2014 16:48:01</timestamp>
+    <webpage>http://u-st.ru/ajax/filter_new.php</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409921281>
+  <logInfo1409921286>
+    <timestamp>05.09.2014 16:48:06</timestamp>
+    <webpage>http://ust-co.ru/catalog/skladskaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409921286>
+  <logInfo1409921313>
+    <timestamp>05.09.2014 16:48:33</timestamp>
+    <webpage>http://ust-co.ru/ajax/filter_new.php</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409921313>
+  <logInfo1409921328>
+    <timestamp>05.09.2014 16:48:48</timestamp>
+    <webpage>http://ust-co.ru/catalog/uzkoprokhodnye-shtabelery/filter/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409921328>
+  <logInfo1409921361>
+    <timestamp>05.09.2014 16:49:21</timestamp>
+    <webpage>http://ust-co.ru/poisk/?q=%D1%88%D1%82%D0%B0%D0%B1%D0%B5%D0%BB%D0%B5%D1%80+%D0%B3%D0%B8%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D1%80%D1%83%D1%87%D0%BD%D0%BE%D0%B9</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409921361>
+  <logInfo1409921377>
+    <timestamp>05.09.2014 16:49:37</timestamp>
+    <webpage>http://ust-co.ru/poisk/?q=%D1%88%D1%82%D0%B0%D0%B1%D0%B5%D0%BB%D0%B5%D1%80+%D0%B3%D0%B8%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D1%80%D1%83%D1%87%D0%BD%D0%BE%D0%B9&amp;where=&amp;how=r</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409921377>
+  <logInfo1409921381>
+    <timestamp>05.09.2014 16:49:41</timestamp>
+    <webpage>http://ust-co.ru/poisk/?q=%D1%88%D1%82%D0%B0%D0%B1%D0%B5%D0%BB%D0%B5%D1%80+%D0%B3%D0%B8%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D1%80%D1%83%D1%87%D0%BD%D0%BE%D0%B9</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409921381>
+  <logInfo1409921387>
+    <timestamp>05.09.2014 16:49:47</timestamp>
+    <webpage>http://ust-co.ru/catalog/uzkoprokhodnye-shtabelery/filter/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409921387>
+  <logInfo1409921410>
+    <timestamp>05.09.2014 16:50:10</timestamp>
+    <webpage>http://ust-co.ru/ajax/filter_new.php</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409921410>
+  <logInfo1409921415>
+    <timestamp>05.09.2014 16:50:15</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-shtabelery/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409921415>
+  <logInfo1409921432>
+    <timestamp>05.09.2014 16:50:32</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-shtabelery/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409921432>
+</root>

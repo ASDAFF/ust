@@ -1,0 +1,28 @@
+.price_btn {
+	display:inline-block !important;
+}
+a.price_btn {
+	margin-left: 20px;
+}
+.add_files {
+    display: inline-block;
+    padding: 5px 5px;
+	color:#999999;
+	text-decoration:underline;
+}
+.add_files:before {
+    background-image: url("../../../../../../../../../../design/images/pdf.jpg");
+    content: "";
+    display: inline-block;
+    height: 22px;
+    left: -5px;
+    position: relative;
+    top: 5px;
+    width: 22px;
+}
+.date > span {
+    white-space: normal;
+}
+.actions-page .action-top .action-timer {
+    padding-top: 55px;
+}

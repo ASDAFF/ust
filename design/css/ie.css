@@ -1,0 +1,36 @@
+input[type="text"],
+textarea {
+    color: #24272C !important;
+}
+input[type="text"].placeholder,
+textarea.placeholder {
+    color: #919294 !important;
+}
+input[type="text"].error,
+textarea.error {
+    color: #CF1C22 !important;
+}
+.nav-hover-popup {
+	zoom: 1;
+	background: url(../img/css/transparent.png) repeat scroll 0 0 transparent;
+}
+nav {
+	position: relative;
+	zoom: 1;
+}
+nav ul {
+	zoom: 1;
+}
+nav ul li {
+	z-index: 10;
+	zoom: 1;
+}
+.actions-slider {
+	position: relative;
+}
+.karera-page .tooltip .title {
+	margin-bottom: 25px;
+}
+.navesnoe-menu .bx_catalog_line_title a {
+	padding:0 9px;	
+}

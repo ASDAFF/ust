@@ -1,0 +1,45 @@
+Array
+(
+    [UNIQUE_ID] => U48bI1tqz3EAABz6DuAAAAAL
+    [GEOIP_ADDR] => 66.249.78.66
+    [GEOIP_CONTINENT_CODE] => NA
+    [GEOIP_COUNTRY_CODE] => US
+    [GEOIP_COUNTRY_NAME] => United States
+    [REMOTE_USER] => 
+    [HTTP_HOST] => ust-co.ru
+    [HTTP_X_FORWARDED_FOR] => 66.249.78.66
+    [HTTP_X_SERVER_ADDR] => 91.106.207.114
+    [HTTP_X_REAL_IP] => 66.249.78.66
+    [HTTP_COOKIE] => PHPSESSID=8098c51ac3b808deb81d90b409b05507; KEYSSID=8098c51ac3b808deb81d90b409b05507
+    [HTTP_ACCEPT] => */*
+    [HTTP_FROM] => googlebot(at)googlebot.com
+    [HTTP_USER_AGENT] => Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.2.25-8-beget (Unix) Server at ust-co.ru Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.2.25-8-beget (Unix)
+    [SERVER_NAME] => ust-co.ru
+    [SERVER_ADDR] => 91.106.207.114
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 66.249.78.66
+    [DOCUMENT_ROOT] => /home/u/unispec/unispec.bget.ru/public_html
+    [SERVER_ADMIN] => webmaster@ust-co.ru
+    [SCRIPT_FILENAME] => /home/u/unispec/unispec.bget.ru/public_html/catalog/bu-skladskaya-tehnika/index.php
+    [REMOTE_PORT] => 62889
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => quantity=12&PAGEN_13=5?KEYSSID=63327707f698e60e6c7857c4177e4a81?KEYSSID=06f668ccff238570f3537f1e99664341?KEYSSID=5018b2deb249fc659d12eb7242b57051?KEYSSID=96c4abaa749e9fbea01dc2daee7c1dd5?KEYSSID=a95ce1df93ece423c4014d453c049d2e?KEYSSID=c1d01e2953f060f4863cfcf704d2554e?KEYSSID=8d7253cef3fa783d75402da4d667d7c8?KEYSSID=05eaa5ec35ceec7c0e69c471213c4912?KEYSSID=67a64c24e82b8fd9be4f89ad60fbf03e?KEYSSID=8098c51ac3b808deb81d90b409b05507
+    [REQUEST_URI] => /catalog/bu-skladskaya-tehnika/?quantity=12&PAGEN_13=5?KEYSSID=63327707f698e60e6c7857c4177e4a81?KEYSSID=06f668ccff238570f3537f1e99664341?KEYSSID=5018b2deb249fc659d12eb7242b57051?KEYSSID=96c4abaa749e9fbea01dc2daee7c1dd5?KEYSSID=a95ce1df93ece423c4014d453c049d2e?KEYSSID=c1d01e2953f060f4863cfcf704d2554e?KEYSSID=8d7253cef3fa783d75402da4d667d7c8?KEYSSID=05eaa5ec35ceec7c0e69c471213c4912?KEYSSID=67a64c24e82b8fd9be4f89ad60fbf03e?KEYSSID=8098c51ac3b808deb81d90b409b05507
+    [SCRIPT_NAME] => /catalog/bu-skladskaya-tehnika/index.php
+    [PHP_SELF] => /catalog/bu-skladskaya-tehnika/index.php
+    [REQUEST_TIME_FLOAT] => 1401887523.33
+    [REQUEST_TIME] => 1401887523
+    [argv] => Array
+        (
+            [0] => quantity=12&PAGEN_13=5?KEYSSID=63327707f698e60e6c7857c4177e4a81?KEYSSID=06f668ccff238570f3537f1e99664341?KEYSSID=5018b2deb249fc659d12eb7242b57051?KEYSSID=96c4abaa749e9fbea01dc2daee7c1dd5?KEYSSID=a95ce1df93ece423c4014d453c049d2e?KEYSSID=c1d01e2953f060f4863cfcf704d2554e?KEYSSID=8d7253cef3fa783d75402da4d667d7c8?KEYSSID=05eaa5ec35ceec7c0e69c471213c4912?KEYSSID=67a64c24e82b8fd9be4f89ad60fbf03e?KEYSSID=8098c51ac3b808deb81d90b409b05507
+        )
+
+    [argc] => 1
+)

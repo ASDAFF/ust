@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409906496>
+    <timestamp>05.09.2014 12:41:36</timestamp>
+    <webpage>http://ust-co.ru/ajax/filter_new.php</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409906496>
+  <logInfo1409906561>
+    <timestamp>05.09.2014 12:42:41</timestamp>
+    <webpage>http://ust-co.ru/catalog/elektricheskie-shtabelery/?quantity=10000</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409906561>
+  <logInfo1409906603>
+    <timestamp>05.09.2014 12:43:23</timestamp>
+    <webpage>http://ust-co.ru/catalog/elektricheskie-shtabelery/shtabeler-yale-ms12s/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409906603>
+  <logInfo1409906631>
+    <timestamp>05.09.2014 12:43:51</timestamp>
+    <webpage>http://ust-co.ru/catalog/elektricheskie-shtabelery/?quantity=10000</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409906631>
+</root>

@@ -1,0 +1,60 @@
+a.silver, button, button.silver {
+	line-height: 22px; 
+}
+header .links {
+	width: 244px;
+}
+header .phones .region-change {
+	float: none;
+}
+.top-nav .search {
+	width: 268px;
+}
+.top-nav .lang a {
+	zoom: 1;
+}
+.index-slider .text-plate .logos {
+	height: 73px;
+}
+.last-news {
+	position: relative;
+	zoom: 1;
+}
+.index-main-plate .site-descr .show-more {
+	zoom: 1;
+}
+.body {
+	z-index: 10;
+}
+footer .foot-bot {
+	height: 17px;
+}
+.foot-top .top-line {
+	height: 52px;
+	padding-bottom: 15px;
+}
+.foot-top .top-line .phone .hint a {
+	zoom: 1;
+}
+.up-button {
+	left: 0;
+}
+.main-wrapper {
+	position: relative;
+	overflow: hidden;
+}
+.foot-top .navs .sitemap .expanded li a span {
+	border-bottom: 2px solid #c7c7c8;
+}
+.foot-top .navs .sitemap .expanded li a span:hover {
+	border-bottom-color: transparent;
+}
+.index-slider .text-plate .logos .page {
+	zoom: 1;
+}
+.nivo-controlNav {
+	zoom: 1;
+}
+.karera-page .tooltip .title  {
+	margin-bottom: 34px;
+}

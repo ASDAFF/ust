@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1410275184>
+    <timestamp>09.09.2014 19:06:24</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410275184>
+  <logInfo1410275209>
+    <timestamp>09.09.2014 19:06:49</timestamp>
+    <webpage>http://ust-co.ru/ajax/filter_new.php</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410275209>
+  <logInfo1410275241>
+    <timestamp>09.09.2014 19:07:21</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/bu_vilochnyy_pogruzchik_benzin/filter/city-moskva/kpp-akpp/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410275241>
+  <logInfo1410275264>
+    <timestamp>09.09.2014 19:07:44</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/bu_vilochnyy_pogruzchik_benzin/filter/city-moskva/kpp-akpp/?PAGEN_2=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410275264>
+  <logInfo1410275287>
+    <timestamp>09.09.2014 19:08:07</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/bu_vilochnyy_pogruzchik_benzin/tcm_fhg15t3_bu14ya11450/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410275287>
+  <logInfo1410275676>
+    <timestamp>09.09.2014 19:14:36</timestamp>
+    <webpage>http://ust-co.ru/finansovye-uslugi/lizing/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410275676>
+  <logInfo1410275843>
+    <timestamp>09.09.2014 19:17:23</timestamp>
+    <webpage>http://ust-co.ru/finansovye-uslugi/specpredlozheniya/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410275843>
+</root>

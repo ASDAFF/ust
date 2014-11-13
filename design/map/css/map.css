@@ -1,0 +1,61 @@
+/* map styles start */
+#map{width: 100%;}
+.hide{display: none;}
+.offices-map, .dealers-map {
+	list-style: none;
+	padding: 0;
+	margin: 0 auto;
+	position: relative;
+	font: 11px Verdana, Arial, Helvetica, sans-serif;
+	color: #464445;
+}
+/* areas list styles start */
+.areas-list{
+	position: relative;
+	z-index: 10;
+}
+.areas-list .overlay{
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+/* areas list styles end */
+/* offices map styles start */
+.offices-map{
+	background: url(../images/map.png) no-repeat;
+	width: 693px;
+	height: 479px;
+	position: relative;
+}
+.offices-map .regions-list ul,
+.offices-map .cities-list ul,
+.offices-map .dots-list ul,
+.offices-map .areas-list ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	font: 11px Verdana, Arial, Helvetica, sans-serif;
+	color: #464445;
+}
+/* offices map styles end */
+/* dealers list styles start */
+.dealers-map{
+	background: url(../images/map.png) no-repeat 0 -520px;
+	width: 726px;
+	height: 434px;
+	position: relative;
+}
+.dealers-map .regions-list ul,
+.dealers-map .cities-list ul,
+.dealers-map .dots-list ul,
+.offices-map .areas-list ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	font: 11px Verdana, Arial, Helvetica, sans-serif;
+	color: #464445;
+}
+/* dealers list styles end */
+/* map styles end */

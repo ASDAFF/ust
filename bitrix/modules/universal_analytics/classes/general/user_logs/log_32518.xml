@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409835757>
+    <timestamp>04.09.2014 17:02:37</timestamp>
+    <webpage>http://ust-co.ru/poisk/?q=MT-X</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409835757>
+  <logInfo1409835772>
+    <timestamp>04.09.2014 17:02:52</timestamp>
+    <webpage>http://ust-co.ru/poisk/?q=MRT</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409835772>
+  <logInfo1409835780>
+    <timestamp>04.09.2014 17:03:00</timestamp>
+    <webpage>http://ust-co.ru/poisk/?q=MRT&amp;where=&amp;how=r</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409835780>
+  <logInfo1409835788>
+    <timestamp>04.09.2014 17:03:08</timestamp>
+    <webpage>http://ust-co.ru/poisk/?q=MT-X&amp;where=&amp;how=r</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409835788>
+  <logInfo1409835796>
+    <timestamp>04.09.2014 17:03:16</timestamp>
+    <webpage>http://ust-co.ru/poisk/?q=ATJ&amp;where=&amp;how=r</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409835796>
+  <logInfo1409835798>
+    <timestamp>04.09.2014 17:03:18</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409835798>
+  <logInfo1409835803>
+    <timestamp>04.09.2014 17:03:23</timestamp>
+    <webpage>http://ust-co.ru/poisk/?q=ATJ</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409835803>
+  <logInfo1409835807>
+    <timestamp>04.09.2014 17:03:27</timestamp>
+    <webpage>http://u-st.ru/catalog/mobilnye-krany/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409835807>
+  <logInfo1409835826>
+    <timestamp>04.09.2014 17:03:46</timestamp>
+    <webpage>http://u-st.ru/catalog/podemniki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409835826>
+  <logInfo1409835836>
+    <timestamp>04.09.2014 17:03:56</timestamp>
+    <webpage>http://u-st.ru/catalog/podemniki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409835836>
+  <logInfo1409835843>
+    <timestamp>04.09.2014 17:04:03</timestamp>
+    <webpage>http://u-st.ru/catalog/podemniki/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409835843>
+  <logInfo1409835848>
+    <timestamp>04.09.2014 17:04:08</timestamp>
+    <webpage>http://u-st.ru/catalog/podemniki/?PAGEN_3=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409835848>
+  <logInfo1409835885>
+    <timestamp>04.09.2014 17:04:45</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/filter/brand-manitou/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409835885>
+</root>

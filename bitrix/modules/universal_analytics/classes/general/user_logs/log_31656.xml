@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409820445>
+    <timestamp>04.09.2014 12:47:25</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409820445>
+  <logInfo1409820465>
+    <timestamp>04.09.2014 12:47:45</timestamp>
+    <webpage>http://ust-co.ru/catalog/vilochnye-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409820465>
+  <logInfo1409820502>
+    <timestamp>04.09.2014 12:48:22</timestamp>
+    <webpage>http://ust-co.ru/catalog/vilochnye-pogruzchiki/?quantity=12</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409820502>
+  <logInfo1409820754>
+    <timestamp>04.09.2014 12:52:34</timestamp>
+    <webpage>http://ust-co.ru/catalog/vilochnye-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409820754>
+</root>

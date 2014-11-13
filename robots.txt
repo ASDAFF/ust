@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: # empty Disallow instruction SHOULD be there
+Sitemap: http://betonnyj-zavod.ust-co.ru/sitemap_betonnyj_zavod.xml
+Sitemap: http://u-st.ru/sitemap_u_st.xml
+Sitemap: http://generatory.ust-co.ru/sitemap_generatory.xml

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1410086745>
+    <timestamp>07.09.2014 14:45:45</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410086745>
+  <logInfo1410086766>
+    <timestamp>07.09.2014 14:46:06</timestamp>
+    <webpage>http://ust-co.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410086766>
+  <logInfo1410086854>
+    <timestamp>07.09.2014 14:47:34</timestamp>
+    <webpage>http://ust-co.ru/filialy/petrozavodsk/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410086854>
+  <logInfo1410086882>
+    <timestamp>07.09.2014 14:48:02</timestamp>
+    <webpage>http://ust-co.ru/filialy/barnaul/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410086882>
+  <logInfo1410086905>
+    <timestamp>07.09.2014 14:48:25</timestamp>
+    <webpage>http://ust-co.ru/filialy/ekaterinburg/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410086905>
+</root>

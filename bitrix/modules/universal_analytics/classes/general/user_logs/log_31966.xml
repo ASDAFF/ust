@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409825684>
+    <timestamp>04.09.2014 14:14:44</timestamp>
+    <webpage>http://ust-co.ru/catalog/vilochnye-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409825684>
+  <logInfo1409825692>
+    <timestamp>04.09.2014 14:14:52</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409825692>
+  <logInfo1409825693>
+    <timestamp>04.09.2014 14:14:53</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409825693>
+  <logInfo1409825698>
+    <timestamp>04.09.2014 14:14:58</timestamp>
+    <webpage>http://ust-co.ru/apple-touch-icon-precomposed.png</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409825698>
+  <logInfo1409825699>
+    <timestamp>04.09.2014 14:14:59</timestamp>
+    <webpage>http://ust-co.ru/apple-touch-icon.png</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409825699>
+</root>

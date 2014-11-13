@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1410021808>
+    <timestamp>06.09.2014 20:43:28</timestamp>
+    <webpage>http://u-st.ru/catalog/podemniki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410021808>
+  <logInfo1410021921>
+    <timestamp>06.09.2014 20:45:21</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410021921>
+  <logInfo1410022087>
+    <timestamp>06.09.2014 20:48:07</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/?PAGEN_2=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410022087>
+  <logInfo1410022166>
+    <timestamp>06.09.2014 20:49:26</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/?PAGEN_2=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410022166>
+  <logInfo1410022288>
+    <timestamp>06.09.2014 20:51:28</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/?PAGEN_2=4</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410022288>
+  <logInfo1410022378>
+    <timestamp>06.09.2014 20:52:58</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/?PAGEN_2=5</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410022378>
+  <logInfo1410022460>
+    <timestamp>06.09.2014 20:54:20</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/?PAGEN_2=6</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410022460>
+  <logInfo1410022596>
+    <timestamp>06.09.2014 20:56:36</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/?PAGEN_2=7</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410022596>
+  <logInfo1410022688>
+    <timestamp>06.09.2014 20:58:08</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/?PAGEN_2=8</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410022688>
+</root>

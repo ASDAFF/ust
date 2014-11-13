@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409811722>
+    <timestamp>04.09.2014 10:22:02</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-shtabelery/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409811722>
+  <logInfo1409811734>
+    <timestamp>04.09.2014 10:22:14</timestamp>
+    <webpage>http://ust-co.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409811734>
+  <logInfo1409811924>
+    <timestamp>04.09.2014 10:25:24</timestamp>
+    <webpage>http://ust-co.ru/filialy/ryazan/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409811924>
+  <logInfo1409900711>
+    <timestamp>05.09.2014 11:05:11</timestamp>
+    <webpage>http://ust-co.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409900711>
+  <logInfo1409900720>
+    <timestamp>05.09.2014 11:05:20</timestamp>
+    <webpage>http://ust-co.ru/filialy/ryazan/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409900720>
+</root>

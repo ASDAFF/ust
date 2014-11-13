@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1410275345>
+    <timestamp>09.09.2014 19:09:05</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410275345>
+  <logInfo1410275355>
+    <timestamp>09.09.2014 19:09:15</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410275355>
+  <logInfo1410275359>
+    <timestamp>09.09.2014 19:09:19</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410275359>
+  <logInfo1410275381>
+    <timestamp>09.09.2014 19:09:41</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/?PAGEN_2=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410275381>
+  <logInfo1410275402>
+    <timestamp>09.09.2014 19:10:02</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/?PAGEN_2=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410275402>
+  <logInfo1410275422>
+    <timestamp>09.09.2014 19:10:22</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/?PAGEN_2=4</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410275422>
+</root>

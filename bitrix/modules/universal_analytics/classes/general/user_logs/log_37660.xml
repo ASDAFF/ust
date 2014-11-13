@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1410116145>
+    <timestamp>07.09.2014 22:55:45</timestamp>
+    <webpage>http://ust-co.ru/poisk/?q=%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410116145>
+  <logInfo1410116165>
+    <timestamp>07.09.2014 22:56:05</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410116165>
+  <logInfo1410116206>
+    <timestamp>07.09.2014 22:56:46</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410116206>
+  <logInfo1410116227>
+    <timestamp>07.09.2014 22:57:07</timestamp>
+    <webpage>http://ust-co.ru/poisk/?q=%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410116227>
+  <logInfo1410116233>
+    <timestamp>07.09.2014 22:57:13</timestamp>
+    <webpage>http://ust-co.ru/poisk/?q=%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8&amp;where=&amp;how=r</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410116233>
+  <logInfo1410116262>
+    <timestamp>07.09.2014 22:57:42</timestamp>
+    <webpage>http://ust-co.ru/partnery/grove/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410116262>
+</root>

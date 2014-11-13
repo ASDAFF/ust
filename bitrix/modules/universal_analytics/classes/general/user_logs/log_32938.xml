@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409856888>
+    <timestamp>04.09.2014 22:54:48</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409856888>
+  <logInfo1409946690>
+    <timestamp>05.09.2014 23:51:30</timestamp>
+    <webpage>http://ust-co.ru/catalog/vilochnye-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409946690>
+  <logInfo1409946721>
+    <timestamp>05.09.2014 23:52:01</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409946721>
+  <logInfo1410006290>
+    <timestamp>06.09.2014 16:24:50</timestamp>
+    <webpage>http://ust-co.ru/catalog/vilochnye-pogruzchiki/filter/pto_tip_privoda-elektricheskiy/?PAGEN_3=4</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410006290>
+</root>

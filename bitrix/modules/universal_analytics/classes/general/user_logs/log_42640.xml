@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1410267573>
+    <timestamp>09.09.2014 16:59:33</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410267573>
+  <logInfo1410267574>
+    <timestamp>09.09.2014 16:59:34</timestamp>
+    <webpage>http://ust-co.ru/design/img/css/transparent.png</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1410267574>
+  <logInfo1410267576>
+    <timestamp>09.09.2014 16:59:36</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410267576>
+  <logInfo1410267634>
+    <timestamp>09.09.2014 17:00:34</timestamp>
+    <webpage>http://ust-co.ru/filialy/kazan/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410267634>
+  <logInfo1410267688>
+    <timestamp>09.09.2014 17:01:28</timestamp>
+    <webpage>http://ust-co.ru/design/img/css/transparent.png</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1410267688>
+  <logInfo1410267690>
+    <timestamp>09.09.2014 17:01:30</timestamp>
+    <webpage>http://ust-co.ru/filialy/kazan/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410267690>
+</root>

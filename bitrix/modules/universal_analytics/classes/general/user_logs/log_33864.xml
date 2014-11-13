@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409901575>
+    <timestamp>05.09.2014 11:19:35</timestamp>
+    <webpage>http://ust-co.ru/servis/abonentskoe-obsluzhivanie/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409901575>
+  <logInfo1409901589>
+    <timestamp>05.09.2014 11:19:49</timestamp>
+    <webpage>http://ust-co.ru/catalog/skladskaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409901589>
+  <logInfo1409901595>
+    <timestamp>05.09.2014 11:19:55</timestamp>
+    <webpage>http://ust-co.ru/catalog/uzkoprokhodnye-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409901595>
+  <logInfo1409901627>
+    <timestamp>05.09.2014 11:20:27</timestamp>
+    <webpage>http://ust-co.ru/catalog/uzkoprokhodnye-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409901627>
+  <logInfo1409901635>
+    <timestamp>05.09.2014 11:20:35</timestamp>
+    <webpage>http://ust-co.ru/dilery-skladskoj-tehniki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409901635>
+  <logInfo1409901642>
+    <timestamp>05.09.2014 11:20:42</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409901642>
+</root>

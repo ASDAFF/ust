@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409835781>
+    <timestamp>04.09.2014 17:03:01</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409835781>
+  <logInfo1409835807>
+    <timestamp>04.09.2014 17:03:27</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/kontakty/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409835807>
+  <logInfo1409835825>
+    <timestamp>04.09.2014 17:03:45</timestamp>
+    <webpage>http://ust-co.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409835825>
+</root>

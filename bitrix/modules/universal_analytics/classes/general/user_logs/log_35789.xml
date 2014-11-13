@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409973675>
+    <timestamp>06.09.2014 07:21:15</timestamp>
+    <webpage>http://u-st.ru/catalog/ekskavatory/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409973675>
+  <logInfo1409973691>
+    <timestamp>06.09.2014 07:21:31</timestamp>
+    <webpage>http://ust-co.ru/%D0%AD%D0%BA%D1%81%D0%BA%D0%B0%D0%B2%D0%B0%D1%82%D0%BE%D1%80%D1%8B%20John%20Deere</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409973691>
+  <logInfo1409973748>
+    <timestamp>06.09.2014 07:22:28</timestamp>
+    <webpage>http://u-st.ru/ajax/filter_new.php</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409973748>
+  <logInfo1409973753>
+    <timestamp>06.09.2014 07:22:33</timestamp>
+    <webpage>http://u-st.ru/catalog/ekskavatory-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409973753>
+</root>

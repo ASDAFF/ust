@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409834740>
+    <timestamp>04.09.2014 16:45:40</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/karera/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409834740>
+  <logInfo1409834832>
+    <timestamp>04.09.2014 16:47:12</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/karera/?success=Y</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409834832>
+  <logInfo1409834833>
+    <timestamp>04.09.2014 16:47:13</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/karera/?success=Y</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409834833>
+  <logInfo1409834850>
+    <timestamp>04.09.2014 16:47:30</timestamp>
+    <webpage>http://ust-co.ru/filialy/moscow/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409834850>
+</root>

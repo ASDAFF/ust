@@ -1,0 +1,60 @@
+.filials img
+{
+    position: relative;
+}
+
+.filials.ico1 img
+{
+    top:7px;
+}
+
+.filials.ico2 img
+{
+    top:7px;
+}
+
+.filials.ico6 img
+{
+    top:5px;
+}
+
+ 
+.filials.ico7 img
+{
+    top:7px;
+}
+
+.filials.ico13 img
+{
+    top:5px;
+}
+
+.filials.ico14 img
+{
+    top:7px;
+}
+
+.filials.ico15 img
+{
+    top:3px;
+}
+
+.catalog-detail .interested-propducts #interested-propducts span.name, .catalog-detail .interested-propducts #looked-propducts span.name
+{
+    padding: 5px;
+}
+
+.contact.link
+{
+    cursor: pointer;
+}
+
+.contacts-page .contacts-left-col .phones
+{
+    width: 300px !important;
+    text-align: left;
+}
+.kombox-filter.navesnoe
+{
+    display:none;
+}

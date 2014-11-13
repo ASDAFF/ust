@@ -1,0 +1,1 @@
+<span class="locality">г. Москва,</span> <span class="street-address">ул. Новопоселковая, д.6, корп.40.</span>

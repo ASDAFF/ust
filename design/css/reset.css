@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+table {
+  border: none;
+  border-collapse: collapse;
+  width: 100%;
+}
+img {
+  border: 0;
+  vertical-align: top;
+}
+ul {
+  list-style: none;
+}
+html,
+body {
+  height: 100%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a {
+  text-decoration: none;
+  outline-style: none;
+}
+a:hover {
+  text-decoration: none;
+}
+input[type="text"],
+textarea,
+button,
+select,
+option {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

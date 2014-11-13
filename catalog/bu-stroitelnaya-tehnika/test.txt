@@ -1,0 +1,7 @@
+2Array
+(
+    [KEYSSID] => 17b23f755a6fca5530bab77c50dabe69
+    [PHPSESSID] => 17b23f755a6fca5530bab77c50dabe69
+    [BITRIX_SM_GUEST_ID] => 78048
+    [BITRIX_SM_LAST_VISIT] => 04.06.2014 17:36:59
+)

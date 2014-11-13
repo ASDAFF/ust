@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1410258023>
+    <timestamp>09.09.2014 14:20:23</timestamp>
+    <webpage>http://u-st.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410258023>
+  <logInfo1410258024>
+    <timestamp>09.09.2014 14:20:24</timestamp>
+    <webpage>http://u-st.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410258024>
+  <logInfo1410258055>
+    <timestamp>09.09.2014 14:20:55</timestamp>
+    <webpage>http://ust-co.ru/poisk/?q=%D0%BA%D0%BE%D0%BB%D0%B5%D1%81%D0%B0</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410258055>
+  <logInfo1410261088>
+    <timestamp>09.09.2014 15:11:28</timestamp>
+    <webpage>http://ust-co.ru/poisk/?q=%D0%BA%D0%BE%D0%BB%D0%B5%D1%81%D0%B0</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410261088>
+</root>

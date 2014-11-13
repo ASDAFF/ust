@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409805402>
+    <timestamp>04.09.2014 08:36:42</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409805402>
+  <logInfo1409805404>
+    <timestamp>04.09.2014 08:36:44</timestamp>
+    <webpage>http://ust-co.ru/design/img/css/transparent.png</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409805404>
+  <logInfo1409805405>
+    <timestamp>04.09.2014 08:36:45</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409805405>
+  <logInfo1409805411>
+    <timestamp>04.09.2014 08:36:51</timestamp>
+    <webpage>http://ust-co.ru/servis/?utm_source=yandex&amp;utm_medium=cpc&amp;utm_campaign=servis_dst&amp;utm_content=remont_ekskavatorov_hitachi</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409805411>
+  <logInfo1409805412>
+    <timestamp>04.09.2014 08:36:52</timestamp>
+    <webpage>http://ust-co.ru/servis/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409805412>
+</root>

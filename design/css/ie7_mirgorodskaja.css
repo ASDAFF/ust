@@ -1,0 +1,61 @@
+body {
+	overflow: auto;
+}
+hr {
+	height: 3px;
+	color: #ccc;
+	background-color: #ccc;
+	border: 0;
+}
+header .links {width: 280px;}
+#ie7 {background: #2E2E2E; padding: 1em; text-align: center; color: #A7A7A2;}
+#ie7 a, #ie7 a:hover, #ie7 a:visited {color: #6DB4C0;}
+input[type="text"], input[type="password"], textarea {
+	box-shadow: none !important;
+	border-radius: 0 !important;
+	border: 1px solid  #d1d1d1;
+	padding-top: 6px;
+	padding-bottom: 8px;
+}
+.action-top {display: block; zoom: 1; position: relative;}
+.action-top .action-timer {width: 276px; height: 209px; zoom: 1; position: relative;}
+.top-nav .search {width: 217px;}
+.bu-products .top-line {padding-bottom: 0px; }
+.border_gray {
+	position: relative; 
+	background: #FFFFFF;
+	border: 1px solid #e6e6e6;
+	border-radius: 0;
+	box-shadow: none;
+}
+/* О компании */
+.company-plate > div {
+	float: left;
+	position: relative;
+	display: block;
+	zoom: 1;
+}
+.company-plate .counters {
+	width: 243px;
+}
+.tooltip .line [type="submit"], .tooltip input[type="text"], .tooltip textarea {
+	float: none;
+	display: block;
+	position: relative;
+	zoom: 1;
+}
+.filialy .right .filial .services a {
+	cursor: pointer;
+}
+.filialy .right .filial .services a span {
+	box-shadow: none;
+	border-radius: 0;
+	border: 1px solid #F2F2F2;
+}
+.text .show-more {
+	display: inline-block;
+	outline: none;
+}
+.filialy .line input, .filialy .line button {
+	float: none;
+}

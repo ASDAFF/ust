@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1410263099>
+    <timestamp>09.09.2014 15:44:59</timestamp>
+    <webpage>http://ust-co.ru/catalog/komplektovshchiki-zakazov/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410263099>
+  <logInfo1410263113>
+    <timestamp>09.09.2014 15:45:13</timestamp>
+    <webpage>http://ust-co.ru/catalog/transportirovshchiki-pallet/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410263113>
+  <logInfo1410263174>
+    <timestamp>09.09.2014 15:46:14</timestamp>
+    <webpage>http://ust-co.ru/catalog/transportirovshchiki-pallet/?quantity=10000</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410263174>
+</root>

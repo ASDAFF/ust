@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409900520>
+    <timestamp>05.09.2014 11:02:00</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409900520>
+  <logInfo1409900548>
+    <timestamp>05.09.2014 11:02:28</timestamp>
+    <webpage>http://ust-co.ru/ajax/filter_new.php</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409900548>
+  <logInfo1409900588>
+    <timestamp>05.09.2014 11:03:08</timestamp>
+    <webpage>http://ust-co.ru/ajax/filter_new.php</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409900588>
+  <logInfo1409900679>
+    <timestamp>05.09.2014 11:04:39</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/?PAGEN_2=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409900679>
+  <logInfo1409904125>
+    <timestamp>05.09.2014 12:02:05</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409904125>
+  <logInfo1409904146>
+    <timestamp>05.09.2014 12:02:26</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/filter/max_weight-from-2323-to-3586/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409904146>
+  <logInfo1409904157>
+    <timestamp>05.09.2014 12:02:37</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/filter/max_weight-from-2323-to-3586/?PAGEN_2=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409904157>
+  <logInfo1409904170>
+    <timestamp>05.09.2014 12:02:50</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/filter/max_weight-from-2323-to-3586/?PAGEN_2=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409904170>
+  <logInfo1409904200>
+    <timestamp>05.09.2014 12:03:20</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/filter/max_weight-from-2323-to-3586/?PAGEN_2=4</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409904200>
+  <logInfo1409904206>
+    <timestamp>05.09.2014 12:03:26</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/filter/max_weight-from-2323-to-3586/?PAGEN_2=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409904206>
+  <logInfo1409904216>
+    <timestamp>05.09.2014 12:03:36</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/nissan_pl02a25w_bu13f11045/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409904216>
+  <logInfo1409904915>
+    <timestamp>05.09.2014 12:15:15</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/toyota_8fg25_bu12n10919/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409904915>
+  <logInfo1409904924>
+    <timestamp>05.09.2014 12:15:24</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/toyota_8fg25_bu12n10920/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409904924>
+</root>

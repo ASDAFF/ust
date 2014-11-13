@@ -1,0 +1,385 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+html {
+	height: 100%;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+	display: block;
+}
+body {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-weight: normal;
+	font-size: 13px;
+	line-height: 18px;
+	color: #23262B;
+	width: 100%;
+	height: 100%;
+}
+.wrapper {
+	width: 882px;
+	margin: 0 auto;
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+}
+.clear {
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+hr {
+	height: 2px;
+	background-color: #EAEAEA;
+	border: none;
+	-webkit-box-shadow: 0px 1px 2px rgba(234, 234, 234, 0.46);
+	-moz-box-shadow: 0px 1px 2px rgba(234, 234, 234, 0.46);
+	box-shadow: 0px 1px 2px rgba(234, 234, 234, 0.46);
+	behavior: url(/design/css/PIE.htc);
+}
+h1 {
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 26px;
+	margin-bottom: 20px;
+}
+h2 {
+	font-size: 18px;
+	line-height: 20px;
+	margin-bottom: 15px;
+}
+p {
+	margin-bottom: 15px;
+}
+ul {
+	padding-left: 20px;
+}
+/* Header
+-----------------------------------------------------------------------------*/
+.header {
+	min-height: 90px;
+	color: #23262B;
+	padding-top: 17px;
+	position: relative;
+	margin-bottom: 25px;
+}
+.header .left {
+	float: left;
+	width: 782px;
+	display: block;
+	position: relative;
+}
+.header .print {
+	float: left;
+	display: block;
+	position: relative;
+	background: url('/design/images/ptint_logo.png') center center no-repeat;
+	width: 100px;
+	height: 90px;
+}
+.header hr.red {
+	border-top: 3px solid #ED2930;
+	display: block;
+	height: 1px;
+	margin-bottom: 18px;
+}
+.header .logo {
+	float: left;
+	display: block;
+	position: relative;
+	margin-right: 15px;
+}
+.header .phone {
+	float: left;
+	display: block;
+	position: relative;
+	margin-right: 15px;
+	text-align: right;
+}
+.header .phone span {
+	display: block;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 26px;
+}
+.header .slogan {
+	float: right;	
+	display: block;
+	position: relative;
+	font-size: 11px;
+	line-height: 16px;
+	width: 340px;
+}
+.header .desciprion { 
+	font-size: 14px;
+	line-height: 16px;
+	margin-bottom: 15px;
+}
+/* Middle
+-----------------------------------------------------------------------------*/
+.content {
+	padding: 0 0 65px;
+}
+
+#bx-panel, #bx-panel div {
+	display: none !important;
+}
+
+/* Footer
+-----------------------------------------------------------------------------*/
+.footer {
+	width: 882px;
+	margin: -65px auto 0;
+	height: 65px;
+	color: #23262B;
+	font-size: 14px;
+	line-height: 16px;	
+	position: relative;
+}
+.footer .left {
+	float: left;
+	width: 782px;
+	display: block;
+	position: relative;
+}
+.footer .print {
+	float: left;
+	display: block;
+	position: relative;
+	background: url('/design/images/ptint_logo.png') center center no-repeat;
+	width: 100px;
+	height: 65px;
+}
+.footer a, .footer a:hover {
+	text-decoration: none;
+	color: #23262B;
+}
+.footer .copy, .footer .mail {
+	margin-top: 15px;
+	display: block;
+	position: relative;
+	float: left;
+	margin-right: 15px;
+}
+.footer .phone {
+	text-align: right;
+	float: right;		
+	margin-top: 15px;
+	display: block;
+	position: relative;
+}
+
+/*
+Контент
+*/
+.office {
+	position: relative;
+	display: block;
+	color: #23262B;
+}
+.office .tit {
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 20px;
+	margin-bottom: 10px;
+}
+.office .address {
+	font-size: 24px;
+	line-height: 26px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+.office .work-time {
+	background: url(../images/css/work-time-icon.jpg) scroll no-repeat -20px -8px transparent;
+	padding: 0px 0px 30px 81px;
+	font-size: 14px;
+	line-height: 17px;
+	margin: 0px 30px 0px 10px;
+	float: left;
+	display: block;
+	position: relative;
+}
+.office .phone {	
+	background: url(../images/css/map-phone-icon.png) scroll no-repeat 0px -16px transparent;
+	padding: 0px 0px 30px 81px;
+	float: left;
+	display: block;
+	position: relative;
+	margin: 0px;
+}
+.office .phone span {
+	display: block;
+	font-size: 14px;
+	line-height: 17px;
+}
+.warning {
+	color: #cc1a21;
+	font-size: 14px;
+	line-height: 16px;
+	letter-spacing: -0.5px;
+	font-weight: bold;
+	margin: 10px 0;
+}
+.directs {
+	display: block;
+}
+.directs .how-to-get {
+	margin-bottom: 33px;
+	padding-left: 82px;
+}
+.directs .how-to-get p {
+	font-size: 14px;
+	line-height: 17px;
+	color: #000000;
+}
+.directs .how-to-get p.title {
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 20px;
+	margin-bottom: 14px;
+}
+.directs .how-to-get.public {background: url(../images/css/tram-icon.png) no-repeat 2px 3px;}
+.directs .how-to-get.auto {background: url(../images/css/auto-icon.png) no-repeat -7px 10px;}
+.directs .how-to-get.truck {background: url(../images/css/truk-icon.png) no-repeat 2px 7px;}
+.directs .how-to-get.gps {background: url(../images/css/gps-icon.png) no-repeat 2px -1px;}
+.directs .how-to-get.gps span {color: #CC1A21;}
+
+.filial-detail {}
+.filial-detail .left {
+	width: 442px;
+	float: left;
+	display: block;
+	position: relative;
+	margin-right: 20px;
+	z-index: 2;
+	margin-bottom: 25px;
+}
+.filial-detail .right {
+	width: 400px;
+	float: right;
+	display: block;
+	position: relative;
+	margin-bottom: 25px;
+	z-index: 1;
+}
+.filial-detail .right #map {
+	z-index: 1;
+}
+.filial-detail .office {
+	width: 467px;
+	float: left;
+	display: block;
+	position: relative;
+	font-size: 12px;
+	color: #22252A;
+	border: none;
+	padding: 0;
+}
+.filial-detail .office p {
+	font-size: 12px;
+	line-height: 18px;
+	margin: 0px;
+	padding: 0px;
+	color: #22252A;
+}
+.filial-detail .office p.address {
+	margin-bottom: 20px;
+	color: #454546;
+	font-size: 14px;
+	font-weight: bold;
+}
+.filial-detail .office .tit {
+	font-weight: bold;
+	font-size: 16px;
+	margin-bottom: 2px;
+}
+.filial-detail .office .tit_small, .filial-detail .office a.print {
+	font-weight: bold;
+	font-size: 13px;
+	margin: 10px 0px 2px 0px;
+	color: #454546;
+}
+.filial-detail .office a.print {
+	text-decoration: underline;
+	margin: 10px 0px;
+	display: block;
+}
+.filial-detail .work-time {
+	background: url(../images/css/work-time-icon.jpg) scroll no-repeat -20px -8px transparent;
+	padding: 5px 0px 30px 75px;
+	margin: 0px;
+	float: left;
+	display: block;
+	position: relative;
+	width: 154px;
+}
+.filial-detail .phone {	
+	background: url(../images/css/map-phone-icon.png) scroll no-repeat 0px -16px transparent;
+	padding: 5px 0px 30px 70px;
+	margin: 0px;
+	float: left;
+	display: block;
+	position: relative;
+	width: 168px;
+}
+.dialog, .jcarousel {
+	display: none;
+}
+.bu-page .ppic.detail, .bu-page  .properties {float: left;}
+.catalog-detail .ppic { 
+	float: left;
+	margin-right: 10px;
+	width: 387px;
+}
+.catalog-detail .properties { 
+	float: left;
+	margin-bottom: 20px;
+	width: 481px;
+}
+.catalog-detail .properties .characteristics { 
+	background: url("/design/images/background_prop.png");
+	display: block;
+	min-height: 232px;
+}
+.catalog-detail .properties .characteristics .title {
+	color: #000000;
+	display: block;
+	font-size: 15px;
+	font-weight: 700;
+	padding: 20px 0px 20px 20px;
+	text-align: left;
+}
+.catalog-detail .properties .characteristics > div {
+	color: #6C6B70;
+	font-size: 12px;
+	line-height: 14px;
+	margin: 0px;
+}
+.catalog-detail .properties .characteristics > div span { 
+	display: block;
+	float: left;
+	padding: 5px 20px 5px 0px;
+	position: relative;
+	text-align: right;
+	width: 219px;
+}
+.catalog-detail .properties .characteristics > div span.name { 
+	padding: 5px 0px 5px 20px;
+	text-align: left;
+}
+.catalog-detail .properties .price { 
+	background: url("/design/images/background_prop.png");
+	color: #6D6B71;
+	display: block;
+	font-size: 28px;
+	font-weight: 700;
+	height: 47px;
+	line-height: 44px;
+	margin-bottom: 20px;
+	padding-left: 20px;
+	text-align: center;
+}
+.catalog-detail .properties .left, .catalog-detail .properties .right {display: none;}
+.catalog-detail .tabs-detail ul {display: none;}

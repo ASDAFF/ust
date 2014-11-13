@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409824884>
+    <timestamp>04.09.2014 14:01:24</timestamp>
+    <webpage>http://u-st.ru/catalog/ekskavatory/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409824884>
+  <logInfo1409825621>
+    <timestamp>04.09.2014 14:13:41</timestamp>
+    <webpage>http://u-st.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409825621>
+  <logInfo1409825640>
+    <timestamp>04.09.2014 14:14:00</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409825640>
+  <logInfo1409825722>
+    <timestamp>04.09.2014 14:15:22</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/?PAGEN_2=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409825722>
+  <logInfo1409825736>
+    <timestamp>04.09.2014 14:15:36</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/ekskavatory-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409825736>
+</root>

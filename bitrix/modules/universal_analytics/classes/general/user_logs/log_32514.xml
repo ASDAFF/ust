@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409835613>
+    <timestamp>04.09.2014 17:00:13</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409835613>
+  <logInfo1409835622>
+    <timestamp>04.09.2014 17:00:22</timestamp>
+    <webpage>http://ust-co.ru/catalog/skladskaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409835622>
+  <logInfo1409835645>
+    <timestamp>04.09.2014 17:00:45</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409835645>
+  <logInfo1409835654>
+    <timestamp>04.09.2014 17:00:54</timestamp>
+    <webpage>http://ust-co.ru/ajax/filter_new.php</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409835654>
+  <logInfo1409835679>
+    <timestamp>04.09.2014 17:01:19</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/bu_vilochnyy_pogruzchik_benzin/filter/kpp-akpp/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409835679>
+</root>

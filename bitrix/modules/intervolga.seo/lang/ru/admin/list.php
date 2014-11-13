@@ -1,0 +1,36 @@
+<?
+$MESS["ivseo_title"] = "Список страниц";
+$MESS["ivseo_ctitle"] = "Title";
+$MESS["ivseo_url"] = "URL";
+$MESS["ivseo_h1"] = "H1";
+$MESS["ivseo_description"] = "Description";
+$MESS["ivseo_keywords"] = "Keywords";
+$MESS["ivseo_text1"] = "Текст1";
+$MESS["ivseo_text2"] = "Текст2";
+$MESS["ivseo_text3"] = "Текст3";
+$MESS["ivseo_nav"] = "Элементы";
+$MESS["ivseo_act"] = "Акт.";
+$MESS["ivseo_edit"] = "Изменить";
+$MESS["ivseo_del"] = "Удалить";
+$MESS["ivseo_site"] = "Сайт";
+$MESS["ivseo_last_exec"] = "Генерация";
+$MESS["ivseo_save_error"] = "Ошибка изменения страницы:";
+$MESS["POST_ADD_TITLE"] = "Нажмите для добавления новой страницы";
+$MESS["ivseo_f_url"] = "URL(точно)";
+$MESS["ivseo_f_lurl"] = "URL(начало)";
+$MESS["ivseo_f_h1"] = "H1";
+$MESS["ivseo_f_title"] = "Title";
+$MESS["ivseo_f_keywords"] = "Keywords";
+$MESS["ivseo_f_description"] = "Description";
+$MESS["ivseo_f_text1"] = "Текст1";
+$MESS["ivseo_f_text2"] = "Текст2";
+$MESS["ivseo_f_text3"] = "Текст3";
+$MESS["ivseo_f_id"] = "ID";
+$MESS["ivseo_f_active"] = "Активность";
+$MESS["ivseo_f_CANONICAL"] = "Каноническая ссылка";
+$MESS["ivseo_f_find"] = "Найти";
+$MESS["ivseo_f_site"] = "Сайт";
+$MESS["POST_U_YES"] = "Да";
+$MESS["POST_U_NO"] = "Нет";
+$MESS["ivseo_CANONICAL"] = "Канонический URL";
+?>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409805679>
+    <timestamp>04.09.2014 08:41:19</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/?PAGEN_2=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409805679>
+  <logInfo1409805778>
+    <timestamp>04.09.2014 08:42:58</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/?PAGEN_2=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409805778>
+  <logInfo1409805850>
+    <timestamp>04.09.2014 08:44:10</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/?PAGEN_2=4</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409805850>
+  <logInfo1409805857>
+    <timestamp>04.09.2014 08:44:17</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/?quantity=10000</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409805857>
+  <logInfo1409805998>
+    <timestamp>04.09.2014 08:46:38</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/buldozery/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409805998>
+  <logInfo1409806021>
+    <timestamp>04.09.2014 08:47:01</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/frontalnye-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409806021>
+  <logInfo1409806075>
+    <timestamp>04.09.2014 08:47:55</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/teleskopicheskie-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409806075>
+</root>

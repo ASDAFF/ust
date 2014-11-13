@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409923913>
+    <timestamp>05.09.2014 17:31:53</timestamp>
+    <webpage>http://ust-co.ru/catalog/uzkoprokhodnye-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409923913>
+  <logInfo1409923954>
+    <timestamp>05.09.2014 17:32:34</timestamp>
+    <webpage>http://ust-co.ru/%D3%E7%EA%EE%EF%F0%EE%F5%EE%E4%ED%FB%E9%20%EF%EE%E3%F0%F3%E7%F7%E8%EA%20Aisle-Master</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409923954>
+  <logInfo1409923991>
+    <timestamp>05.09.2014 17:33:11</timestamp>
+    <webpage>http://ust-co.ru/%D3%E7%EA%EE%EF%F0%EE%F5%EE%E4%ED%FB%E9%20%EF%EE%E3%F0%F3%E7%F7%E8%EA%20Aisle-Master%20Demo</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409923991>
+  <logInfo1409924078>
+    <timestamp>05.09.2014 17:34:38</timestamp>
+    <webpage>http://ust-co.ru/catalog/uzkoprokhodnye-shtabelery/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409924078>
+  <logInfo1409924091>
+    <timestamp>05.09.2014 17:34:51</timestamp>
+    <webpage>http://ust-co.ru/%D3%E7%EA%EE%EF%F0%EE%F5%EE%E4%ED%FB%E9%20%F8%F2%E0%E1%E5%EB%E5%F0%20Yale%20MTC</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409924091>
+</root>

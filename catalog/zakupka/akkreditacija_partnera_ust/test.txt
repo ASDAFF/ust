@@ -1,0 +1,5 @@
+2Array
+(
+    [KEYSSID] => 30d1abade05a1bfa88a1f0cd397ad767
+    [PHPSESSID] => 30d1abade05a1bfa88a1f0cd397ad767
+)

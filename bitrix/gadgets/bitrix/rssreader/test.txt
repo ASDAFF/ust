@@ -1,0 +1,15 @@
+Array
+(
+    [PHPSESSID] => 51b1b9962e47123a8b06feba5bd237b3
+    [BITRIX_SM_GUEST_ID] => 74154
+    [BITRIX_SM_LAST_VISIT] => 04.06.2014 16:53:41
+    [BITRIX_SM_LOGIN] => v.antonov@ust-co.ru
+    [BITRIX_SM_SALE_UID] => e91b64eedeed9cc08c35c16fcfc38491
+    [BITRIX_SM_SOUND_LOGIN_PLAYED] => Y
+    [BITRIX_SM_DSC] => 44
+    [_ga] => GA1.2.1572587644.1401788026
+    [KEYSSID] => 51b1b9962e47123a8b06feba5bd237b3
+    [BITRIX_SM_LAST_ADV] => 7_Y
+    [_ym_visorc_24904661] => w
+    [BITRIX_SM_UIDH] => 304659123fdfc5cdbe2c1a38e753187d
+)

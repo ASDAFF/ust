@@ -1,0 +1,290 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+table {
+  border: none;
+  border-collapse: collapse;
+  width: 100%;
+}
+img {
+  border: 0;
+  vertical-align: top;
+}
+ul {
+  list-style: none;
+}
+html,
+body {
+  height: 100%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a {
+  text-decoration: none;
+  outline-style: none;
+}
+a:hover {
+  text-decoration: none;
+}
+input[type="text"],
+textarea,
+button,
+select,
+option {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* main styles */
+body {
+  min-width: 1000px;
+  position: relative;
+  background: #ffffff;
+  color: #23262b;
+}
+button {
+  border-width: 0;
+}
+.wrapper,
+section {
+  width: 782px;
+  margin: 0 auto;
+  position: relative;
+}
+.wrapper:after,
+section:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+a {
+  color: #23262b;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+/* main styles end */
+.header {
+  /* opera(( */
+
+}
+.header:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+.header .wrapper {
+  border-top: 4px solid #ed2930;
+  padding-top: 13px;
+  padding-bottom: 8px;
+}
+.header .wrapper:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+.header .logo {
+  float: left;
+  margin: 6px 17px 0 -4px;
+}
+.header .logo .work-from {
+  font-size: 14px;
+  line-height: 16px;
+  padding-top: 2px;
+  padding-left: 3px;
+  letter-spacing: -0.75px;
+}
+.header .phones {
+  letter-spacing: -0.75px;
+  margin-right: 34px;
+  float: left;
+  font-size: 20px;
+  line-height: 23px;
+  text-align: right;
+  font-weight: bold;
+  margin-top: 1px;
+}
+.header .phones .row {
+  margin-bottom: 8px;
+}
+.header .about {
+  float: left;
+  width: 304px;
+  font-size: 12px;
+  line-height: 19px;
+  letter-spacing: -0.75px;
+}
+.header noindex:-o-prefocus,
+.header .about {
+  letter-spacing: -1px !important;
+}
+.header .print-icon {
+  background: url(../img/css/print-icon.png) scroll no-repeat 0 0 transparent;
+  width: 58px;
+  height: 59px;
+  content: "";
+  left: 100%;
+  top: 23px;
+  margin-left: 40px;
+  position: absolute;
+}
+.body .wrapper {
+  background: url(../img/css/print-map-line.png) scroll repeat-x 0 top transparent;
+  padding-top: 24px;
+}
+.office {
+  font-size: 14px;
+  line-height: 16px;
+}
+.office:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+.office .title {
+  font-weight: bold;
+  letter-spacing: -0.75px;
+}
+.office .address {
+  letter-spacing: -0.75px;
+  margin-top: 4px;
+  font-size: 24px;
+  line-height: 26px;
+  font-weight: bold;
+  margin-bottom: 29px;
+}
+.office .work-time {
+  background: url(../img/css/work-time-icon.jpg) scroll no-repeat -17px -11px transparent;
+  float: left;
+  padding-left: 87px;
+  margin-left: -9px;
+  width: 210px;
+  padding-bottom: 30px;
+}
+.office .work-time .title {
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: normal;
+  margin-bottom: 5px;
+}
+.office .phone {
+  background: url(../img/css/map-phone-icon.png) scroll no-repeat -7px -14px transparent;
+  float: left;
+  padding-left: 70px;
+  padding-bottom: 30px;
+}
+.office .phone .title {
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: normal;
+  margin-bottom: 5px;
+}
+.map {
+  width: 772px;
+  height: 475px;
+  margin: 0 auto 14px;
+}
+.warning {
+  color: #cc1a21;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: -0.5px;
+  font-weight: bold;
+  margin-bottom: 14px;
+}
+.directs .m-title {
+  font-size: 18px;
+  line-height: 20px;
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+.directs .title {
+  font-size: 18px;
+  line-height: 20px;
+  margin-bottom: 14px;
+}
+.directs .s-title {
+  letter-spacing: -0.5px;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+.directs .text {
+  font-size: 14px;
+  line-height: 17px;
+}
+.directs .text + .s-title {
+  margin-top: 18px;
+}
+.directs .variant {
+  padding-left: 82px;
+  margin-bottom: 33px;
+}
+.directs .variant-city {
+  background: url(../img/css/tram-icon.png) scroll no-repeat 2px 3px transparent;
+}
+.directs .variant-auto {
+  background: url(../img/css/auto-icon.png) scroll no-repeat -7px 10px transparent;
+}
+.directs .variant-tir {
+  background: url(../img/css/truk-icon.png) scroll no-repeat 2px 7px transparent;
+  margin-bottom: 47px;
+}
+.directs .variant-tir .title {
+  margin-bottom: 21px;
+}
+.directs .variant-gps {
+  background: url(../img/css/gps-icon.png) scroll no-repeat 2px -1px transparent;
+  min-height: 70px;
+}
+.directs .variant-gps .s-title {
+  margin-bottom: 0;
+}
+.directs .variant-gps .text {
+  color: #cc1a21;
+}
+footer {
+  height: 109px;
+  font-size: 14px;
+  line-height: 17px;
+  position: relative;
+}
+footer .wrapper {
+  height: 68px;
+  background: url(../img/css/print-map-line.png) scroll repeat-x 0 top transparent;
+  padding-top: 21px;
+  padding-bottom: 20px;
+}
+footer .print-icon {
+  background: url(../img/css/print-icon.png) scroll no-repeat 0 0 transparent;
+  width: 58px;
+  height: 59px;
+  content: "";
+  left: 100%;
+  top: 4px;
+  margin-left: 40px;
+  position: absolute;
+}
+footer .copy {
+  float: left;
+  width: 384px;
+}
+footer .mail {
+  float: left;
+}
+footer .phones {
+  letter-spacing: -0.75px;
+  float: right;
+  width: 141px;
+  white-space: nowrap;
+  margin-right: 52px;
+  text-align: right;
+}

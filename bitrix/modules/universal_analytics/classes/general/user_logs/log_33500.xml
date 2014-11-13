@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409895636>
+    <timestamp>05.09.2014 09:40:36</timestamp>
+    <webpage>http://u-st.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409895636>
+  <logInfo1409895660>
+    <timestamp>05.09.2014 09:41:00</timestamp>
+    <webpage>http://u-st.ru/catalog/podemniki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409895660>
+  <logInfo1409895674>
+    <timestamp>05.09.2014 09:41:14</timestamp>
+    <webpage>http://ust-co.ru/catalog/skladskaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409895674>
+  <logInfo1409895720>
+    <timestamp>05.09.2014 09:42:00</timestamp>
+    <webpage>http://ust-co.ru/partnery/yale/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409895720>
+  <logInfo1409895751>
+    <timestamp>05.09.2014 09:42:31</timestamp>
+    <webpage>http://ust-co.ru/poisk/?q=nfkb</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409895751>
+  <logInfo1409895755>
+    <timestamp>05.09.2014 09:42:35</timestamp>
+    <webpage>http://ust-co.ru/poisk/?q=%D1%82%D0%B0%D0%BB%D0%B8&amp;where=&amp;how=r</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409895755>
+</root>

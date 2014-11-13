@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409871230>
+    <timestamp>05.09.2014 02:53:50</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409871230>
+  <logInfo1409871269>
+    <timestamp>05.09.2014 02:54:29</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/istorija/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409871269>
+  <logInfo1409871614>
+    <timestamp>05.09.2014 03:00:14</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409871614>
+  <logInfo1409871627>
+    <timestamp>05.09.2014 03:00:27</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/klienty/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409871627>
+  <logInfo1409871639>
+    <timestamp>05.09.2014 03:00:39</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/istorija/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409871639>
+  <logInfo1409871642>
+    <timestamp>05.09.2014 03:00:42</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/novosti/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409871642>
+  <logInfo1409871654>
+    <timestamp>05.09.2014 03:00:54</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/novosti/?PAGEN_1=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409871654>
+  <logInfo1409871675>
+    <timestamp>05.09.2014 03:01:15</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/novosti/?PAGEN_1=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409871675>
+  <logInfo1409871676>
+    <timestamp>05.09.2014 03:01:16</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/novosti/skladskaya-tekhnika/prevoskhodnyy-diler-combilift/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409871676>
+  <logInfo1409871683>
+    <timestamp>05.09.2014 03:01:23</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/novosti/?PAGEN_1=4</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409871683>
+  <logInfo1409871690>
+    <timestamp>05.09.2014 03:01:30</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/novosti/?PAGEN_1=5</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409871690>
+</root>

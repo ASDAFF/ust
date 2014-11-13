@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409828054>
+    <timestamp>04.09.2014 14:54:14</timestamp>
+    <webpage>http://ust-co.ru/catalog/vilochnye-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409828054>
+  <logInfo1409828057>
+    <timestamp>04.09.2014 14:54:17</timestamp>
+    <webpage>http://ust-co.ru/design/img/css/transparent.png</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409828057>
+  <logInfo1409828121>
+    <timestamp>04.09.2014 14:55:21</timestamp>
+    <webpage>http://ust-co.ru/catalog/vilochnye-pogruzchiki/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409828121>
+  <logInfo1409828123>
+    <timestamp>04.09.2014 14:55:23</timestamp>
+    <webpage>http://ust-co.ru/design/img/css/transparent.png</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409828123>
+  <logInfo1409828138>
+    <timestamp>04.09.2014 14:55:38</timestamp>
+    <webpage>http://ust-co.ru/catalog/vilochnye-pogruzchiki/elektricheskiy-pogruzchik-yale-erp30vl-lwb/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409828138>
+  <logInfo1409828141>
+    <timestamp>04.09.2014 14:55:41</timestamp>
+    <webpage>http://ust-co.ru/design/img/css/transparent.png</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409828141>
+</root>

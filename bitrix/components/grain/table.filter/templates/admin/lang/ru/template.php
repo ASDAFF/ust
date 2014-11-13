@@ -1,0 +1,8 @@
+<?
+$MESS ['GRAIN_TABLES_TF_TEMPLATE_ALL_COLUMNS'] = "По всем столбцам";
+$MESS ['GRAIN_TABLES_TF_TEMPLATE_EQUAL'] = "Точное совпадение";
+$MESS ['GRAIN_TABLES_TF_TEMPLATE_NOT_SELECT'] = "Не выбрано";
+$MESS ['GRAIN_TABLES_TF_TEMPLATE_YES'] = "Да";
+$MESS ['GRAIN_TABLES_TF_TEMPLATE_NO'] = "Нет";
+$MESS ['GRAIN_TABLES_TF_TEMPLATE_LINKS_DS_NOT_SET'] = "Источник данных не настроен";
+?>

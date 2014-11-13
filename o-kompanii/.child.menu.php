@@ -1,0 +1,74 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Новости", 
+		"novosti/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"История", 
+		"istorija/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Карьера в УСТ", 
+		"karera/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Корпоративный университет", 
+		"karera/universitet/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Наша жизнь", 
+		"karera/nasha-zhizn/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Статьи", 
+		"statyi/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Отзывы", 
+		"otzyvy/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Награды", 
+		"nagrady/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Клиенты", 
+		"klienty/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"kontakty/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

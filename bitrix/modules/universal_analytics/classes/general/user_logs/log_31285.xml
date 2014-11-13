@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409815270>
+    <timestamp>04.09.2014 11:21:10</timestamp>
+    <webpage>http://u-st.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409815270>
+  <logInfo1409815271>
+    <timestamp>04.09.2014 11:21:11</timestamp>
+    <webpage>http://u-st.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409815271>
+  <logInfo1409815284>
+    <timestamp>04.09.2014 11:21:24</timestamp>
+    <webpage>http://u-st.ru/filialy/kursk/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409815284>
+  <logInfo1409815291>
+    <timestamp>04.09.2014 11:21:31</timestamp>
+    <webpage>http://u-st.ru/filialy/belgorod/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409815291>
+</root>

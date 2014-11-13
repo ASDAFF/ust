@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409814052>
+    <timestamp>04.09.2014 11:00:52</timestamp>
+    <webpage>http://ust-co.ru/ajax/filter_new.php</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409814052>
+  <logInfo1409814062>
+    <timestamp>04.09.2014 11:01:02</timestamp>
+    <webpage>http://ust-co.ru/catalog/vilochnye-pogruzchiki/filter/pto_tip_privoda-elektricheskiy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409814062>
+  <logInfo1409814072>
+    <timestamp>04.09.2014 11:01:12</timestamp>
+    <webpage>http://ust-co.ru/catalog/vilochnye-pogruzchiki/filter/pto_tip_privoda-elektricheskiy/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409814072>
+  <logInfo1409814100>
+    <timestamp>04.09.2014 11:01:40</timestamp>
+    <webpage>http://ust-co.ru/catalog/vilochnye-pogruzchiki/filter/pto_tip_privoda-elektricheskiy/?PAGEN_3=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409814100>
+  <logInfo1409814107>
+    <timestamp>04.09.2014 11:01:47</timestamp>
+    <webpage>http://ust-co.ru/catalog/vilochnye-pogruzchiki/elektricheskiy-pogruzchik-yale-erp16vf-mwb/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409814107>
+</root>

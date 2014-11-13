@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1410115336>
+    <timestamp>07.09.2014 22:42:16</timestamp>
+    <webpage>http://ust-co.ru/poisk/?q=%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410115336>
+  <logInfo1410115341>
+    <timestamp>07.09.2014 22:42:21</timestamp>
+    <webpage>http://ust-co.ru/poisk/?q=</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410115341>
+  <logInfo1410115376>
+    <timestamp>07.09.2014 22:42:56</timestamp>
+    <webpage>http://ust-co.ru/poisk/?q=%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8&amp;where=&amp;how=r</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410115376>
+  <logInfo1410115426>
+    <timestamp>07.09.2014 22:43:46</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/karera/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410115426>
+  <logInfo1410115484>
+    <timestamp>07.09.2014 22:44:44</timestamp>
+    <webpage>http://ust-co.ru/filialy/moscow/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410115484>
+  <logInfo1410115510>
+    <timestamp>07.09.2014 22:45:10</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/karera/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410115510>
+</root>

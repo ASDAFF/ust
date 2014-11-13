@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409887081>
+    <timestamp>05.09.2014 07:18:01</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409887081>
+  <logInfo1409887093>
+    <timestamp>05.09.2014 07:18:13</timestamp>
+    <webpage>http://ust-co.ru/catalog/skladskaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409887093>
+  <logInfo1409887125>
+    <timestamp>05.09.2014 07:18:45</timestamp>
+    <webpage>http://ust-co.ru/ajax/filter_new.php</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409887125>
+  <logInfo1409887135>
+    <timestamp>05.09.2014 07:18:55</timestamp>
+    <webpage>http://ust-co.ru/catalog/vilochnye-pogruzchiki/filter/pto_tip_privoda-elektricheskiy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409887135>
+</root>

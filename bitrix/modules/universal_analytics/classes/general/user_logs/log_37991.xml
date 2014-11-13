@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1410152491>
+    <timestamp>08.09.2014 09:01:31</timestamp>
+    <webpage>http://u-st.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410152491>
+  <logInfo1410152492>
+    <timestamp>08.09.2014 09:01:32</timestamp>
+    <webpage>http://u-st.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410152492>
+  <logInfo1410152532>
+    <timestamp>08.09.2014 09:02:12</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410152532>
+  <logInfo1410152860>
+    <timestamp>08.09.2014 09:07:40</timestamp>
+    <webpage>http://ust-co.ru/dilery-skladskoj-tehniki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410152860>
+  <logInfo1410152871>
+    <timestamp>08.09.2014 09:07:51</timestamp>
+    <webpage>http://ust-co.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410152871>
+  <logInfo1410152888>
+    <timestamp>08.09.2014 09:08:08</timestamp>
+    <webpage>http://ust-co.ru/filialy/saransk/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410152888>
+  <logInfo1410152889>
+    <timestamp>08.09.2014 09:08:09</timestamp>
+    <webpage>http://ust-co.ru/filialy/penza/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410152889>
+</root>

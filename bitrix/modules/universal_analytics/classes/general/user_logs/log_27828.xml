@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409906400>
+    <timestamp>05.09.2014 12:40:00</timestamp>
+    <webpage>http://ust-co.ru/dilery-skladskoj-tehniki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409906400>
+  <logInfo1409906442>
+    <timestamp>05.09.2014 12:40:42</timestamp>
+    <webpage>http://ust-co.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409906442>
+  <logInfo1409906445>
+    <timestamp>05.09.2014 12:40:45</timestamp>
+    <webpage>http://ust-co.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409906445>
+  <logInfo1410261807>
+    <timestamp>09.09.2014 15:23:27</timestamp>
+    <webpage>http://ust-co.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410261807>
+  <logInfo1410261810>
+    <timestamp>09.09.2014 15:23:30</timestamp>
+    <webpage>http://ust-co.ru/kaspersky/allow/01ab00ba-35da-4e25-b66a-6ea150511c9d</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1410261810>
+  <logInfo1410261813>
+    <timestamp>09.09.2014 15:23:33</timestamp>
+    <webpage>http://ust-co.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410261813>
+  <logInfo1410261847>
+    <timestamp>09.09.2014 15:24:07</timestamp>
+    <webpage>http://ust-co.ru/dilery-skladskoj-tehniki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410261847>
+  <logInfo1410261897>
+    <timestamp>09.09.2014 15:24:57</timestamp>
+    <webpage>http://ust-co.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410261897>
+  <logInfo1410261902>
+    <timestamp>09.09.2014 15:25:02</timestamp>
+    <webpage>http://ust-co.ru/filialy/samara/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410261902>
+  <logInfo1410261907>
+    <timestamp>09.09.2014 15:25:07</timestamp>
+    <webpage>http://ust-co.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410261907>
+</root>

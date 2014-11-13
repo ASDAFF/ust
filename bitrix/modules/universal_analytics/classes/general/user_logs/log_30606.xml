@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409786135>
+    <timestamp>04.09.2014 03:15:35</timestamp>
+    <webpage>http://u-st.ru/catalog/mini-ekskavatory/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409786135>
+  <logInfo1409786246>
+    <timestamp>04.09.2014 03:17:26</timestamp>
+    <webpage>http://u-st.ru/catalog/mini-ekskavatory/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409786246>
+  <logInfo1409786277>
+    <timestamp>04.09.2014 03:17:57</timestamp>
+    <webpage>http://u-st.ru/catalog/mini-ekskavatory/?PAGEN_3=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409786277>
+  <logInfo1409786797>
+    <timestamp>04.09.2014 03:26:37</timestamp>
+    <webpage>http://u-st.ru/catalog/avtogreydery/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409786797>
+  <logInfo1409786827>
+    <timestamp>04.09.2014 03:27:07</timestamp>
+    <webpage>http://u-st.ru/catalog/buldozery/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409786827>
+  <logInfo1409786908>
+    <timestamp>04.09.2014 03:28:28</timestamp>
+    <webpage>http://u-st.ru/catalog/karernye-samosvaly/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409786908>
+</root>

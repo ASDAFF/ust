@@ -1,0 +1,5 @@
+<?
+$MESS ['GRAIN_TABLES_TE_DESCRIPTION_NAME'] = "Table edit form";
+$MESS ['GRAIN_TABLES_TE_DESCRIPTION_DESCRIPTION'] = "Table edit form";
+$MESS ['GRAIN_TABLES_TE_DESCRIPTION_MENU'] = "Table properties";
+?>

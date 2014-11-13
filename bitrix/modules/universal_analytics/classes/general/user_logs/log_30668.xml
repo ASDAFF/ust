@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409799885>
+    <timestamp>04.09.2014 07:04:45</timestamp>
+    <webpage>http://ust-co.ru/poisk/?q=%D1%81%D1%82%D1%80%D0%BE%D0%BF</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409799885>
+  <logInfo1409799901>
+    <timestamp>04.09.2014 07:05:01</timestamp>
+    <webpage>http://ust-co.ru/poisk/?q=%D1%81%D1%82%D0%BF&amp;where=&amp;how=r</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409799901>
+</root>

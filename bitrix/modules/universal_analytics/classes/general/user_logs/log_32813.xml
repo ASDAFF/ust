@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409845984>
+    <timestamp>04.09.2014 19:53:04</timestamp>
+    <webpage>http://u-st.ru/catalog/mobilnye-krany/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409845984>
+  <logInfo1409846000>
+    <timestamp>04.09.2014 19:53:20</timestamp>
+    <webpage>http://u-st.ru/catalog/mobilnye-krany/?PAGEN_3=4</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409846000>
+  <logInfo1409846018>
+    <timestamp>04.09.2014 19:53:38</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409846018>
+  <logInfo1409846050>
+    <timestamp>04.09.2014 19:54:10</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409846050>
+  <logInfo1409846051>
+    <timestamp>04.09.2014 19:54:11</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409846051>
+  <logInfo1409846058>
+    <timestamp>04.09.2014 19:54:18</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/?PAGEN_3=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409846058>
+  <logInfo1409846069>
+    <timestamp>04.09.2014 19:54:29</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/?PAGEN_3=4</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409846069>
+  <logInfo1409846074>
+    <timestamp>04.09.2014 19:54:34</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/?PAGEN_3=5</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409846074>
+</root>

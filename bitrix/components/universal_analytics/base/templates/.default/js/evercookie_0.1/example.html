@@ -1,0 +1,68 @@
+<html>
+<head>
+<title>Evercookie - unforgettable cookies</title>
+<script type="text/javascript" src="evercookie.js"></script>
+</head>
+
+<body>
+<pre>
+    Cookie found: <i>id</i> = <span id='idtag'></span>
+    <div id='cookies'></div>
+<script>
+var ec = new evercookie();	
+var val = "12345";
+
+// set a cookie "id" to "12345"
+// usage: ec.set(key, value)
+ec.set("id", val);
+
+setTimeout(getC, 500, 1);
+
+function getC(dont)
+{
+        ec.get("id", function(best, all) {
+                document.getElementById('idtag').innerHTML = best;
+                var txt = document.getElementById('cookies');
+                for (var item in all)
+                        txt.innerHTML += item + ' mechanism: ' + (val == all[item] ? '<b>' + all[item] + '</b>' : all[item]) + '<br>';
+        }, dont);
+}
+
+/*
+// retrieve a cookie called "id" (simply)
+ec.get("id", function(value) { alert("Cookie value is " + value) });
+
+// or use a more advanced callback function for getting our cookie
+// the cookie value is the first param
+// an object containing the different storage methods
+// and returned cookie values is the second parameter
+function getCookie(best_candidate, all_candidates)
+{
+    alert("The retrieved cookie is: " + best_candidate + "\n" +
+    	"You can see what each storage mechanism returned " +
+		"by looping through the all_candidates object.");
+
+	for (var item in all_candidates)
+		document.write("Storage mechanism " + item +
+			" returned: " + all_candidates[item] + "<br>");
+}
+ec.get("id", getCookie);
+
+// we look for "candidates" based off the number of "cookies" that
+// come back matching since it's possible for mismatching cookies.
+// the best candidate is very-very-likely the correct one
+
+*/
+</script>
+  Now, try deleting this "id" cookie anywhere possible, then
+
+   <input type=button value="Click to rediscover cookies" onClick="document.getElementById('idtag').innerHTML = '*checking*'; document.getElemen
+tById('cookies').innerHTML = ''; setTimeout(getC, 300);">
+      or 
+   <input type=button value="Click to rediscover cookies WITHOUT reactivating deleted cookies" onClick="document.getElementById('idtag').innerHT
+ML = '*checking*'; document.getElementById('cookies').innerHTML = ''; setTimeout(getC, 300, 1);">
+</pre>
+
+
+</body>
+</html>

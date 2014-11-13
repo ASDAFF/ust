@@ -1,0 +1,9 @@
+2Array
+(
+    [KEYSSID] => c365fded8b93f871bebde4035f68d621
+    [BITRIX_SM_GUEST_ID] => 78029
+    [BITRIX_SM_LAST_VISIT] => 04.06.2014 17:37:24
+    [_ga] => GA1.2.239947824.1401888389
+    [_ym_visorc_24904661] => w
+    [PHPSESSID] => c365fded8b93f871bebde4035f68d621
+)

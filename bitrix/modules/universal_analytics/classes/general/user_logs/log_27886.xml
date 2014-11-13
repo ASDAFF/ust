@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409773376>
+    <timestamp>03.09.2014 23:42:56</timestamp>
+    <webpage>http://u-st.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409773376>
+  <logInfo1409785439>
+    <timestamp>04.09.2014 03:03:59</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409785439>
+  <logInfo1409859031>
+    <timestamp>04.09.2014 23:30:31</timestamp>
+    <webpage>http://u-st.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409859031>
+  <logInfo1409859032>
+    <timestamp>04.09.2014 23:30:32</timestamp>
+    <webpage>http://u-st.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409859032>
+  <logInfo1409953163>
+    <timestamp>06.09.2014 01:39:23</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409953163>
+  <logInfo1410004941>
+    <timestamp>06.09.2014 16:02:21</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410004941>
+</root>

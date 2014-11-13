@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1410263124>
+    <timestamp>09.09.2014 15:45:24</timestamp>
+    <webpage>http://ust-co.ru/catalog/pogruzchiki-povyshennoy-prokhodimosti/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410263124>
+  <logInfo1410263135>
+    <timestamp>09.09.2014 15:45:35</timestamp>
+    <webpage>http://ust-co.ru/catalog/elektricheskie-shtabelery/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410263135>
+  <logInfo1410263182>
+    <timestamp>09.09.2014 15:46:22</timestamp>
+    <webpage>http://ust-co.ru/catalog/elektricheskie-shtabelery/shtabeler-unilift-sse-1033/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410263182>
+  <logInfo1410263195>
+    <timestamp>09.09.2014 15:46:35</timestamp>
+    <webpage>http://ust-co.ru/%C8%F1%F2%EE%F0%E8%FF%20%EA%EE%EC%EF%E0%ED%E8%E8%20Yale</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1410263195>
+  <logInfo1410263199>
+    <timestamp>09.09.2014 15:46:39</timestamp>
+    <webpage>http://ust-co.ru/%D2%E5%F5%ED%E8%EA%E0%20Yale</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1410263199>
+</root>

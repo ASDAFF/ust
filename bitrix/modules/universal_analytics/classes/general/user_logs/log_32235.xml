@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409831227>
+    <timestamp>04.09.2014 15:47:07</timestamp>
+    <webpage>http://bsu.ust-co.ru/catalog/betonnye-zavody/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409831227>
+  <logInfo1409831240>
+    <timestamp>04.09.2014 15:47:20</timestamp>
+    <webpage>http://bsu.ust-co.ru/catalog/betonnye-zavody/?quantity=10000</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409831240>
+  <logInfo1409831276>
+    <timestamp>04.09.2014 15:47:56</timestamp>
+    <webpage>http://bsu.ust-co.ru/catalog/betonnye-zavody/betonnyy-zavod-nisbau-euromix-120/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409831276>
+  <logInfo1409831457>
+    <timestamp>04.09.2014 15:50:57</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409831457>
+  <logInfo1409831486>
+    <timestamp>04.09.2014 15:51:26</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409831486>
+  <logInfo1409836990>
+    <timestamp>04.09.2014 17:23:10</timestamp>
+    <webpage>http://u-st.ru/catalog/karernye-samosvaly/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409836990>
+  <logInfo1409837017>
+    <timestamp>04.09.2014 17:23:37</timestamp>
+    <webpage>http://u-st.ru/catalog/katki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409837017>
+</root>

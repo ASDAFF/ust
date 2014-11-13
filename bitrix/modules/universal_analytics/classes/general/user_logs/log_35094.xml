@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409923767>
+    <timestamp>05.09.2014 17:29:27</timestamp>
+    <webpage>http://u-st.ru/catalog/teleskopicheskie-pogruzchiki/?quantity=10000</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409923767>
+  <logInfo1409924021>
+    <timestamp>05.09.2014 17:33:41</timestamp>
+    <webpage>http://u-st.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409924021>
+  <logInfo1409924038>
+    <timestamp>05.09.2014 17:33:58</timestamp>
+    <webpage>http://u-st.ru/filialy/rostov-on-don/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409924038>
+</root>

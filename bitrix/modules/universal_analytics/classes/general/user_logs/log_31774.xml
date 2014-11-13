@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409822118>
+    <timestamp>04.09.2014 13:15:18</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409822118>
+  <logInfo1409822186>
+    <timestamp>04.09.2014 13:16:26</timestamp>
+    <webpage>http://u-st.ru/catalog/gusenichnye-samosvaly/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409822186>
+  <logInfo1409822203>
+    <timestamp>04.09.2014 13:16:43</timestamp>
+    <webpage>http://u-st.ru/catalog/ekskavatory/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409822203>
+  <logInfo1409822206>
+    <timestamp>04.09.2014 13:16:46</timestamp>
+    <webpage>http://u-st.ru/catalog/frontalnye-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409822206>
+  <logInfo1409822468>
+    <timestamp>04.09.2014 13:21:08</timestamp>
+    <webpage>http://u-st.ru/catalog/frontalnye-pogruzchiki/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409822468>
+  <logInfo1409822480>
+    <timestamp>04.09.2014 13:21:20</timestamp>
+    <webpage>http://u-st.ru/catalog/ekskavatory/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409822480>
+  <logInfo1409822497>
+    <timestamp>04.09.2014 13:21:37</timestamp>
+    <webpage>http://u-st.ru/catalog/ekskavatory/ekskavator-john-deere-e-210lc/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409822497>
+  <logInfo1409822506>
+    <timestamp>04.09.2014 13:21:46</timestamp>
+    <webpage>http://u-st.ru/catalog/ekskavatory-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409822506>
+  <logInfo1409822535>
+    <timestamp>04.09.2014 13:22:15</timestamp>
+    <webpage>http://u-st.ru/catalog/ekskavatory-pogruzchiki/ekskavator-pogruzchik-john-deere-710k/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409822535>
+</root>

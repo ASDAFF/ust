@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409807576>
+    <timestamp>04.09.2014 09:12:56</timestamp>
+    <webpage>http://u-st.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409807576>
+  <logInfo1409807599>
+    <timestamp>04.09.2014 09:13:19</timestamp>
+    <webpage>http://generatory.ust-co.ru/catalog/generatory/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409807599>
+  <logInfo1409807650>
+    <timestamp>04.09.2014 09:14:10</timestamp>
+    <webpage>http://generatory.ust-co.ru/catalog/konteynery-dgu/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409807650>
+  <logInfo1409807662>
+    <timestamp>04.09.2014 09:14:22</timestamp>
+    <webpage>http://generatory.ust-co.ru/catalog/konteynery-dgu/konteyner-sever-pbk-sever-pbk-6/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409807662>
+  <logInfo1409807672>
+    <timestamp>04.09.2014 09:14:32</timestamp>
+    <webpage>http://generatory.ust-co.ru/catalog/konteynery-dgu/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409807672>
+  <logInfo1409807679>
+    <timestamp>04.09.2014 09:14:39</timestamp>
+    <webpage>http://generatory.ust-co.ru/catalog/generatory/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409807679>
+  <logInfo1409807691>
+    <timestamp>04.09.2014 09:14:51</timestamp>
+    <webpage>http://generatory.ust-co.ru/catalog/dizelnye-generatory/kozhukhnyy-generator-transprogress-shanghai-diesel-adt-584-t400-1rksd/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409807691>
+  <logInfo1409807710>
+    <timestamp>04.09.2014 09:15:10</timestamp>
+    <webpage>http://generatory.ust-co.ru/catalog/konteynery-dgu/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409807710>
+  <logInfo1409807718>
+    <timestamp>04.09.2014 09:15:18</timestamp>
+    <webpage>http://generatory.ust-co.ru/catalog/generatory/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409807718>
+  <logInfo1409807735>
+    <timestamp>04.09.2014 09:15:35</timestamp>
+    <webpage>http://ust-co.ru/SDMO</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409807735>
+  <logInfo1409808019>
+    <timestamp>04.09.2014 09:20:19</timestamp>
+    <webpage>http://generatory.ust-co.ru/catalog/generatory/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409808019>
+  <logInfo1409808029>
+    <timestamp>04.09.2014 09:20:29</timestamp>
+    <webpage>http://generatory.ust-co.ru/catalog/generatory/?PAGEN_3=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409808029>
+  <logInfo1409808044>
+    <timestamp>04.09.2014 09:20:44</timestamp>
+    <webpage>http://generatory.ust-co.ru/catalog/generatory/?PAGEN_3=4</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409808044>
+  <logInfo1409808052>
+    <timestamp>04.09.2014 09:20:52</timestamp>
+    <webpage>http://generatory.ust-co.ru/catalog/dizelnye-generatory/otkrytyy-generator-transprogress-shanghai-diesel-adt-500-t400-1rsd/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409808052>
+</root>

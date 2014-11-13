@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409816040>
+    <timestamp>04.09.2014 11:34:00</timestamp>
+    <webpage>http://u-st.ru/catalog/podemniki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409816040>
+  <logInfo1409816124>
+    <timestamp>04.09.2014 11:35:24</timestamp>
+    <webpage>http://u-st.ru/catalog/podemniki/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409816124>
+  <logInfo1409816141>
+    <timestamp>04.09.2014 11:35:41</timestamp>
+    <webpage>http://u-st.ru/catalog/podemniki/?PAGEN_3=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409816141>
+  <logInfo1409816199>
+    <timestamp>04.09.2014 11:36:39</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409816199>
+  <logInfo1409816243>
+    <timestamp>04.09.2014 11:37:23</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409816243>
+  <logInfo1409816294>
+    <timestamp>04.09.2014 11:38:14</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/?PAGEN_3=4</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409816294>
+  <logInfo1409816349>
+    <timestamp>04.09.2014 11:39:09</timestamp>
+    <webpage>http://ust-co.ru/catalog/elektricheskie-shtabelery/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409816349>
+</root>

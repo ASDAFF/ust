@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1410020671>
+    <timestamp>06.09.2014 20:24:31</timestamp>
+    <webpage>http://ust-co.ru/catalog/vilochnye-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410020671>
+  <logInfo1410020693>
+    <timestamp>06.09.2014 20:24:53</timestamp>
+    <webpage>http://ust-co.ru/catalog/vilochnye-pogruzchiki/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410020693>
+  <logInfo1410020757>
+    <timestamp>06.09.2014 20:25:57</timestamp>
+    <webpage>http://ust-co.ru/catalog/vilochnye-pogruzchiki/filter/pto_tip_privoda-gaz_benzin/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410020757>
+  <logInfo1410021015>
+    <timestamp>06.09.2014 20:30:15</timestamp>
+    <webpage>http://ust-co.ru/catalog/vilochnye-pogruzchiki/filter/pto_tip_privoda-gaz_benzin/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410021015>
+  <logInfo1410021055>
+    <timestamp>06.09.2014 20:30:55</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410021055>
+</root>

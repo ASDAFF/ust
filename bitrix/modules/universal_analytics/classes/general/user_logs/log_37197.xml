@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1410088676>
+    <timestamp>07.09.2014 15:17:56</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410088676>
+  <logInfo1410088688>
+    <timestamp>07.09.2014 15:18:08</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410088688>
+  <logInfo1410088714>
+    <timestamp>07.09.2014 15:18:34</timestamp>
+    <webpage>http://ust-co.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410088714>
+  <logInfo1410088721>
+    <timestamp>07.09.2014 15:18:41</timestamp>
+    <webpage>http://ust-co.ru/filialy/orel/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410088721>
+  <logInfo1410088757>
+    <timestamp>07.09.2014 15:19:17</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410088757>
+  <logInfo1410088775>
+    <timestamp>07.09.2014 15:19:35</timestamp>
+    <webpage>http://ust-co.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410088775>
+</root>

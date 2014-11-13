@@ -1,0 +1,347 @@
+.navigation li{
+    display: inline;
+}
+.selected{
+    color: #929197;
+    font-weight: bold;
+    text-decoration: none !important;
+}
+ul.navigation li{
+    font-weight: bold;
+    padding: 8px 0 2px 12px;
+    text-decoration: underline;
+    background: none;
+}
+
+ul.navigation li:first-child{
+    padding-left: 0;
+}
+
+.p-chars{
+    font-weight: bold;
+    color: #929197;
+    margin-top: 10px;
+}
+
+.p-chars a{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.top_img{
+    /*padding-bottom: 20px;*/
+    padding-top: 10px;
+    display: inline-block;
+    height: 90px;
+}
+
+div.compare > div.compare-table:first-child{
+    display:block;
+}
+
+.compare table td, .compare table th {
+    border: none !important;
+    color: #6D6B71;
+    padding: 10px;
+    text-align: left !important;
+    vertical-align: top;
+}
+
+.compare-table > table {
+    margin-bottom: 14px;
+    padding-top: 15px;
+    border: medium none !important;
+    border-collapse: collapse;
+    max-width: 870px;
+    width: 870px;
+}
+
+.comparison{
+    width: 16px;
+    height: 16px;
+    border-radius:50%;
+/*    background: url("/bitrix/images/catalog/components/Button-Close-icon.png");*/
+    display: none;
+    float: right;
+    height: 16px;
+    /*left: 69px;*/
+    overflow: hidden;
+    position:  absolute;
+    width: 16px;
+    top:0;
+}
+
+.comparis.del.disable{
+    background: url("/design/images/compare-close-ico.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    width: 16px;
+    height: 16px;
+    borrder-radius:50%;
+    float: left;
+    color: transparent;
+}
+
+.comparis.del.disable:active{
+    background: url("/design/images/compare-close-ico.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    width: 16px;
+    height: 16px;
+    borrder-radius:50%;
+    float: left;
+    color: transparent;
+}
+
+table thead th {
+    background: none repeat scroll 0 0 #DBDBDB;
+    color: #6D6B71 !important;
+    font-size: 13px !important;
+    font-weight: bold;
+    line-height: 18px !important;
+    padding: 7px;
+}
+
+table thead tr:hover th{
+    color: #6D6B71 !important;
+}
+
+.first-col{
+    background: none repeat scroll 0 0 #F5F5F5;
+    min-width: 277px !important;
+    /*position: absolute;*/
+    z-index: 10;
+}
+
+td.first-col{
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 18px;
+    background: none repeat scroll 0 0 #F5F5F5;
+    min-width: 225px !important;
+    /*position: absolute;*/
+    z-index: 10;    
+}
+
+.data-form{
+    overflow: scroll;
+    width: 940px;
+    height: auto;
+}
+
+.data-table td {
+    position: relative;
+}
+
+.active{
+    display:block !important;
+}
+
+.jspHorizontalBar {
+    background: none repeat scroll 0 0 #FF0000 !important;
+    bottom: 0;
+    height: 3px !important;
+    left: 0;
+    position: absolute;
+    top: 80px !important;
+    width: 100%;
+}
+
+.jspTrack {
+    background: none repeat scroll 0 0 #CFCFCF !important;
+}
+
+.jspDrag {
+    background: none repeat scroll 0 0 #EB282C !important;
+}
+
+button.order {
+    background: url("/design/images/button_red.jpg") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+    border: 1px solid #B1151A;
+    border-radius: 4px;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-family: Verdana;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 25px;
+    outline: medium none;
+    padding: 0;
+    text-align: center;
+    position: absolute;
+    /*width: 90px;*/
+    z-index: 1;
+    display: none;
+    float: left;
+    width:90px;
+    top:82px !important;
+}
+
+button.order:hover{
+    background: url('/design/images/button_red_hover.jpg') repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+    position: relative;
+    zoom: 1;
+        border: 1px solid #B1151A;
+    border-radius: 4px;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-family: Verdana;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 25px;
+    outline: medium none;
+    padding: 0;
+    position: absolute;
+    /*width: 90px;*/
+    z-index: 1;
+    width:90px;
+    display: none;
+    float: left;
+    top:82px !important;
+}
+
+button.order-choosed{
+    background: url("/design/images/button_silver.png") repeat-x scroll 0 0 #DAD9D9;
+    border: 1px solid #DCDBDB;
+    border-radius: 4px;
+    color: #6D6B71;
+    cursor: pointer;
+    font-family: Verdana;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 25px;
+    outline: medium none;
+    padding: 0;
+    position: absolute;
+    right: 220px;
+    width: 180px;
+    z-index: 1;
+    bottom:0;
+}
+
+button.order-choosed:hover{
+    background: url("/design/images/button_silver_hover.png") repeat-x scroll 0 0 #DAD9D9; 
+    position: absolute;
+    cursor: pointer;
+    text-decoration: none;
+/*    border-radius: 4px;
+    font-family: Verdana;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 25px;
+    outline: medium none;
+    padding: 0;
+    right: 220px;
+    width: 180px;
+    z-index: 1;
+    bottom:0;
+    border: 1px solid #DCDBDB;
+    color: #6D6B71;*/
+}
+
+.white{
+    font-weight: normal !important;
+    line-height: 18px !important;
+    background: #fff !important;
+}
+
+#white{
+    font-weight: normal !important;
+    line-height: 18px !important;
+    background: #fff !important;
+}
+
+.one_elem{
+    max-width: 550px !important;
+}
+
+.table_div_img{
+    left: 74px;
+    position: relative;
+}
+.jspPane{
+    width: auto !important;
+}
+
+.one-comparison{
+    top:-17px;
+}
+.one-order{
+    top:-19px !important;
+    left:-20px;
+}
+
+input[type="checkbox"] {
+    clip: rect(0px, 0px, 0px, 0px);
+    position: absolute;
+}
+label.chechbox_compare {
+    cursor: pointer;
+}
+label.chechbox_compare:after {
+    background: url("/design/images/checkbox.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    content: " ";
+    display: inline-block;
+    height: 17px;
+    margin-left: 15px;
+    position: relative;
+    top: 3px;
+    width: 17px;
+}
+input[type="checkbox"]:checked + label.chechbox_compare:after {
+    background: url("/design/images/checkbox_checked.png");
+}
+
+
+@media all and (-webkit-min-device-pixel-ratio:0) {
+  .jspHorizontalBar {
+        background: none repeat scroll 0 0 #FF0000 !important;
+        bottom: 0;
+        height: 3px !important;
+        left: 0;
+        position: absolute;
+        top: 105px !important;
+        width: 100%;
+    }
+    .data-form{
+        overflow: scroll;
+        width: 940px;
+        height: auto;
+        max-height: 1100px;;
+    }
+    .white{
+        background: #fff !important;
+        font-weight: normal !important;
+        line-height: 18px !important;
+    }
+    #white{
+        font-weight: normal !important;
+        line-height: 18px !important;
+        background: #fff !important;
+    }
+    .first-col{
+        background: none repeat scroll 0 0 #F5F5F5;
+        min-width: 277px !important;
+        /*position: absolute;*/
+        z-index: 10;
+        text-align: left;
+    }
+    td.first-col{
+        background: none repeat scroll 0 0 #F5F5F5;
+        min-width: 225px !important;
+        /*position: absolute;*/
+        z-index: 10;
+        text-align: left;
+        font-size: 13px;
+        font-weight: bold;
+        line-height: 18px;
+    }
+    .jspVerticalBar {
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 3px !important;
+        height: 100%;
+        background: red;
+        }
+        .jspPane{
+            width: auto !important;
+        }
+}

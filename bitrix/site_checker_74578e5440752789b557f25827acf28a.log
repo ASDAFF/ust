@@ -1,0 +1,210 @@
+2014-Apr-23 10:35:09 Наличие необходимых модулей php (check_php_modules): Ok
+Все необходимые модули установлены
+2014-Apr-23 10:35:09 Обязательные параметры PHP (check_php_settings): Ok
+Настройки правильные
+2014-Apr-23 10:35:09 Модули веб-сервера (check_security): Ok
+Конфликтов не выявлено
+2014-Apr-23 10:35:09 Значения переменных сервера (check_server_vars): Ok
+Корректные
+2014-Apr-23 10:35:09 Сохранение сессии (check_session): Ok
+50% done
+2014-Apr-23 10:35:09 Сохранение сессии (check_session): Ok
+Успешно
+2014-Apr-23 10:35:09 Параметры настройки UTF (mbstring и константа BX_UTF) (check_mbstring): Ok
+Правильные. Сайт работает в UTF кодировке
+2014-Apr-23 10:35:09 Работа с сокетами (check_socket): Ok
+Connection to unispec.bget.ru:80	Success
+
+Успешно
+2014-Apr-23 10:35:09 Лишний вывод в файлах конфигурации (check_dbconn): Ok
+Connection to unispec.bget.ru:80	Success
+
+Успешно
+2014-Apr-23 10:35:09 Выполнение агентов на cron (check_bx_crontab): Warning
+Замечание. Агенты выполняются на хитах, рекомендуется перевести выполнение агентов на cron
+2014-Apr-23 10:35:10 Сохранение сессии без UserAgent (check_session_ua): Ok
+50% done
+Connection to unispec.bget.ru:80	Success
+
+2014-Apr-23 10:35:10 Сохранение сессии без UserAgent (check_session_ua): Ok
+Connection to unispec.bget.ru:80	Success
+
+Успешно
+2014-Apr-23 10:35:10 Настройки сайтов (check_sites): Ok
+Правильные
+2014-Apr-23 10:35:10 Служебные скрипты в корне сайта (check_install_scripts): Ok
+Отсутствуют
+2014-Apr-23 10:35:10 Передача объектов по ссылке (check_clone): Ok
+Успешно
+2014-Apr-23 10:35:10 Размер стека и pcre.recursion_limit (check_pcre_recursion): Ok
+Connection to unispec.bget.ru:80	Success
+
+Успешно
+2014-Apr-23 10:35:10 Вызов method_exists на строке (check_method_exists): Ok
+Connection to unispec.bget.ru:80	Success
+
+Успешно
+2014-Apr-23 10:35:10 Загрузка файла (check_upload): Ok
+Connection to unispec.bget.ru:80	Success
+
+Успешно
+2014-Apr-23 10:35:10 Загрузка файла больше 4Мб (check_upload_big): Ok
+Connection to unispec.bget.ru:80	Success
+
+Успешно
+2014-Apr-23 10:35:10 Загрузка файла через php://input (check_upload_raw): Ok
+Connection to unispec.bget.ru:80	Success
+
+Успешно
+2014-Apr-23 10:35:11 Передача POST запроса с большим числом параметров (check_post): Ok
+Connection to unispec.bget.ru:80	Success
+
+Успешно
+2014-Apr-23 10:35:11 Отправка почты (check_mail): Ok
+Успешно
+2014-Apr-23 10:35:11 Отправка почтового сообщения больше 64Кб (check_mail_big): Ok
+Успешно
+2014-Apr-23 10:35:11 Проверка на наличие неотправленных сообщений (check_mail_b_event): Ok
+Успешно
+2014-Apr-23 10:35:11 Внутреннее перенаправление (функция LocalRedirect) (check_localredirect): Ok
+50% done
+Connection to unispec.bget.ru:80	Success
+
+2014-Apr-23 10:35:11 Внутреннее перенаправление (функция LocalRedirect) (check_localredirect): Ok
+Connection to unispec.bget.ru:80	Success
+
+Успешно
+2014-Apr-23 10:35:11 Фактическое ограничение памяти (check_memory_limit): Ok
+20% done
+Connection to unispec.bget.ru:80	Success
+
+2014-Apr-23 10:35:11 Фактическое ограничение памяти (check_memory_limit): Ok
+40% done
+Connection to unispec.bget.ru:80	Success
+
+2014-Apr-23 10:35:11 Фактическое ограничение памяти (check_memory_limit): Ok
+60% done
+Connection to unispec.bget.ru:80	Success
+
+2014-Apr-23 10:35:11 Фактическое ограничение памяти (check_memory_limit): Ok
+80% done
+Connection to unispec.bget.ru:80	Success
+
+2014-Apr-23 10:35:12 Фактическое ограничение памяти (check_memory_limit): Ok
+Connection to unispec.bget.ru:80	Success
+
+Не менее 256 М
+2014-Apr-23 10:35:12 Работа с файлами кеша (check_cache): Ok
+Успешно
+2014-Apr-23 10:35:12 Доступ к серверу обновлений (check_update): Ok
+Успешно
+2014-Apr-23 10:35:12 HTTP авторизация (check_http_auth): Ok
+Connection to unispec.bget.ru:80	Success
+
+Успешно
+2014-Apr-23 10:35:13 Создание и запуск файла (check_exec): Ok
+Connection to unispec.bget.ru:80	Success
+
+Успешно
+2014-Apr-23 10:35:13 Функция getimagesize для swf (check_getimagesize): Ok
+Успешно
+2014-Apr-23 10:35:13 Версия MySQL сервера (check_mysql_bug_version): Ok
+Успешно
+2014-Apr-23 10:35:14 Время на БД и веб сервере (check_mysql_time): Ok
+Успешно
+2014-Apr-23 10:35:14 Режим работы MySQL (check_mysql_mode): Fail
+Ошибка! Переменная sql_mode в MySQL должна быть пустая, текущее значение: NO_ENGINE_SUBSTITUTION
+2014-Apr-23 10:35:14 Кодировка соединения (check_mysql_connection_charset): Ok
+character_set_connection=utf8, collation_connection=utf8_unicode_ci, character_set_results=utf8
+Успешно
+2014-Apr-23 10:35:14 Кодировка базы данных (check_mysql_db_charset): Fail
+CHARSET=utf8, COLLATION=utf8_general_ci
+Ошибка! Сравнение для базы (utf8_general_ci) отличается от сравнения для соединения (utf8_unicode_ci). Исправить
+2014-Apr-23 10:35:14 Кодировки таблиц в БД (check_mysql_table_charset): Warning
+Замечание. Не проверено из-за ошибки кодировки базы
+2014-Apr-23 10:35:15 Структура базы данных (check_mysql_table_structure): Ok
+0% done
+2014-Apr-23 10:35:15 Структура базы данных (check_mysql_table_structure): Ok
+2% done
+2014-Apr-23 10:35:15 Структура базы данных (check_mysql_table_structure): Ok
+4% done
+2014-Apr-23 10:35:15 Структура базы данных (check_mysql_table_structure): Ok
+7% done
+2014-Apr-23 10:35:15 Структура базы данных (check_mysql_table_structure): Ok
+9% done
+2014-Apr-23 10:35:16 Структура базы данных (check_mysql_table_structure): Ok
+11% done
+2014-Apr-23 10:35:17 Структура базы данных (check_mysql_table_structure): Ok
+14% done
+2014-Apr-23 10:35:17 Структура базы данных (check_mysql_table_structure): Ok
+16% done
+2014-Apr-23 10:35:17 Структура базы данных (check_mysql_table_structure): Ok
+19% done
+2014-Apr-23 10:35:17 Структура базы данных (check_mysql_table_structure): Ok
+21% done
+2014-Apr-23 10:35:17 Структура базы данных (check_mysql_table_structure): Ok
+23% done
+2014-Apr-23 10:35:17 Структура базы данных (check_mysql_table_structure): Ok
+26% done
+2014-Apr-23 10:35:18 Структура базы данных (check_mysql_table_structure): Ok
+28% done
+2014-Apr-23 10:35:18 Структура базы данных (check_mysql_table_structure): Ok
+30% done
+2014-Apr-23 10:35:18 Структура базы данных (check_mysql_table_structure): Ok
+33% done
+2014-Apr-23 10:35:18 Структура базы данных (check_mysql_table_structure): Ok
+35% done
+2014-Apr-23 10:35:18 Структура базы данных (check_mysql_table_structure): Ok
+38% done
+2014-Apr-23 10:35:18 Структура базы данных (check_mysql_table_structure): Ok
+40% done
+2014-Apr-23 10:35:18 Структура базы данных (check_mysql_table_structure): Ok
+42% done
+2014-Apr-23 10:35:18 Структура базы данных (check_mysql_table_structure): Ok
+45% done
+2014-Apr-23 10:35:18 Структура базы данных (check_mysql_table_structure): Ok
+47% done
+2014-Apr-23 10:35:19 Структура базы данных (check_mysql_table_structure): Ok
+50% done
+2014-Apr-23 10:35:19 Структура базы данных (check_mysql_table_structure): Ok
+52% done
+2014-Apr-23 10:35:19 Структура базы данных (check_mysql_table_structure): Ok
+54% done
+2014-Apr-23 10:35:19 Структура базы данных (check_mysql_table_structure): Ok
+57% done
+2014-Apr-23 10:35:19 Структура базы данных (check_mysql_table_structure): Ok
+59% done
+2014-Apr-23 10:35:20 Структура базы данных (check_mysql_table_structure): Ok
+61% done
+2014-Apr-23 10:35:20 Структура базы данных (check_mysql_table_structure): Ok
+64% done
+2014-Apr-23 10:35:20 Структура базы данных (check_mysql_table_structure): Ok
+66% done
+2014-Apr-23 10:35:20 Структура базы данных (check_mysql_table_structure): Ok
+69% done
+2014-Apr-23 10:35:20 Структура базы данных (check_mysql_table_structure): Ok
+71% done
+2014-Apr-23 10:35:20 Структура базы данных (check_mysql_table_structure): Ok
+73% done
+2014-Apr-23 10:35:21 Структура базы данных (check_mysql_table_structure): Ok
+76% done
+2014-Apr-23 10:35:21 Структура базы данных (check_mysql_table_structure): Ok
+78% done
+2014-Apr-23 10:35:21 Структура базы данных (check_mysql_table_structure): Ok
+80% done
+2014-Apr-23 10:35:21 Структура базы данных (check_mysql_table_structure): Ok
+83% done
+2014-Apr-23 10:35:22 Структура базы данных (check_mysql_table_structure): Ok
+85% done
+2014-Apr-23 10:35:22 Структура базы данных (check_mysql_table_structure): Ok
+88% done
+2014-Apr-23 10:35:22 Структура базы данных (check_mysql_table_structure): Ok
+90% done
+2014-Apr-23 10:35:22 Структура базы данных (check_mysql_table_structure): Ok
+92% done
+2014-Apr-23 10:35:23 Структура базы данных (check_mysql_table_structure): Ok
+95% done
+2014-Apr-23 10:35:23 Структура базы данных (check_mysql_table_structure): Ok
+97% done
+2014-Apr-23 10:35:23 Структура базы данных (check_mysql_table_structure): Ok
+Успешно

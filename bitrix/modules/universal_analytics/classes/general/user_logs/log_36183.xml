@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1410000923>
+    <timestamp>06.09.2014 14:55:23</timestamp>
+    <webpage>http://ust-co.ru/catalog/skladskaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410000923>
+  <logInfo1410000956>
+    <timestamp>06.09.2014 14:55:56</timestamp>
+    <webpage>http://ust-co.ru/catalog/richtraki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410000956>
+  <logInfo1410001002>
+    <timestamp>06.09.2014 14:56:42</timestamp>
+    <webpage>http://ust-co.ru/catalog/richtraki/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410001002>
+  <logInfo1410001019>
+    <timestamp>06.09.2014 14:56:59</timestamp>
+    <webpage>http://ust-co.ru/catalog/elektricheskie-shtabelery/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410001019>
+  <logInfo1410001052>
+    <timestamp>06.09.2014 14:57:32</timestamp>
+    <webpage>http://ust-co.ru/ajax/filter_new.php</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410001052>
+  <logInfo1410001071>
+    <timestamp>06.09.2014 14:57:51</timestamp>
+    <webpage>http://ust-co.ru/ajax/filter_new.php</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410001071>
+  <logInfo1410001121>
+    <timestamp>06.09.2014 14:58:41</timestamp>
+    <webpage>http://ust-co.ru/catalog/elektricheskie-shtabelery/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410001121>
+  <logInfo1410001283>
+    <timestamp>06.09.2014 15:01:23</timestamp>
+    <webpage>http://ust-co.ru/catalog/skladskaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410001283>
+  <logInfo1410010048>
+    <timestamp>06.09.2014 17:27:28</timestamp>
+    <webpage>http://ust-co.ru/catalog/mnogokhodovye-pogruzchiki/filter/pto2_gruzopodemnost-to-4831/pto_tip_privoda-elektricheskiy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410010048>
+  <logInfo1410010090>
+    <timestamp>06.09.2014 17:28:10</timestamp>
+    <webpage>http://ust-co.ru/catalog/mnogokhodovye-pogruzchiki/elektricheskiy-mnogokhodovoy-pogruzchik-combilift-c2500ste/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410010090>
+  <logInfo1410010399>
+    <timestamp>06.09.2014 17:33:19</timestamp>
+    <webpage>http://ust-co.ru/catalog/mnogokhodovye-pogruzchiki/elektricheskiy-mnogokhodovoy-pogruzchik-combilift-c2500ste/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410010399>
+  <logInfo1410010407>
+    <timestamp>06.09.2014 17:33:27</timestamp>
+    <webpage>http://ust-co.ru/catalog/mnogokhodovye-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410010407>
+  <logInfo1410010421>
+    <timestamp>06.09.2014 17:33:41</timestamp>
+    <webpage>http://ust-co.ru/catalog/mnogokhodovye-pogruzchiki/?view_page=list</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410010421>
+</root>

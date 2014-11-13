@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409914176>
+    <timestamp>05.09.2014 14:49:36</timestamp>
+    <webpage>http://ust-co.ru/arenda/skladskaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409914176>
+  <logInfo1409914194>
+    <timestamp>05.09.2014 14:49:54</timestamp>
+    <webpage>http://ust-co.ru/catalog/skladskaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409914194>
+  <logInfo1409914215>
+    <timestamp>05.09.2014 14:50:15</timestamp>
+    <webpage>http://ust-co.ru/ajax/filter_new.php</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409914215>
+  <logInfo1409914216>
+    <timestamp>05.09.2014 14:50:16</timestamp>
+    <webpage>http://ust-co.ru/catalog/vilochnye-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409914216>
+  <logInfo1409914232>
+    <timestamp>05.09.2014 14:50:32</timestamp>
+    <webpage>http://ust-co.ru/catalog/vilochnye-pogruzchiki/filter/pto_tip_privoda-dizel/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409914232>
+  <logInfo1409914264>
+    <timestamp>05.09.2014 14:51:04</timestamp>
+    <webpage>http://ust-co.ru/catalog/vilochnye-pogruzchiki/?quantity=10000</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409914264>
+  <logInfo1409914300>
+    <timestamp>05.09.2014 14:51:40</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409914300>
+  <logInfo1409915328>
+    <timestamp>05.09.2014 15:08:48</timestamp>
+    <webpage>http://ust-co.ru/catalog/vilochnye-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409915328>
+  <logInfo1409915349>
+    <timestamp>05.09.2014 15:09:09</timestamp>
+    <webpage>http://ust-co.ru/catalog/vilochnye-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409915349>
+</root>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409821815>
+    <timestamp>04.09.2014 13:10:15</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/istorija/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409821815>
+  <logInfo1409821854>
+    <timestamp>04.09.2014 13:10:54</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/kontakty/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409821854>
+  <logInfo1409821869>
+    <timestamp>04.09.2014 13:11:09</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/karera/universitet/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409821869>
+  <logInfo1409821888>
+    <timestamp>04.09.2014 13:11:28</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/karera/nasha-zhizn/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409821888>
+  <logInfo1409822040>
+    <timestamp>04.09.2014 13:14:00</timestamp>
+    <webpage>http://u-st.ru/catalog/drobilno-sortirovochnoe-oborudovanie/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409822040>
+  <logInfo1409822054>
+    <timestamp>04.09.2014 13:14:14</timestamp>
+    <webpage>http://u-st.ru/catalog/drobilki-mobilnye/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409822054>
+  <logInfo1409822076>
+    <timestamp>04.09.2014 13:14:36</timestamp>
+    <webpage>http://u-st.ru/catalog/drobilno-sortirovochnoe-oborudovanie/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409822076>
+  <logInfo1409822105>
+    <timestamp>04.09.2014 13:15:05</timestamp>
+    <webpage>http://ust-co.ru/poisk/?q=tesab+2600</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409822105>
+</root>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409862059>
+    <timestamp>05.09.2014 00:20:59</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409862059>
+  <logInfo1409862090>
+    <timestamp>05.09.2014 00:21:30</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409862090>
+  <logInfo1409863116>
+    <timestamp>05.09.2014 00:38:36</timestamp>
+    <webpage>http://ust-co.ru/catalog/skladskaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409863116>
+  <logInfo1409863625>
+    <timestamp>05.09.2014 00:47:05</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409863625>
+  <logInfo1409863702>
+    <timestamp>05.09.2014 00:48:22</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409863702>
+  <logInfo1409900191>
+    <timestamp>05.09.2014 10:56:31</timestamp>
+    <webpage>http://u-st.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409900191>
+  <logInfo1409900207>
+    <timestamp>05.09.2014 10:56:47</timestamp>
+    <webpage>http://ust-co.ru/catalog/skladskaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409900207>
+  <logInfo1409900209>
+    <timestamp>05.09.2014 10:56:49</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409900209>
+</root>

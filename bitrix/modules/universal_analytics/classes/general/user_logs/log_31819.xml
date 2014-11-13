@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409823129>
+    <timestamp>04.09.2014 13:32:09</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409823129>
+  <logInfo1409901028>
+    <timestamp>05.09.2014 11:10:28</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409901028>
+  <logInfo1409901036>
+    <timestamp>05.09.2014 11:10:36</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/?PAGEN_2=4</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409901036>
+  <logInfo1409901044>
+    <timestamp>05.09.2014 11:10:44</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/komatsu_fd20t17_bu14m11472/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409901044>
+</root>

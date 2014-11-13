@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409933695>
+    <timestamp>05.09.2014 20:14:55</timestamp>
+    <webpage>http://ust-co.ru/catalog/skladskaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409933695>
+  <logInfo1409933703>
+    <timestamp>05.09.2014 20:15:03</timestamp>
+    <webpage>http://ust-co.ru/catalog/vilochnye-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409933703>
+  <logInfo1409933721>
+    <timestamp>05.09.2014 20:15:21</timestamp>
+    <webpage>http://ust-co.ru/catalog/vilochnye-pogruzchiki/filter/pto_tip_privoda-test/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409933721>
+  <logInfo1409933786>
+    <timestamp>05.09.2014 20:16:26</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409933786>
+  <logInfo1409933799>
+    <timestamp>05.09.2014 20:16:39</timestamp>
+    <webpage>http://u-st.ru/catalog/ekskavatory/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409933799>
+</root>

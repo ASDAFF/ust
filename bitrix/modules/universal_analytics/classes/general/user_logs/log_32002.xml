@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409826502>
+    <timestamp>04.09.2014 14:28:22</timestamp>
+    <webpage>http://u-st.ru/catalog/kolesnye-krany/samokhodnyy-kran-grove-gmk-6300-l/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409826502>
+  <logInfo1409826629>
+    <timestamp>04.09.2014 14:30:29</timestamp>
+    <webpage>http://u-st.ru/catalog/kolesnye-krany/samokhodnyy-kran-grove-gmk-7450/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409826629>
+  <logInfo1409826688>
+    <timestamp>04.09.2014 14:31:28</timestamp>
+    <webpage>http://ust-co.ru/%D0%92%D1%81%D0%B5%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D1%8B%D0%B5%20%D0%BA%D1%80%D0%B0%D0%BD%D1%8B%20Groove</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409826688>
+  <logInfo1409826878>
+    <timestamp>04.09.2014 14:34:38</timestamp>
+    <webpage>http://ust-co.ru/catalog/zakupka/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409826878>
+  <logInfo1409826911>
+    <timestamp>04.09.2014 14:35:11</timestamp>
+    <webpage>http://ust-co.ru/dostavka/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409826911>
+  <logInfo1409826912>
+    <timestamp>04.09.2014 14:35:12</timestamp>
+    <webpage>http://ust-co.ru/servis/tekhnicheskoe-obsluzhivanie/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409826912>
+</root>

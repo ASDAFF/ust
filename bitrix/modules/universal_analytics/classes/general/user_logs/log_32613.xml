@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409837693>
+    <timestamp>04.09.2014 17:34:53</timestamp>
+    <webpage>http://ust-co.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409837693>
+  <logInfo1409837695>
+    <timestamp>04.09.2014 17:34:55</timestamp>
+    <webpage>http://ust-co.ru/design/img/css/transparent.png</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409837695>
+  <logInfo1409837776>
+    <timestamp>04.09.2014 17:36:16</timestamp>
+    <webpage>http://ust-co.ru/akcii/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409837776>
+  <logInfo1409837783>
+    <timestamp>04.09.2014 17:36:23</timestamp>
+    <webpage>http://ust-co.ru/design/img/css/transparent.png</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409837783>
+  <logInfo1409837803>
+    <timestamp>04.09.2014 17:36:43</timestamp>
+    <webpage>http://ust-co.ru/design/img/css/transparent.png</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409837803>
+</root>

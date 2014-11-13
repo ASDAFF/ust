@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409847202>
+    <timestamp>04.09.2014 20:13:22</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409847202>
+  <logInfo1409847224>
+    <timestamp>04.09.2014 20:13:44</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409847224>
+  <logInfo1409847231>
+    <timestamp>04.09.2014 20:13:51</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409847231>
+  <logInfo1409847242>
+    <timestamp>04.09.2014 20:14:02</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/filter/city-moskva/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409847242>
+  <logInfo1409847277>
+    <timestamp>04.09.2014 20:14:37</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/filter/max_weight-from-1333-to-3006/city-moskva/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409847277>
+</root>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1410048158>
+    <timestamp>07.09.2014 04:02:38</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410048158>
+  <logInfo1410048201>
+    <timestamp>07.09.2014 04:03:21</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/novosti/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410048201>
+  <logInfo1410048205>
+    <timestamp>07.09.2014 04:03:25</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/istorija/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410048205>
+  <logInfo1410048216>
+    <timestamp>07.09.2014 04:03:36</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/karera/nasha-zhizn/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410048216>
+  <logInfo1410048253>
+    <timestamp>07.09.2014 04:04:13</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410048253>
+  <logInfo1410048344>
+    <timestamp>07.09.2014 04:05:44</timestamp>
+    <webpage>http://u-st.ru/catalog/buldozery/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410048344>
+  <logInfo1410049245>
+    <timestamp>07.09.2014 04:20:45</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410049245>
+  <logInfo1410049266>
+    <timestamp>07.09.2014 04:21:06</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/kontakty/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410049266>
+</root>

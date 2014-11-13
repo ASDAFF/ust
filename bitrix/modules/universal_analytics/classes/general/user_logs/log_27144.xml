@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409819728>
+    <timestamp>04.09.2014 12:35:28</timestamp>
+    <webpage>http://ust-co.ru/catalog/skladskaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409819728>
+  <logInfo1409819733>
+    <timestamp>04.09.2014 12:35:33</timestamp>
+    <webpage>http://ust-co.ru/ajax/filter_new.php</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409819733>
+  <logInfo1409819739>
+    <timestamp>04.09.2014 12:35:39</timestamp>
+    <webpage>http://ust-co.ru/catalog/skladskaya-tekhnika/?PAGEN_3=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409819739>
+  <logInfo1409819745>
+    <timestamp>04.09.2014 12:35:45</timestamp>
+    <webpage>http://ust-co.ru/ajax/filter_new.php</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409819745>
+  <logInfo1409819747>
+    <timestamp>04.09.2014 12:35:47</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409819747>
+  <logInfo1409819973>
+    <timestamp>04.09.2014 12:39:33</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409819973>
+  <logInfo1409819979>
+    <timestamp>04.09.2014 12:39:39</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/?PAGEN_3=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409819979>
+  <logInfo1409820049>
+    <timestamp>04.09.2014 12:40:49</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409820049>
+  <logInfo1409820054>
+    <timestamp>04.09.2014 12:40:54</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/?PAGEN_3=4</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409820054>
+  <logInfo1409820060>
+    <timestamp>04.09.2014 12:41:00</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/?PAGEN_3=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409820060>
+  <logInfo1409820065>
+    <timestamp>04.09.2014 12:41:05</timestamp>
+    <webpage>http://ust-co.ru/catalog/gidravlicheskie-telezhki/telezhka-s-vesami-unilift-2/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409820065>
+  <logInfo1409820483>
+    <timestamp>04.09.2014 12:48:03</timestamp>
+    <webpage>http://ust-co.ru/upload/catalog/62/325_517.jpg</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409820483>
+  <logInfo1409820486>
+    <timestamp>04.09.2014 12:48:06</timestamp>
+    <webpage>http://ust-co.ru/upload/catalog/62/328_517.jpg</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409820486>
+</root>

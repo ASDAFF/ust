@@ -1,0 +1,47 @@
+/* text */
+input.GRAIN_LINKS_EDIT_DEFAULT-text { border: 1px solid gray; color: black; padding: 3px; background: white  }
+input.GRAIN_LINKS_EDIT_DEFAULT-text.GRAIN_LINKS_EDIT_DEFAULT-text-placeholded { color: gray }
+
+/* dropdown menu */
+div.GRAIN_LINKS_EDIT_DEFAULT-dropdown { padding: 8px; background: white; border: 1px solid gray; }
+div.GRAIN_LINKS_EDIT_DEFAULT-dropdown div.GRAIN_LINKS_EDIT_DEFAULT-dropdown-scroll { max-height: 200px; min-width: 200px; max-width: 400px; overflow-y: auto; position: relative; /* proper key navigation needs 'position: relative' */ }
+div.GRAIN_LINKS_EDIT_DEFAULT-dropdown div.GRAIN_LINKS_EDIT_DEFAULT-dropdown-container { padding: 3px; }
+div.GRAIN_LINKS_EDIT_DEFAULT-dropdown div.GRAIN_LINKS_EDIT_DEFAULT-item a { display: block; padding: 3px; color: black }
+div.GRAIN_LINKS_EDIT_DEFAULT-dropdown div.GRAIN_LINKS_EDIT_DEFAULT-item.GRAIN_LINKS_EDIT_DEFAULT-item-selected a { background: #EEE }
+div.GRAIN_LINKS_EDIT_DEFAULT-dropdown div.GRAIN_LINKS_EDIT_DEFAULT-item.GRAIN_LINKS_EDIT_DEFAULT-item-current a { background: #CCC }
+div.GRAIN_LINKS_EDIT_DEFAULT-dropdown div.GRAIN_LINKS_EDIT_DEFAULT-item a:hover { background: #CCC }
+div.GRAIN_LINKS_EDIT_DEFAULT-dropdown div.GRAIN_LINKS_EDIT_DEFAULT-item span.GRAIN_LINKS_EDIT_DEFAULT-highlight { font-weight: bold }
+div.GRAIN_LINKS_EDIT_DEFAULT-dropdown div.GRAIN_LINKS_EDIT_DEFAULT-message { padding: 3px }
+
+/* selected values */
+span.GRAIN_LINKS_EDIT_DEFAULT-values-multiple { display: block }
+span.GRAIN_LINKS_EDIT_DEFAULT-values-multiple div.GRAIN_LINKS_EDIT_DEFAULT-values-multiple-value { padding: 3px }
+span.GRAIN_LINKS_EDIT_DEFAULT-values-multiple div.GRAIN_LINKS_EDIT_DEFAULT-values-multiple-value a.GRAIN_LINKS_EDIT_DEFAULT-values-multiple-value-link {  }
+span.GRAIN_LINKS_EDIT_DEFAULT-values-multiple div.GRAIN_LINKS_EDIT_DEFAULT-values-multiple-value a.GRAIN_LINKS_EDIT_DEFAULT-values-multiple-value-delete {  }
+
+span.GRAIN_LINKS_EDIT_DEFAULT-values { display: block }
+span.GRAIN_LINKS_EDIT_DEFAULT-values div.GRAIN_LINKS_EDIT_DEFAULT-values-value { padding: 3px }
+span.GRAIN_LINKS_EDIT_DEFAULT-values div.GRAIN_LINKS_EDIT_DEFAULT-values-value a.GRAIN_LINKS_EDIT_DEFAULT-values-value-link {  }
+span.GRAIN_LINKS_EDIT_DEFAULT-values div.GRAIN_LINKS_EDIT_DEFAULT-values-value a.GRAIN_LINKS_EDIT_DEFAULT-values-value-delete {  }
+
+/* admin section styles */
+div.GRAIN_LINKS_EDIT_DEFAULT-dropdown.GRAIN_LINKS_EDIT_DEFAULT-dropdown-admin { padding: 8px; border-radius: 4px 4px 4px 4px;  }
+div.GRAIN_LINKS_EDIT_DEFAULT-dropdown.GRAIN_LINKS_EDIT_DEFAULT-dropdown-admin div.GRAIN_LINKS_EDIT_DEFAULT-dropdown-scroll { font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 13px; line-height: 15px; max-height: 200px; overflow-y: auto; position: relative; /* proper key navigation needs 'position: relative' */ }
+div.GRAIN_LINKS_EDIT_DEFAULT-dropdown.GRAIN_LINKS_EDIT_DEFAULT-dropdown-admin div.GRAIN_LINKS_EDIT_DEFAULT-dropdown-container { padding: 3px; }
+div.GRAIN_LINKS_EDIT_DEFAULT-dropdown.GRAIN_LINKS_EDIT_DEFAULT-dropdown-admin div.GRAIN_LINKS_EDIT_DEFAULT-item.GRAIN_LINKS_EDIT_DEFAULT-item-selected { background: none }
+div.GRAIN_LINKS_EDIT_DEFAULT-dropdown.GRAIN_LINKS_EDIT_DEFAULT-dropdown-admin div.GRAIN_LINKS_EDIT_DEFAULT-item.GRAIN_LINKS_EDIT_DEFAULT-item-current { background: none }
+div.GRAIN_LINKS_EDIT_DEFAULT-dropdown.GRAIN_LINKS_EDIT_DEFAULT-dropdown-admin div.GRAIN_LINKS_EDIT_DEFAULT-item a { color: #333; display: block; padding: 5px 3px; border-radius:4px; }
+div.GRAIN_LINKS_EDIT_DEFAULT-dropdown.GRAIN_LINKS_EDIT_DEFAULT-dropdown-admin div.GRAIN_LINKS_EDIT_DEFAULT-item.GRAIN_LINKS_EDIT_DEFAULT-item-selected a { background: #eef2f2 }
+div.GRAIN_LINKS_EDIT_DEFAULT-dropdown.GRAIN_LINKS_EDIT_DEFAULT-dropdown-admin div.GRAIN_LINKS_EDIT_DEFAULT-item.GRAIN_LINKS_EDIT_DEFAULT-item-current a,
+div.GRAIN_LINKS_EDIT_DEFAULT-dropdown.GRAIN_LINKS_EDIT_DEFAULT-dropdown-admin div.GRAIN_LINKS_EDIT_DEFAULT-item a:hover 
+{ background: #e0e8ea; color: #333 }
+div.GRAIN_LINKS_EDIT_DEFAULT-dropdown.GRAIN_LINKS_EDIT_DEFAULT-dropdown-admin div.GRAIN_LINKS_EDIT_DEFAULT-item span.GRAIN_LINKS_EDIT_DEFAULT-highlight { font-weight: bold; color: #2b4e0c }
+div.GRAIN_LINKS_EDIT_DEFAULT-dropdown.GRAIN_LINKS_EDIT_DEFAULT-dropdown-admin div.GRAIN_LINKS_EDIT_DEFAULT-message { padding: 3px }
+
+span.GRAIN_LINKS_EDIT_DEFAULT-values-multiple.GRAIN_LINKS_EDIT_DEFAULT-values-multiple-admin div.GRAIN_LINKS_EDIT_DEFAULT-values-multiple-value,
+span.GRAIN_LINKS_EDIT_DEFAULT-values.GRAIN_LINKS_EDIT_DEFAULT-values-admin div.GRAIN_LINKS_EDIT_DEFAULT-values-value
+{ padding: 3px 4px 3px 8px; background: #dbe3e5; border-radius: 10px 10px 10px 10px; display: inline-block; margin: 6px 4px 0 0 }
+span.GRAIN_LINKS_EDIT_DEFAULT-values-multiple.GRAIN_LINKS_EDIT_DEFAULT-values-multiple-admin div.GRAIN_LINKS_EDIT_DEFAULT-values-multiple-value a.GRAIN_LINKS_EDIT_DEFAULT-values-multiple-value-delete,
+span.GRAIN_LINKS_EDIT_DEFAULT-values.GRAIN_LINKS_EDIT_DEFAULT-values-admin div.GRAIN_LINKS_EDIT_DEFAULT-values-value a.GRAIN_LINKS_EDIT_DEFAULT-values-value-delete
+{ font: 12px/1.0 Arial; width: 12px; height: 12px; padding: 3px; text-align: center; background: #c7cecf; color: #4b6267; text-decoration: none; display: inline-block; border-radius: 8px 8px 8px 8px; }
+

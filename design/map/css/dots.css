@@ -1,0 +1,449 @@
+/* dots list styles start */
+.dealers-map .dots-list li,
+.offices-map .dots-list li{
+	position: absolute;
+	padding: 5px;
+	width: 4px;
+	height: 4px;
+}
+.dealers-map .dot,
+.offices-map .dot{
+	width: 100%;
+	height: 100%;
+	background: #c0504d;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	display: block;
+}
+.dealers-map .dots-list li.active,
+.dealers-map .dots-list li.hover,
+.offices-map .dots-list li.active,
+.offices-map .dots-list li.hover{
+	background: url(../images/map.png) no-repeat -732px -22px;
+	width: 17px;
+	height: 31px;
+	margin-left: -1px;
+	margin-top: -21px;
+	padding: 0;
+	z-index: 2;	
+}
+.dealers-map .dots-list li.hover,
+.offices-map .dots-list li.hover{z-index: 3;}
+.dealers-map .dots-list li.active .dot,
+.dealers-map .dots-list li.hover .dot,
+.offices-map .dots-list li.active .dot,
+.offices-map .dots-list li.hover .dot{display: none;}
+
+/*
+ ***************
+ * OFFICES MAP *
+ ***************
+ */
+
+/* petrozavodsk styles start */
+.offices-map .dots-list .petrozavodsk{
+	left: 185px;
+	top: 72px;
+}
+/* petrozavodsk styles end */
+/* st-petersburg styles start */
+.offices-map .dots-list .st-petersburg{
+	left: 122px;
+	top: 105px;
+}
+/* st-petersburg styles end */
+/* smolensk styles start */
+.offices-map .dots-list .smolensk{
+	left: 76px;
+	top: 177px;
+}
+/* smolensk styles end */
+/* moscow styles start */
+.offices-map .dots-list .moscow{
+	height: 20px;
+	left: 117px;
+	padding: 0;
+	top: 187px;
+	width: 20px;
+}
+.offices-map .dots-list .moscow .dot{
+	background: url(../images/map.png) no-repeat -728px 0;
+	width: 20px;
+	height: 20px;
+}
+.offices-map .dots-list .moscow.hover,
+.offices-map .dots-list .moscow.active{margin-top: -15px;}
+/* moscow styles end */
+/* yaroslavl styles start */
+.offices-map .dots-list .yaroslavl{
+	left: 158px;
+	top: 172px;
+}
+/* yaroslavl styles end */
+/* kaluga styles start */
+.offices-map .dots-list .kaluga{
+	left: 94px;
+	top: 199px;
+}
+/* kaluga styles end */
+/* ivanovo styles start */
+.offices-map .dots-list .ivanovo{
+	left: 175px;
+	top: 192px;
+}
+/* ivanovo styles end */
+/* lubertsy styles start */
+.offices-map .dots-list .lubertsy{
+	left: 119px;
+	top: 207px;
+}
+/* lubertsy styles end */
+/* tula styles start */
+.offices-map .dots-list .tula{
+	left: 100px;
+	top: 218px;
+}
+/* tula styles end */
+/* vladimir styles start */
+.offices-map .dots-list .vladimir{
+	left: 195px;
+	top: 212px;
+}
+/* vladimir styles end */
+/* kursk styles start */
+.offices-map .dots-list .kursk{
+	left: 59px;
+	top: 232px;
+}
+/* kursk styles end */
+/* orel styles start */
+.offices-map .dots-list .orel{
+	left: 78px;
+	top: 233px;
+}
+/* orel styles end */
+/* kolomna styles start */
+.offices-map .dots-list .kolomna{
+	left: 123px;
+	top: 226px;
+}
+/* kolomna styles end */
+/* ryazan styles start */
+.offices-map .dots-list .ryazan{
+	left: 123px;
+	top: 247px;
+}
+/* ryazan styles end */
+/* n-novgorod styles start */
+.offices-map .dots-list .n-novgorod{
+	left: 184px;
+	top: 232px;
+}
+/* n-novgorod styles end */
+/* cheboksary styles start */
+.offices-map .dots-list .cheboksary{
+	left: 189px;
+	top: 250px;
+}
+/* cheboksary styles end */
+/* belgorod styles start */
+.offices-map .dots-list .belgorod{
+	left: 61px;
+	top: 255px;
+}
+/* belgorod styles end */
+/* voronezh styles start */
+.offices-map .dots-list .voronezh{
+	left: 76px;
+	top: 278px;
+}
+/* voronezh styles end */
+/* saransk styles start */
+.offices-map .dots-list .saransk{
+	left: 156px;
+	top: 264px;
+}
+/* saransk styles end */
+/* izhevsk styles start */
+.offices-map .dots-list .izhevsk{
+	left: 250px;
+	top: 263px;
+}
+/* izhevsk styles end */
+/* perm styles start */
+.offices-map .dots-list .perm{
+	left: 296px;
+	top: 245px;
+}
+/* perm styles end */
+/* penza styles start */
+.offices-map .dots-list .penza{
+	left: 151px;
+	top: 282px;
+}
+/* penza styles end */
+/* kazan styles start */
+.offices-map .dots-list .kazan{
+	left: 209px;
+	top: 277px;
+}
+/* kazan styles end */
+/* rostov-on-don styles start */
+.offices-map .dots-list .rostov-on-don{
+	left: 56px;
+	top: 317px;
+}
+/* rostov-on-don styles end */
+/* saratov styles start */
+.offices-map .dots-list .saratov{
+	left: 136px;
+	top: 306px;
+}
+/* saratov styles end */
+/* samara styles start */
+.offices-map .dots-list .samara{
+	left: 202px;
+	top: 297px;
+}
+/* samara styles end */
+/* ufa styles start */
+.offices-map .dots-list .ufa{
+	left: 237px;
+	top: 317px;
+}
+/* ufa styles end */
+/* orenburg styles start */
+.offices-map .dots-list .orenburg{
+	left: 218px;
+	top: 344px;
+}
+/* orenburg styles end */
+/* ekaterinburg styles start */
+.offices-map .dots-list .ekaterinburg{
+	left: 295px;
+	top: 285px;
+}
+/* ekaterinburg styles end */
+/* chelyabinsk styles start */
+.offices-map .dots-list .chelyabinsk{
+	left: 288px;
+	top: 327px;
+}
+/* chelyabinsk styles end */
+/* tumen styles start */
+.offices-map .dots-list .tumen{
+	left: 347px;
+	top: 305px;
+}
+/* tumen styles end */
+/* surgut styles start */
+.offices-map .dots-list .surgut{
+	left: 427px;
+	top: 263px;
+}
+/* surgut styles end */
+/* omsk styles start */
+.offices-map .dots-list .omsk{
+	left: 404px;
+	top: 338px;
+}
+/* omsk styles end */
+/* tomsk styles start */
+.offices-map .dots-list .tomsk{
+	left: 498px;
+	top: 321px;
+}
+/* tomsk styles end */
+/* novosibirsk styles start */
+.offices-map .dots-list .novosibirsk{
+	left: 458px;
+	top: 370px;
+}
+/* novosibirsk styles end */
+/* kemerovo styles start */
+.offices-map .dots-list .kemerovo{
+	left: 523px;
+	top: 363px;
+}
+/* kemerovo styles end */
+/* novokuznetsk styles start */
+.offices-map .dots-list .novokuznetsk{
+	left: 530px;
+	left: 525px;
+	top: 391px;
+}
+/* novokuznetsk styles end */
+/* barnaul styles start */
+.offices-map .dots-list .barnaul{
+	left: 494px;
+	top: 406px;
+}
+/* barnaul styles end */
+
+/*
+ ***************
+ * DEALERS MAP *
+ ***************
+ */
+
+/* kaliningrad styles start */
+.dealers-map .dots-list .kaliningrad{
+	left: 68px;
+	top: 12px;
+}
+/* kaliningrad styles end */
+/* murmansk styles start */
+.dealers-map .dots-list .murmansk{
+	left: 215px;
+	top: 30px;
+}
+/* murmansk styles end */
+/* minsk styles start */
+.dealers-map .dots-list .minsk{
+	left: 70px;
+	top: 92px;
+}
+/* minsk styles end */
+/* smolensk styles start */
+.dealers-map .dots-list .smolensk{
+	left: 84px;
+	top: 107px;
+}
+/* smolensk styles end */
+/* vologda styles start */
+.dealers-map .dots-list .vologda{
+	left: 151px;
+	top: 114px;
+}
+/* vologda styles end */
+/* yaroslavl styles start */
+.dealers-map .dots-list .yaroslavl{
+	left: 135px;
+	top: 127px;
+}
+/* yaroslavl styles end */
+/* moscow styles start */
+.dealers-map .dots-list .moscow{
+	height: 20px;
+	left: 109px;
+	padding: 0;
+	top: 127px;
+	width: 20px;
+}
+.dealers-map .dots-list .moscow .dot{
+	background: url(../images/map.png) no-repeat -728px 0;
+	width: 20px;
+	height: 20px;
+}
+.dealers-map .dots-list .moscow.hover,
+.dealers-map .dots-list .moscow.active{margin-top: -15px;}
+/* moscow styles end */
+/* kiev styles start */
+.dealers-map .dots-list .kiev{
+	left: 43px;
+	top: 149px;
+}
+/* kiev styles end */
+/* vladimir styles start */
+.dealers-map .dots-list .vladimir{
+	left: 125px;
+	top: 140px;
+}
+/* vladimir styles end */
+/* lipetsk styles start */
+.dealers-map .dots-list .lipetsk{
+	left: 91px;
+	top: 159px;
+}
+/* lipetsk styles end */
+/* n-novgorod styles start */
+.dealers-map .dots-list .n-novgorod{
+	left: 141px;
+	top: 156px;
+}
+/* n-novgorod styles end */
+/* voronezh styles start */
+.dealers-map .dots-list .voronezh{
+	left: 81px;
+	top: 168px;
+}
+/* voronezh styles end */
+/* kirov styles start */
+.dealers-map .dots-list .kirov{
+	left: 184px;
+	top: 168px;
+}
+/* kirov styles end */
+/* izhevsk styles start */
+.dealers-map .dots-list .izhevsk{
+	left: 182px;
+	top: 197px;
+}
+/* izhevsk styles end */
+/* rostov-on-don styles start */
+.dealers-map .dots-list .rostov-on-don{
+	left: 52px;
+	top: 192px;
+}
+/* rostov-on-don styles end */
+/* krasnodar styles start */
+.dealers-map .dots-list .krasnodar{
+	left: 24px;
+	top: 200px;
+}
+/* krasnodar styles end */
+/* volgograd styles start */
+.dealers-map .dots-list .volgograd{
+	left: 80px;
+	top: 209px;
+}
+/* volgograd styles end */
+/* baksan styles start */
+.dealers-map .dots-list .baksan{
+	left: 39px;
+	top: 227px;
+}
+/* baksan styles end */
+/* tbilisi styles start */
+.dealers-map .dots-list .tbilisi{
+	left: 21px;
+	top: 238px;
+}
+/* tbilisi styles end */
+/* baku styles start */
+.dealers-map .dots-list .baku{
+	left: 39px;
+	top: 287px;
+}
+/* baku styles end */
+/* krasnoyarsk styles start */
+.dealers-map .dots-list .krasnoyarsk{
+	left: 350px;
+	top: 256px;
+}
+/* krasnoyarsk styles end */
+/* novosibirsk styles start */
+.dealers-map .dots-list .novosibirsk{
+	left: 293px;
+	top: 275px;
+}
+/* novosibirsk styles end */
+/* irkutsk styles start */
+.dealers-map .dots-list .irkutsk{
+	left: 402px;
+	top: 347px;
+}
+/* irkutsk styles end */
+/* barnaul styles start */
+.dealers-map .dots-list .barnaul{
+	left: 295px;
+	top: 325px;
+}
+/* barnaul styles end */
+/* yuzhno-sakhalinsk styles start */
+.dealers-map .dots-list .yuzhno-sakhalinsk{
+	left: 631px;
+	top: 285px;
+}
+/* yuzhno-sakhalinsk styles end */
+/* dots list styles end */

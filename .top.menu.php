@@ -1,0 +1,67 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Каталог", 
+		"/catalog/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Акции", 
+		"/akcii/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Аренда", 
+		"/arenda/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Сервис", 
+		"/servis/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Доставка", 
+		"/dostavka/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Trade-in", 
+		"/trade-in/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Финансовые услуги", 
+		"/finansovye-uslugi/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"О компании", 
+		"/o-kompanii/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"/o-kompanii/kontakty/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

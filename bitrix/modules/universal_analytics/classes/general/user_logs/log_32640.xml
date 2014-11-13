@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409838326>
+    <timestamp>04.09.2014 17:45:26</timestamp>
+    <webpage>http://ust-co.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409838326>
+  <logInfo1409838333>
+    <timestamp>04.09.2014 17:45:33</timestamp>
+    <webpage>http://ust-co.ru/filialy/ufa/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409838333>
+  <logInfo1409838362>
+    <timestamp>04.09.2014 17:46:02</timestamp>
+    <webpage>http://ust-co.ru/filialy/ufa/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409838362>
+  <logInfo1409838372>
+    <timestamp>04.09.2014 17:46:12</timestamp>
+    <webpage>http://ust-co.ru/filialy/ufa/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409838372>
+  <logInfo1409838376>
+    <timestamp>04.09.2014 17:46:16</timestamp>
+    <webpage>http://ust-co.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409838376>
+  <logInfo1409838391>
+    <timestamp>04.09.2014 17:46:31</timestamp>
+    <webpage>http://ust-co.ru/filialy/chelyabinsk/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409838391>
+</root>

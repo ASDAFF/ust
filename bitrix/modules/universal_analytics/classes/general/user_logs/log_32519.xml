@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409835768>
+    <timestamp>04.09.2014 17:02:48</timestamp>
+    <webpage>http://u-st.ru/catalog/katki/?quantity=12</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409835768>
+  <logInfo1409835769>
+    <timestamp>04.09.2014 17:02:49</timestamp>
+    <webpage>http://u-st.ru/catalog/katki/?quantity=6</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409835769>
+  <logInfo1409836016>
+    <timestamp>04.09.2014 17:06:56</timestamp>
+    <webpage>http://u-st.ru/catalog/mini-ekskavatory/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409836016>
+  <logInfo1409836018>
+    <timestamp>04.09.2014 17:06:58</timestamp>
+    <webpage>http://u-st.ru/catalog/mini-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409836018>
+  <logInfo1409836020>
+    <timestamp>04.09.2014 17:07:00</timestamp>
+    <webpage>http://u-st.ru/akcii/stroitelnaya-tekhnika/poprobuy-i-kupi-lyubaya-tekhnika-v-arendu-s-vykupom/</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409836020>
+  <logInfo1409836031>
+    <timestamp>04.09.2014 17:07:11</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409836031>
+  <logInfo1409836032>
+    <timestamp>04.09.2014 17:07:12</timestamp>
+    <webpage>http://u-st.ru/catalog/mobilnye-krany/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409836032>
+  <logInfo1409836033>
+    <timestamp>04.09.2014 17:07:13</timestamp>
+    <webpage>http://u-st.ru/catalog/mobilnye-krany/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409836033>
+  <logInfo1409836041>
+    <timestamp>04.09.2014 17:07:21</timestamp>
+    <webpage>http://u-st.ru/catalog/kolesnye-krany/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409836041>
+</root>

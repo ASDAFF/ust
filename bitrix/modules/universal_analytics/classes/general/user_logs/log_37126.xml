@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1410084952>
+    <timestamp>07.09.2014 14:15:52</timestamp>
+    <webpage>http://ust-co.ru/catalog/richtraki/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410084952>
+  <logInfo1410084959>
+    <timestamp>07.09.2014 14:15:59</timestamp>
+    <webpage>http://ust-co.ru/catalog/richtraki/richtrak-yale-mr14/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410084959>
+  <logInfo1410084991>
+    <timestamp>07.09.2014 14:16:31</timestamp>
+    <webpage>http://ust-co.ru/catalog/uzkoprokhodnye-shtabelery/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410084991>
+  <logInfo1410085009>
+    <timestamp>07.09.2014 14:16:49</timestamp>
+    <webpage>http://ust-co.ru/catalog/elektricheskie-shtabelery/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410085009>
+  <logInfo1410085027>
+    <timestamp>07.09.2014 14:17:07</timestamp>
+    <webpage>http://ust-co.ru/catalog/elektricheskie-shtabelery/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410085027>
+  <logInfo1410085043>
+    <timestamp>07.09.2014 14:17:23</timestamp>
+    <webpage>http://ust-co.ru/catalog/elektricheskie-shtabelery/?PAGEN_3=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410085043>
+</root>

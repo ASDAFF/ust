@@ -1,0 +1,56 @@
+.ust_administrator_settings table {
+	background-color: #F5F9F9;
+	border: 1px solid #DCE7ED;
+	border-top: 1px solid #C4CED2;
+	padding: 19px;
+}
+.ust_administrator_settings table .heading {
+	background-color: #E0E8EA;
+	border-bottom: 11px solid #F5F9F9;
+	border-top: 11px solid #F5F9F9;
+	color: #4B6267;
+	font-size: 14px;
+	font-weight: 700;
+	padding: 8px 4px 10px !important;
+	text-align: center !important;
+	text-shadow: 0px 1px #FFFFFF;
+}
+.ust_administrator_settings table .cell-r {text-align: right; width: 40%;}
+.ust_administrator_settings .title {
+	color: #000000;
+	font-size: 20px;
+	min-height: 25px;
+	padding: 3px 53px 12px 3px;
+	position: relative;
+}
+.ust_administrator_settings button {
+	border-radius: 4px;
+	cursor: pointer;
+	display: inline-block;
+	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	font-size: 13px;
+	font-weight: 700;
+	height: 29px;
+	position: relative;
+	margin: 10px 10px 0 0px;
+	background-color: #86AD00 !important;
+	background-image: -o-linear-gradient(bottom, #729E00, #97BA00) !important;
+	border-bottom: 1px solid #648900;
+	border-left: 1px solid #7EA502;
+	border-right: 1px solid #7EA502;
+	border-top: 1px solid #97C004;
+	box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.251), inset 0px 1px 0px #CBDC00;
+	color: #FFFFFF;
+	padding: 0px 13px 2px;
+	text-shadow: 0px 1px rgba(0, 0, 0, 0.102);
+}
+.ust_administrator_settings button:hover {
+	background-color: #9EC710 !important;
+	background-image: -o-linear-gradient(top, #ACCE11, #8ABB0D) !important;
+	border-bottom-color: #648900;
+	border-left-color: #7EA502;
+	border-right-color: #7EA502;
+	border-top-color: #97C004;
+	box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.251), 0px 1px 0px #D5E71A inset;
+	text-decoration: none;
+}

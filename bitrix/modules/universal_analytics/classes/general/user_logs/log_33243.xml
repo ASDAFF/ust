@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409889906>
+    <timestamp>05.09.2014 08:05:06</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409889906>
+  <logInfo1409889907>
+    <timestamp>05.09.2014 08:05:07</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409889907>
+  <logInfo1409889929>
+    <timestamp>05.09.2014 08:05:29</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409889929>
+  <logInfo1409889930>
+    <timestamp>05.09.2014 08:05:30</timestamp>
+    <webpage>http://ust-co.ru/design/img/css/transparent.png</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409889930>
+  <logInfo1409889943>
+    <timestamp>05.09.2014 08:05:43</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409889943>
+  <logInfo1409889960>
+    <timestamp>05.09.2014 08:06:00</timestamp>
+    <webpage>http://ust-co.ru/design/img/css/transparent.png</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409889960>
+  <logInfo1409889976>
+    <timestamp>05.09.2014 08:06:16</timestamp>
+    <webpage>http://ust-co.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409889976>
+  <logInfo1409889980>
+    <timestamp>05.09.2014 08:06:20</timestamp>
+    <webpage>http://ust-co.ru/design/img/css/transparent.png</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409889980>
+  <logInfo1409889981>
+    <timestamp>05.09.2014 08:06:21</timestamp>
+    <webpage>http://ust-co.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409889981>
+</root>

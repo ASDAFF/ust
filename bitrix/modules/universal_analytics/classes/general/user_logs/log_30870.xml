@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409807661>
+    <timestamp>04.09.2014 09:14:21</timestamp>
+    <webpage>http://u-st.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409807661>
+  <logInfo1409807679>
+    <timestamp>04.09.2014 09:14:39</timestamp>
+    <webpage>http://u-st.ru/filialy/kemerovo/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409807679>
+  <logInfo1409807696>
+    <timestamp>04.09.2014 09:14:56</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409807696>
+  <logInfo1409807719>
+    <timestamp>04.09.2014 09:15:19</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409807719>
+  <logInfo1409807728>
+    <timestamp>04.09.2014 09:15:28</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/istorija/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409807728>
+  <logInfo1409807734>
+    <timestamp>04.09.2014 09:15:34</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/kontakty/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409807734>
+</root>

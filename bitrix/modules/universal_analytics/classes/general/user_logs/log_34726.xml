@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409915345>
+    <timestamp>05.09.2014 15:09:05</timestamp>
+    <webpage>http://ust-co.ru/catalog/komplektovshchiki-zakazov/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409915345>
+  <logInfo1409915373>
+    <timestamp>05.09.2014 15:09:33</timestamp>
+    <webpage>http://ust-co.ru/catalog/komplektovshchiki-zakazov/komplektovshchik-zakazov-yale-mo10/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409915373>
+  <logInfo1409915431>
+    <timestamp>05.09.2014 15:10:31</timestamp>
+    <webpage>http://ust-co.ru/catalog/komplektovshchiki-zakazov/komplektovshchik-zakazov-yale-mo10e-ac/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409915431>
+  <logInfo1409915457>
+    <timestamp>05.09.2014 15:10:57</timestamp>
+    <webpage>http://ust-co.ru/%D2%E5%F5%ED%E8%EA%E0%20Yale</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409915457>
+  <logInfo1409915477>
+    <timestamp>05.09.2014 15:11:17</timestamp>
+    <webpage>http://ust-co.ru/%C8%F1%F2%EE%F0%E8%FF%20%EA%EE%EC%EF%E0%ED%E8%E8%20Yale</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409915477>
+  <logInfo1409915484>
+    <timestamp>05.09.2014 15:11:24</timestamp>
+    <webpage>http://ust-co.ru/%D2%E5%F5%ED%E8%EA%E0%20Yale</webpage>
+    <responsecode>404</responsecode>
+  </logInfo1409915484>
+  <logInfo1409915838>
+    <timestamp>05.09.2014 15:17:18</timestamp>
+    <webpage>http://ust-co.ru/catalog/komplektovshchiki-zakazov/komplektovshchik-zakazov-yale-mo10s/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409915838>
+  <logInfo1409915845>
+    <timestamp>05.09.2014 15:17:25</timestamp>
+    <webpage>http://ust-co.ru/catalog/komplektovshchiki-zakazov/komplektovshchik-zakazov-yale-mo10e-ac/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409915845>
+  <logInfo1409915880>
+    <timestamp>05.09.2014 15:18:00</timestamp>
+    <webpage>http://ust-co.ru/catalog/komplektovshchiki-zakazov/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409915880>
+</root>

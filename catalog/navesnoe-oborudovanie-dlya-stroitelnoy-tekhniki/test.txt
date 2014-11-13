@@ -1,0 +1,5 @@
+2Array
+(
+    [KEYSSID] => 55885f812f37c9cf98fd7dfe8ba52d84
+    [PHPSESSID] => 55885f812f37c9cf98fd7dfe8ba52d84
+)

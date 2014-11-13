@@ -1,0 +1,13 @@
+<? if(!defined("B_PROLOG_INCLUDED")||B_PROLOG_INCLUDED!==true)die();
+$arComponentParameters = array(
+    'PARAMETERS' => array(
+        'SECTION_ID' => array(
+            'NAME' => 'Id Раздела',
+            'TYPE' => 'INTEGER',
+            'MULTIPLE' => 'N',
+            'PARENT' => 'BASE',
+            ),
+        'CACHE_TIME'  =>  array('DEFAULT'=>3600),
+    ),
+);
+?>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409911982>
+    <timestamp>05.09.2014 14:13:02</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/otzyvy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409911982>
+  <logInfo1409912005>
+    <timestamp>05.09.2014 14:13:25</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/kontakty/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409912005>
+  <logInfo1409912027>
+    <timestamp>05.09.2014 14:13:47</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/otzyvy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409912027>
+  <logInfo1409912035>
+    <timestamp>05.09.2014 14:13:55</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/karera/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409912035>
+  <logInfo1409912243>
+    <timestamp>05.09.2014 14:17:23</timestamp>
+    <webpage>http://ust-co.ru/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409912243>
+  <logInfo1409912250>
+    <timestamp>05.09.2014 14:17:30</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409912250>
+  <logInfo1409912349>
+    <timestamp>05.09.2014 14:19:09</timestamp>
+    <webpage>http://ust-co.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409912349>
+  <logInfo1409912356>
+    <timestamp>05.09.2014 14:19:16</timestamp>
+    <webpage>http://ust-co.ru/filialy/st-petersburg/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409912356>
+</root>

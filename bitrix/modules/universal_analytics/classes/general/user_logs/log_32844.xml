@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409848904>
+    <timestamp>04.09.2014 20:41:44</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/novosti/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409848904>
+  <logInfo1409848908>
+    <timestamp>04.09.2014 20:41:48</timestamp>
+    <webpage>http://u-st.ru/o-kompanii/novosti/stroitelnaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409848908>
+  <logInfo1409848914>
+    <timestamp>04.09.2014 20:41:54</timestamp>
+    <webpage>http://u-st.ru/o-kompanii/novosti/stroitelnaya-tekhnika/?year=2005</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409848914>
+  <logInfo1409848919>
+    <timestamp>04.09.2014 20:41:59</timestamp>
+    <webpage>http://u-st.ru/o-kompanii/novosti/stroitelnaya-tekhnika/?year=2005</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409848919>
+  <logInfo1409848922>
+    <timestamp>04.09.2014 20:42:02</timestamp>
+    <webpage>http://u-st.ru/o-kompanii/novosti/stroitelnaya-tekhnika/?year=2006</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409848922>
+  <logInfo1409848926>
+    <timestamp>04.09.2014 20:42:06</timestamp>
+    <webpage>http://u-st.ru/o-kompanii/novosti/stroitelnaya-tekhnika/?year=2006</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409848926>
+  <logInfo1409848932>
+    <timestamp>04.09.2014 20:42:12</timestamp>
+    <webpage>http://u-st.ru/o-kompanii/novosti/stroitelnaya-tekhnika/?quantity=10000</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409848932>
+  <logInfo1409848939>
+    <timestamp>04.09.2014 20:42:19</timestamp>
+    <webpage>http://u-st.ru/o-kompanii/novosti/stroitelnaya-tekhnika/?year=2005&amp;quantity=10000</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409848939>
+  <logInfo1409848942>
+    <timestamp>04.09.2014 20:42:22</timestamp>
+    <webpage>http://u-st.ru/o-kompanii/novosti/stroitelnaya-tekhnika/?year=2007&amp;quantity=10000</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409848942>
+  <logInfo1409848944>
+    <timestamp>04.09.2014 20:42:24</timestamp>
+    <webpage>http://u-st.ru/o-kompanii/novosti/stroitelnaya-tekhnika/?year=2008&amp;quantity=10000</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409848944>
+  <logInfo1409848949>
+    <timestamp>04.09.2014 20:42:29</timestamp>
+    <webpage>http://u-st.ru/o-kompanii/novosti/stroitelnaya-tekhnika/?month=07&amp;year=2008&amp;quantity=10000</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409848949>
+  <logInfo1409848951>
+    <timestamp>04.09.2014 20:42:31</timestamp>
+    <webpage>http://u-st.ru/o-kompanii/novosti/stroitelnaya-tekhnika/?month=09&amp;year=2008&amp;quantity=10000</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409848951>
+  <logInfo1409848954>
+    <timestamp>04.09.2014 20:42:34</timestamp>
+    <webpage>http://u-st.ru/o-kompanii/novosti/stroitelnaya-tekhnika/?year=2009&amp;quantity=10000</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409848954>
+  <logInfo1409848961>
+    <timestamp>04.09.2014 20:42:41</timestamp>
+    <webpage>http://u-st.ru/o-kompanii/novosti/stroitelnaya-tekhnika/?year=2010&amp;quantity=10000</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409848961>
+  <logInfo1409848972>
+    <timestamp>04.09.2014 20:42:52</timestamp>
+    <webpage>http://u-st.ru/o-kompanii/novosti/stroitelnaya-tekhnika/universal-spetstekhnika-prodala-100-yu-stroitelnuyu-mashinu-john-deere-/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409848972>
+</root>

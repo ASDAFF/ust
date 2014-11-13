@@ -1,0 +1,219 @@
+Options -Indexes 
+ErrorDocument 404 /404.php
+
+<IfModule mod_php5.c>
+  php_flag session.use_trans_sid off
+		php_value display_errors 1
+		php_value display_startup_errors 1
+		php_value error_reporting E_ALL
+                php_value mbstring.internal_encoding UTF-8
+                php_value mbstring.func_overload 2
+                php_value max_execution_time 3600
+                php_value set_time_limit 3600
+                php_value max_input_vars 10000 
+                php_value memory_limit 5000M
+                php_flag suhosin.simulation 1
+
+</IfModule>
+
+<IfModule mod_rewrite.c>
+  Options +FollowSymLinks
+  RewriteEngine On
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-l
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !/bitrix/urlrewrite.php$
+  RewriteRule ^(.*)$ /bitrix/urlrewrite.php [L]
+  RewriteRule .* - [E=REMOTE_USER:%{HTTP:Authorization}]
+</IfModule>
+
+#Оптимизация в соответствии с требования Google Page Speed VARY ACCEPT Encoding
+<IfModule mod_headers.c>
+  <FilesMatch "\.(js|css|xml|gz)$">
+    Header append Vary: Accept-Encoding
+  </FilesMatch>
+</IfModule>
+
+#Включение gzip для js и css
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE application/javascript
+  AddOutputFilterByType DEFLATE text/javascript
+  AddOutputFilterByType DEFLATE text/css
+  <IfModule mod_setenvif.c>
+    BrowserMatch ^Mozilla/4 gzip-only-text/html
+    BrowserMatch ^Mozilla/4\.0[678] no-gzip
+    BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
+  </IfModule>
+</IfModule>
+
+<IfModule mod_dir.c>
+  DirectoryIndex index.php index.html
+</IfModule>
+
+<IfModule mod_expires.c>
+  ExpiresActive on
+  ExpiresByType image/jpeg "access plus 3 day"
+  ExpiresByType image/gif "access plus 3 day"
+  ExpiresByType image/png "access plus 3 day"
+  ExpiresByType text/css "access plus 3 day"
+  ExpiresByType application/javascript "access plus 3 day"  
+</IfModule>
+Redirect 301 /arenda/index.php http://ust-co.ru/arenda/stroitelnaya-tekhnika/
+Redirect 301 /catalog/index.php http://ust-co.ru/catalog/stroitelnaya-tekhnika/
+Redirect 301 /catalog/navesnoe-svaeboynoe-oborud/ http://ust-co.ru/catalog/navesnoe-svaeboynoe-oborudovanie/
+Redirect 301 /catalog/navesnoe-burovoe-oborud/ http://ust-co.ru/catalog/navesnoe-burovoe-oborudovanie/
+Redirect 301 /catalog/outsourcing/ http://ust-co.ru/arenda/autsorsing/
+Redirect 301 /catalog/arenda/ http://ust-co.ru/arenda/skladskaya-tekhnika/
+Redirect 301 /catalog/arenda_park/ http://ust-co.ru/arenda/skladskaya-tekhnika/
+Redirect 301 /catalog/arendaplus/ http://ust-co.ru/arenda/skladskaya-tekhnika/
+Redirect 301 /catalog/bu_texnika_s_garantiei/ http://ust-co.ru/catalog/bu-skladskaya-tehnika/
+Redirect 301 /catalog/specpredlogenie/ http://ust-co.ru/catalog/bu-skladskaya-tehnika/bu_skladskaya_tekhnika/
+Redirect 301 /catalog/used/ http://ust-co.ru/catalog/bu-skladskaya-tehnika/bu_skladskaya_tekhnika/
+Redirect 301 /catalog/elec_unilift/ http://ust-co.ru/catalog/elektricheskie-shtabelery/
+Redirect 301 /catalog/shtabeler_mse/ http://ust-co.ru/catalog/elektricheskie-shtabelery/
+Redirect 301 /catalog/shtabeler_msx/ http://ust-co.ru/catalog/elektricheskie-shtabelery/
+Redirect 301 /catalog/shtabelery/ http://ust-co.ru/catalog/elektricheskie-shtabelery/
+Redirect 301 /catalog/shtabeler_hydraulic/ http://ust-co.ru/catalog/gidravlicheskie-shtabelery/
+Redirect 301 /catalog/hydraulic/ http://ust-co.ru/catalog/gidravlicheskie-telezhki/
+Redirect 301 /catalog/trolley/ http://ust-co.ru/catalog/gidravlicheskie-telezhki/
+Redirect 301 /catalog/visokourovnevie/ http://ust-co.ru/catalog/komplektovshchiki-zakazov/
+Redirect 301 /catalog/combi_cb/ http://ust-co.ru/catalog/mnogokhodovye-pogruzchiki/
+Redirect 301 /catalog/seria_c/ http://ust-co.ru/catalog/mnogokhodovye-pogruzchiki/
+Redirect 301 /catalog/seria_gt/ http://ust-co.ru/catalog/mnogokhodovye-pogruzchiki/
+Redirect 301 /catalog/seria_sl/ http://ust-co.ru/catalog/mnogokhodovye-pogruzchiki/
+Redirect 301 /catalog/options/ http://ust-co.ru/catalog/navesnoe-oborudovanie/
+Redirect 301 /catalog/straddle_carrier/ http://ust-co.ru/catalog/obrabotchiki-konteynerov/
+Redirect 301 /catalog/peredvizhnye/ http://ust-co.ru/catalog/podemnye-stoly/
+Redirect 301 /catalog/stacionarnye/ http://ust-co.ru/catalog/podemnye-stoly/
+Redirect 301 /catalog/reachtrucks_mr/ http://ust-co.ru/catalog/richtraki/
+Redirect 301 /catalog/katalog_produkcii/ http://ust-co.ru/catalog/skladskaya-tekhnika/
+Redirect 301 /catalog/sklad/ http://ust-co.ru/catalog/skladskaya-tekhnika/
+Redirect 301 /catalog/combilift/ http://ust-co.ru/catalog/skladskaya-tekhnika/filter/brand-combilift/
+Redirect 301 /catalog/pogruzchiki_yale/ http://ust-co.ru/catalog/skladskaya-tekhnika/filter/brand-yale/
+Redirect 301 /catalog/elec/ http://ust-co.ru/catalog/transportirovshchiki-pallet/
+Redirect 301 /catalog/telega_elec/ http://ust-co.ru/catalog/transportirovshchiki-pallet/
+Redirect 301 /catalog/telegka_mpx/ http://ust-co.ru/catalog/transportirovshchiki-pallet/
+Redirect 301 /catalog/nizkourovnevie/ http://ust-co.ru/catalog/tyagachi/
+Redirect 301 /catalog/tjagachi/ http://ust-co.ru/catalog/tyagachi/
+Redirect 301 /catalog/ak/ http://ust-co.ru/catalog/uzkoprokhodnye-pogruzchiki/
+Redirect 301 /catalog/uzkoprohodniy_pogruzchik/ http://ust-co.ru/catalog/uzkoprokhodnye-pogruzchiki/
+Redirect 301 /catalog/uzkoprohodnie/ http://ust-co.ru/catalog/uzkoprokhodnye-shtabelery/
+Redirect 301 /catalog/pogruzchiki/ http://ust-co.ru/catalog/vilochnye-pogruzchiki/
+Redirect 301 /catalog/pye_15_20_t/ http://ust-co.ru/catalog/vilochnye-pogruzchiki/
+Redirect 301 /catalog/pye_15_40_t/ http://ust-co.ru/catalog/vilochnye-pogruzchiki/
+Redirect 301 /catalog/rktk/ http://ust-co.ru/catalog/vilochnye-pogruzchiki/
+Redirect 301 /vilochnij_pogruzchik.html http://ust-co.ru/catalog/vilochnye-pogruzchiki/
+Redirect 301 /catalog/pogruzchiki_utilev/ http://ust-co.ru/catalog/vilochnye-pogruzchiki/filter/brand-utilev/
+Redirect 301 /catalog/utilev/ http://ust-co.ru/catalog/vilochnye-pogruzchiki/filter/brand-utilev/
+Redirect 301 /catalog/dbeb/ http://ust-co.ru/catalog/vilochnye-pogruzchiki/filter/brand-yale/
+Redirect 301 /catalog/vc_13_15_t/ http://ust-co.ru/catalog/vilochnye-pogruzchiki/filter/brand-yale/
+Redirect 301 /catalog/vf/ http://ust-co.ru/catalog/vilochnye-pogruzchiki/filter/brand-yale/
+Redirect 301 /catalog/vl/ http://ust-co.ru/catalog/vilochnye-pogruzchiki/filter/brand-yale/
+Redirect 301 /catalog/vm_40_50_t/ http://ust-co.ru/catalog/vilochnye-pogruzchiki/filter/brand-yale/
+Redirect 301 /catalog/vt/ http://ust-co.ru/catalog/vilochnye-pogruzchiki/filter/brand-yale/
+Redirect 301 /catalog/vx4/ http://ust-co.ru/catalog/vilochnye-pogruzchiki/filter/brand-yale/
+Redirect 301 /catalog/vx6/ http://ust-co.ru/catalog/vilochnye-pogruzchiki/filter/brand-yale/
+Redirect 301 /catalog/akkreditacija_partnera_ust/ http://ust-co.ru/catalog/zakupka/akkreditacija_partnera_ust/
+Redirect 301 /catalog/dealer/ http://ust-co.ru/dilery-skladskoj-tehniki/
+Redirect 301 /catalog/delivery/ http://ust-co.ru/dostavka/
+Redirect 301 /catalog/barnaul/ http://ust-co.ru/filialy/barnaul/
+Redirect 301 /catalog/belgorod/ http://ust-co.ru/filialy/belgorod/
+Redirect 301 /catalog/cheboksary/ http://ust-co.ru/filialy/cheboksary/
+Redirect 301 /catalog/cheljabinsk/ http://ust-co.ru/filialy/chelyabinsk/
+Redirect 301 /catalog/ekaterinburg/ http://ust-co.ru/filialy/ekaterinburg/
+Redirect 301 /catalog/ivanovo/ http://ust-co.ru/filialy/ivanovo/
+Redirect 301 /catalog/izhevsk/ http://ust-co.ru/filialy/izhevsk/
+Redirect 301 /catalog/filial_kazan/ http://ust-co.ru/filialy/kazan/
+Redirect 301 /catalog/kazan/ http://ust-co.ru/filialy/kazan/
+Redirect 301 /catalog/filial_kemerovo/ http://ust-co.ru/filialy/kemerovo/
+Redirect 301 /catalog/kemerovo/ http://ust-co.ru/filialy/kemerovo/
+Redirect 301 /catalog/khimki/ http://ust-co.ru/filialy/khimki/
+Redirect 301 /catalog/kolomna/ http://ust-co.ru/filialy/kolomna/
+Redirect 301 /catalog/kursk/ http://ust-co.ru/filialy/kursk/
+Redirect 301 /catalog/ljubercy/ http://ust-co.ru/filialy/lubertsy/
+Redirect 301 /catalog/filial_moskva/ http://ust-co.ru/filialy/moscow/
+Redirect 301 /catalog/moskva/ http://ust-co.ru/filialy/moscow/
+Redirect 301 /catalog/nizhnijj_novgorod/ http://ust-co.ru/filialy/n-novgorod/
+Redirect 301 /catalog/filial_novosibirsk/ http://ust-co.ru/filialy/novosibirsk/
+Redirect 301 /catalog/novosibirsk/ http://ust-co.ru/filialy/novosibirsk/
+Redirect 301 /catalog/orel/ http://ust-co.ru/filialy/orel/
+Redirect 301 /catalog/orenburg/ http://ust-co.ru/filialy/orenburg/
+Redirect 301 /catalog/penza/ http://ust-co.ru/filialy/penza/
+Redirect 301 /catalog/perm/ http://ust-co.ru/filialy/perm/
+Redirect 301 /catalog/petrozavodsk/ http://ust-co.ru/filialy/petrozavodsk/
+Redirect 301 /catalog/filial_rostovnadonu/ http://ust-co.ru/filialy/rostov-on-don/
+Redirect 301 /catalog/rostovnadonu/ http://ust-co.ru/filialy/rostov-on-don/
+Redirect 301 /catalog/rjazan/ http://ust-co.ru/filialy/ryazan/
+Redirect 301 /catalog/samara/ http://ust-co.ru/filialy/samara/
+Redirect 301 /catalog/saratov/ http://ust-co.ru/filialy/saratov/
+Redirect 301 /catalog/filial_sanktpeterburg/ http://ust-co.ru/filialy/st-petersburg/
+Redirect 301 /catalog/sanktpeterburg/ http://ust-co.ru/filialy/st-petersburg/
+Redirect 301 /catalog/tula/ http://ust-co.ru/filialy/tula/
+Redirect 301 /catalog/tjumen/ http://ust-co.ru/filialy/tumen/
+Redirect 301 /catalog/filial_ufa/ http://ust-co.ru/filialy/ufa/
+Redirect 301 /catalog/ufa/ http://ust-co.ru/filialy/ufa/
+Redirect 301 /catalog/vladimir/ http://ust-co.ru/filialy/vladimir/
+Redirect 301 /catalog/voronezh/ http://ust-co.ru/filialy/voronezh/
+Redirect 301 /catalog/jaroslavl/ http://ust-co.ru/filialy/yaroslavl/
+Redirect 301 /catalog/uslovija/ http://ust-co.ru/finansovye-uslugi/
+Redirect 301 /catalog/ust_finans/ http://ust-co.ru/finansovye-uslugi/
+Redirect 301 /catalog/lizingovie_programmi/ http://ust-co.ru/finansovye-uslugi/lizing/
+Redirect 301 /catalog/arenda_vykup/ http://ust-co.ru/finansovye-uslugi/rassrochka/
+Redirect 301 /abouten/ http://ust-co.ru/o-kompanii/
+Redirect 301 /catalog/about/ http://ust-co.ru/o-kompanii/
+Redirect 301 /catalog/history/ http://ust-co.ru/o-kompanii/istorija/
+Redirect 301 /catalog/career/ http://ust-co.ru/o-kompanii/karera/
+Redirect 301 /catalog/vakansii/ http://ust-co.ru/o-kompanii/karera/
+Redirect 301 /catalog/korporativn_universitet/ http://ust-co.ru/o-kompanii/karera/universitet/
+Redirect 301 /catalog/klienty/ http://ust-co.ru/o-kompanii/klienty/
+Redirect 301 /catalog/contacts/ http://ust-co.ru/o-kompanii/kontakty/
+Redirect 301 /catalog/podolsk/ http://ust-co.ru/o-kompanii/kontakty/
+Redirect 301 /contacts/ http://ust-co.ru/o-kompanii/kontakty/
+Redirect 301 /catalog/nashi_nagrady/ http://ust-co.ru/o-kompanii/nagrady/
+Redirect 301 /catalog/about_us/ http://ust-co.ru/o-kompanii/otzyvy/
+Redirect 301 /catalog/partners/ http://ust-co.ru/o-kompanii/otzyvy/
+Redirect 301 /catalog/partners/page/1/ http://ust-co.ru/o-kompanii/otzyvy/
+Redirect 301 /catalog/partners/page/2/ http://ust-co.ru/o-kompanii/otzyvy/
+Redirect 301 /catalog/partners/page/3/ http://ust-co.ru/o-kompanii/otzyvy/
+Redirect 301 /catalog/partners/page/4/ http://ust-co.ru/o-kompanii/otzyvy/
+Redirect 301 /catalog/partners/page/5/ http://ust-co.ru/o-kompanii/otzyvy/
+Redirect 301 /catalog/partners/page/6/ http://ust-co.ru/o-kompanii/otzyvy/
+Redirect 301 /catalog/partners/page/7/ http://ust-co.ru/o-kompanii/otzyvy/
+Redirect 301 /catalog/partners/page/8/ http://ust-co.ru/o-kompanii/otzyvy/
+Redirect 301 /catalog/stati/ http://ust-co.ru/o-kompanii/statyi/
+Redirect 301 /catalog/about_tvh/ http://ust-co.ru/partnery/
+Redirect 301 /catalog/postavshhiki/ http://ust-co.ru/partnery/
+Redirect 301 /catalog/about_combilift/ http://ust-co.ru/partnery/combilift/
+Redirect 301 /catalog/awards/ http://ust-co.ru/partnery/sertifikaty/
+Redirect 301 /catalog/transprogress/ http://ust-co.ru/partnery/transprogress/
+Redirect 301 /catalog/unilift/ http://ust-co.ru/partnery/unilift/
+Redirect 301 /catalog/yale/ http://ust-co.ru/partnery/yale/
+Redirect 301 /catalog/servis/ http://ust-co.ru/servis/remont-i-vosstanovlenie/
+Redirect 301 /catalog/takb/ http://ust-co.ru/servis/remont-i-vosstanovlenie/
+Redirect 301 /catalog/tnvd/ http://ust-co.ru/servis/remont-i-vosstanovlenie/
+Redirect 301 /catalog/akb/ http://ust-co.ru/servis/zapchasti-i-komplektuyushie/
+Redirect 301 /catalog/kabiny/ http://ust-co.ru/servis/zapchasti-i-komplektuyushie/
+Redirect 301 /catalog/katalogi_na_tekhniku/ http://ust-co.ru/servis/zapchasti-i-komplektuyushie/
+Redirect 301 /catalog/litijjionnye_akkumuljatory/ http://ust-co.ru/servis/zapchasti-i-komplektuyushie/
+Redirect 301 /catalog/parts/ http://ust-co.ru/servis/zapchasti-i-komplektuyushie/
+Redirect 301 /catalog/smaz/ http://ust-co.ru/servis/zapchasti-i-komplektuyushie/
+Redirect 301 /catalog/zaradnoe/ http://ust-co.ru/servis/zapchasti-i-komplektuyushie/
+Redirect 301 /catalog/zarjadnye_ustrojjstva_energic_plus/ http://ust-co.ru/servis/zapchasti-i-komplektuyushie/
+Redirect 301 /catalog/zarjadnye_ustrojjstva_hawker/ http://ust-co.ru/servis/zapchasti-i-komplektuyushie/
+Redirect 301 /catalog/zarjadnye_ustrojjstva_helm/ http://ust-co.ru/servis/zapchasti-i-komplektuyushie/
+Redirect 301 /catalog/zarjadnye_ustrojjstva_powergen/ http://ust-co.ru/servis/zapchasti-i-komplektuyushie/
+Redirect 301 /catalog/trade_in_pogruzchika/ http://ust-co.ru/trade-in/
+Redirect 301 /catalog/specialnye_programmy_finansirovanija/ http://ust-co.ru/finansovye-uslugi/specpredlozheniya/
+Redirect 301 /catalog/navesnoe-oborudovanie/ /catalog/navesnoe-oborudovanie-dlya-stroitelnoy-tekhniki/
+Redirect 301 /catalog/navesnoe-burovoe-i-svaeboynoe-oborudovanie-1/ /catalog/navesnoe-burovoe-i-svaeboynoe-oborudovanie/
+Redirect 301 /catalog/zapacnye-chastti/ /servis/zapchasti-i-komplektuyushie/ 
+Redirect 301 /cat/pogruzchiki_bu/ http://ust-co.ru/catalog/bu-stroitelnaya-tehnika/
+Redirect 301 /cat/avtogrejjdery/ http://ust-co.ru/catalog/bu-stroitelnaya-tehnika/avtogreydery/
+Redirect 301 /cat/12A10319/ http://ust-co.ru/catalog/bu-stroitelnaya-tehnika/samosvaly-s-sharnirno-sochlenennoy-ramoy/john-deere-400d-12A10319/
+Redirect 301 /cat/buldozery/ http://ust-co.ru/catalog/bu-stroitelnaya-tehnika/buldozery/
+Redirect 301 /cat/S08131/ http://ust-co.ru/catalog/bu-stroitelnaya-tehnika/ekskavatory-gusenichnye/volvo-ec360b-S08131/
+Redirect 301 /cat/jekskavator_kolesnyjj_hitachi_zx_160w/ http://ust-co.ru/catalog/bu-stroitelnaya-tehnika/ekskavatory-kolesnye/hitachi-zx-160w-S00961/
+Redirect 301 /cat/14M11515/ http://ust-co.ru/catalog/bu-stroitelnaya-tehnika/frontalnye-pogruzchiki/john-deere-724k-14M11515/
+Redirect 301 /cat/13Yu11237/ http://ust-co.ru/catalog/bu-stroitelnaya-tehnika/frontalnye-pogruzchiki/john-deere-724k-13Yu11237/
+Redirect 301 /cat/14M11506/ http://ust-co.ru/catalog/bu-stroitelnaya-tehnika/ekskavatory-pogruzchiki/case-580-super-r-14M11506/
+Redirect 301 /cat/minipogruzchiki417/ http://ust-co.ru/catalog/bu-stroitelnaya-tehnika/minipogruzchiki/

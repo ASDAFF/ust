@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409841038>
+    <timestamp>04.09.2014 18:30:38</timestamp>
+    <webpage>http://u-st.ru/arenda/stroitelnaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409841038>
+  <logInfo1409841042>
+    <timestamp>04.09.2014 18:30:42</timestamp>
+    <webpage>http://ust-co.ru/arenda/skladskaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409841042>
+  <logInfo1409841048>
+    <timestamp>04.09.2014 18:30:48</timestamp>
+    <webpage>http://ust-co.ru/catalog/skladskaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409841048>
+  <logInfo1409841057>
+    <timestamp>04.09.2014 18:30:57</timestamp>
+    <webpage>http://ust-co.ru/catalog/skladskaya-tekhnika/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409841057>
+  <logInfo1409841063>
+    <timestamp>04.09.2014 18:31:03</timestamp>
+    <webpage>http://ust-co.ru/catalog/skladskaya-tekhnika/?PAGEN_3=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409841063>
+  <logInfo1409841080>
+    <timestamp>04.09.2014 18:31:20</timestamp>
+    <webpage>http://ust-co.ru/catalog/skladskaya-tekhnika/?PAGEN_3=4</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409841080>
+</root>

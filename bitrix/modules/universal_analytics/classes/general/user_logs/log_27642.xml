@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409904238>
+    <timestamp>05.09.2014 12:03:58</timestamp>
+    <webpage>http://ust-co.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409904238>
+  <logInfo1409904264>
+    <timestamp>05.09.2014 12:04:24</timestamp>
+    <webpage>http://ust-co.ru/filialy/ufa/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409904264>
+  <logInfo1409904269>
+    <timestamp>05.09.2014 12:04:29</timestamp>
+    <webpage>http://ust-co.ru/filialy/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409904269>
+  <logInfo1409904288>
+    <timestamp>05.09.2014 12:04:48</timestamp>
+    <webpage>http://ust-co.ru/filialy/samara/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409904288>
+  <logInfo1409904390>
+    <timestamp>05.09.2014 12:06:30</timestamp>
+    <webpage>http://ust-co.ru/servis/zapchasti-i-komplektuyushie/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409904390>
+  <logInfo1409905042>
+    <timestamp>05.09.2014 12:17:22</timestamp>
+    <webpage>http://ust-co.ru/servis/zapchasti-i-komplektuyushie/?success=Y</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409905042>
+  <logInfo1409905074>
+    <timestamp>05.09.2014 12:17:54</timestamp>
+    <webpage>http://ust-co.ru/servis/zapchasti-i-komplektuyushie/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409905074>
+  <logInfo1409905078>
+    <timestamp>05.09.2014 12:17:58</timestamp>
+    <webpage>http://ust-co.ru/filialy/samara/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409905078>
+  <logInfo1409905480>
+    <timestamp>05.09.2014 12:24:40</timestamp>
+    <webpage>http://ust-co.ru/o-kompanii/karera/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409905480>
+  <logInfo1409905513>
+    <timestamp>05.09.2014 12:25:13</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409905513>
+  <logInfo1409905527>
+    <timestamp>05.09.2014 12:25:27</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/teleskopicheskie-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409905527>
+  <logInfo1409905642>
+    <timestamp>05.09.2014 12:27:22</timestamp>
+    <webpage>http://u-st.ru/catalog/navesnoe-oborudovanie-dlya-stroitelnoy-tekhniki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409905642>
+  <logInfo1409905663>
+    <timestamp>05.09.2014 12:27:43</timestamp>
+    <webpage>http://u-st.ru/catalog/navesnoe-oborudovanie-dlya-stroitelnoy-tekhniki/shnekovyy-gidravlicheskiy-bur/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409905663>
+</root>

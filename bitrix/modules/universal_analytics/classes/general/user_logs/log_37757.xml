@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1410124047>
+    <timestamp>08.09.2014 01:07:27</timestamp>
+    <webpage>http://u-st.ru/catalog/ekskavatory-pogruzchiki/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410124047>
+  <logInfo1410124089>
+    <timestamp>08.09.2014 01:08:09</timestamp>
+    <webpage>http://u-st.ru/ajax/filter_new.php</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410124089>
+  <logInfo1410124112>
+    <timestamp>08.09.2014 01:08:32</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410124112>
+  <logInfo1410124130>
+    <timestamp>08.09.2014 01:08:50</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/?PAGEN_3=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410124130>
+  <logInfo1410124148>
+    <timestamp>08.09.2014 01:09:08</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/?PAGEN_3=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410124148>
+  <logInfo1410124157>
+    <timestamp>08.09.2014 01:09:17</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/?PAGEN_3=4</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410124157>
+  <logInfo1410124170>
+    <timestamp>08.09.2014 01:09:30</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/?PAGEN_3=5</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410124170>
+  <logInfo1410124180>
+    <timestamp>08.09.2014 01:09:40</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/?PAGEN_3=6</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410124180>
+  <logInfo1410124189>
+    <timestamp>08.09.2014 01:09:49</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/?PAGEN_3=7</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410124189>
+  <logInfo1410124200>
+    <timestamp>08.09.2014 01:10:00</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/?PAGEN_3=8</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410124200>
+  <logInfo1410124211>
+    <timestamp>08.09.2014 01:10:11</timestamp>
+    <webpage>http://u-st.ru/catalog/stroitelnaya-tekhnika/?PAGEN_3=9</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410124211>
+  <logInfo1410124235>
+    <timestamp>08.09.2014 01:10:35</timestamp>
+    <webpage>http://u-st.ru/catalog/karernye-samosvaly/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410124235>
+  <logInfo1410124252>
+    <timestamp>08.09.2014 01:10:52</timestamp>
+    <webpage>http://u-st.ru/catalog/ekskavatory/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410124252>
+  <logInfo1410124281>
+    <timestamp>08.09.2014 01:11:21</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410124281>
+  <logInfo1410124313>
+    <timestamp>08.09.2014 01:11:53</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/?PAGEN_2=2</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410124313>
+  <logInfo1410124329>
+    <timestamp>08.09.2014 01:12:09</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/?PAGEN_2=3</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410124329>
+  <logInfo1410124343>
+    <timestamp>08.09.2014 01:12:23</timestamp>
+    <webpage>http://u-st.ru/catalog/bu-stroitelnaya-tehnika/?PAGEN_2=4</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1410124343>
+</root>

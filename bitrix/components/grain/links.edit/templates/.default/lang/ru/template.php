@@ -1,0 +1,7 @@
+<?
+$MESS["GRAIN_LINKS_EDIT_T_DEFAULT_PLACEHOLDER_SELECT"] = "Выбрать...";
+$MESS["GRAIN_LINKS_EDIT_T_DEFAULT_PLACEHOLDER_SEARCH"] = "Искать...";
+$MESS["GRAIN_LINKS_EDIT_T_DEFAULT_LIST_EMPTY"] = "Список элементов пуст";
+$MESS["GRAIN_LINKS_EDIT_T_DEFAULT_NOT_FOUND"] = "Ничего не найдено";
+$MESS["GRAIN_LINKS_EDIT_T_DEFAULT_AJAX_ERROR"] = "Ошибка связи с сервером";
+?>

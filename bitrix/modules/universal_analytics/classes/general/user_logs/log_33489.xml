@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <logInfo1409895451>
+    <timestamp>05.09.2014 09:37:31</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409895451>
+  <logInfo1409895497>
+    <timestamp>05.09.2014 09:38:17</timestamp>
+    <webpage>http://ust-co.ru/ajax/filter_new.php</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409895497>
+  <logInfo1409895678>
+    <timestamp>05.09.2014 09:41:18</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/bu_vilochnyy_pogruzchik_dizel/filter/kpp-akpp/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409895678>
+  <logInfo1409895689>
+    <timestamp>05.09.2014 09:41:29</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/bu_vilochnyy_pogruzchik_dizel/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409895689>
+  <logInfo1409895731>
+    <timestamp>05.09.2014 09:42:11</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/bu_vilochnyy_pogruzchik_dizel/filter/max_weight-to-2520/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409895731>
+  <logInfo1409895764>
+    <timestamp>05.09.2014 09:42:44</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/bu_vilochnyy_pogruzchik_dizel/?quantity=10000</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409895764>
+  <logInfo1409895779>
+    <timestamp>05.09.2014 09:42:59</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/bu_vilochnyy_pogruzchik_dizel/komatsu_fd35t7_bu12n10895/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409895779>
+  <logInfo1409895790>
+    <timestamp>05.09.2014 09:43:10</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/bu_vilochnyy_pogruzchik_dizel/?quantity=10000</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409895790>
+  <logInfo1409895815>
+    <timestamp>05.09.2014 09:43:35</timestamp>
+    <webpage>http://ust-co.ru/catalog/bu-skladskaya-tehnika/bu_vilochnyy_pogruzchik_dizel/komatsu_fd30nt16_bu13d11357/</webpage>
+    <responsecode>200</responsecode>
+  </logInfo1409895815>
+</root>

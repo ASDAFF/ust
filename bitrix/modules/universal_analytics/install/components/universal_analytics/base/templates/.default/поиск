@@ -1,0 +1,391 @@
+<?
+require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetTitle("Поиск КМУ Palfinger");
+?> 
+<script>
+function selseach () {
+  searchn = document.getElementById("selsearch").value;
+  location.replace('/search?search='+searchn);
+}
+function ssel () {
+  catn = document.getElementById("search_category").value;
+  location.replace('/search?search=model&search_category='+catn);
+}
+function ssel2 () {
+  catm = document.getElementById("search_model").value;
+  catn = document.getElementById("search_category").value;
+  location.replace('/product_catalogue/detail_list.php?seriya='+catn+'&model_id='+catm+'&page=1');
+}
+</script>
+ <?
+
+function getBlockElement($idblock,$code,$paramSel,$nselect=0)
+{
+	$propTpl='<select '.$paramSel.'>';
+	
+	if($code=="SER")
+	{
+		 $propTpl.='<option value ="0">Перечень серий</option>';
+	}
+	
+	if(stripos($code, "M") !== false)
+	{
+		 $propTpl.='<option value ="0">Перечень моделей</option>';
+	}
+	
+	CModule::IncludeModule('iblock');
+    $db_props = CIBlockElement::GetProperty($idblock, "", array("sort" => "asc"), array("CODE" => $code));// если code =M% тогда выберет всё, что начинается на M 
+     while($ar_props = $db_props->Fetch())
+	{
+		$property_enums = CIBlockPropertyEnum::GetList(Array("SORT"=>"ASC"), Array("IBLOCK_ID"=>"9", "PROPERTY_ID" => $ar_props["ID"]));
+		while($enum_fields = $property_enums->GetNext())
+		{
+			if($nselect==$enum_fields["ID"]) $selected='selected';
+			else $selected = '';
+			
+			$propTpl.='<option value = '.$enum_fields["ID"].' '.$selected.'>'.$enum_fields["VALUE"].'</option>';
+			//print_r($propTpl);
+		}
+	}
+	
+	$propTpl.='</select>';
+	
+	return $propTpl;
+}
+
+//echo getBlockElement("9","SER","");
+
+
+
+?> <?
+
+$formSearch=
+'
+ 	<form action="/search?search=" method="get"> 	 
+  <table class="nobr"> 
+    <tbody> 
+      <tr><td width="230"> 
+          <br />
+         Поиск: 
+          <br />
+         
+          <br />
+         </td> <td colspan="2"> 
+          <br />
+         <select class="inputsearch" id="selsearch" name="selsearch" onchange="selseach();"><option value="name">по названию</option><option value="model">по модели</option><option value="th">по характеристикам</option></select> 
+          <br />
+         
+          <br />
+         </td></tr>
+     	 
+      <tr><td>Для поиска модели ведите название или его часть:</td><td colspan="2"><input class="inputsearch" type="text" value="'.$_GET['modelname'].'" name="modelname" id="modelname" size="20" /></td></tr>
+     
+      <tr><td colspan="3"> 
+          <br />
+         <input type="submit" class="button" name="search1" value="Поиск" /> 
+          <br />
+         </td></tr>
+     	 	 </tbody>
+   </table>
+ 
+  <br />
+ 			</form> 
+';
+
+if($_GET['search']=='model')
+{
+
+
+	$seriya=getBlockElement('9','SER','class="inputsearch" id="search_category" name="search_category" onchange="ssel();"',$_GET['search_category']);
+
+
+	$model='<select id="search_model" class="inputsearch" name="search_model" onchange="ssel2();"> 
+              <option value="0">Перечень моделей</option> 
+                            
+            </select>';
+	
+	if($_GET['search_category']==9)
+	{
+		$model=getBlockElement('9','MCOM',' id="search_model" class="inputsearch" name="search_model" onchange="ssel2();"');
+	}
+	if($_GET['search_category']==10)
+	{
+		$model=getBlockElement('9','MEH',' id="search_model" class="inputsearch" name="search_model" onchange="ssel2();"');
+	}
+	if($_GET['search_category']==11)
+	{
+		$model=getBlockElement('9','MHP',' id="search_model" class="inputsearch" name="search_model" onchange="ssel2();"');
+	}
+	if($_GET['search_category']==12)
+	{
+		$model=getBlockElement('9','MK',' id="search_model" class="inputsearch" name="search_model" onchange="ssel2();"');
+	}
+	if($_GET['search_category']==13)
+	{
+		$model=getBlockElement('9','MLEL',' id="search_model" class="inputsearch" name="search_model" onchange="ssel2();"');
+	}
+	if($_GET['search_category']==14)
+	{
+		$model=getBlockElement('9','MODT',' id="search_model" class="inputsearch" name="search_model" onchange="ssel2();"');
+	}
+	if($_GET['search_category']==15)
+	{
+		$model=getBlockElement('9','ML',' id="search_model" class="inputsearch" name="search_model" onchange="ssel2();"');
+	}
+	if($_GET['search_category']==16)
+	{
+		$model=getBlockElement('9','MS',' id="search_model" class="inputsearch" name="search_model" onchange="ssel2();"');
+	}
+	if($_GET['search_category']==17)
+	{
+		$model=getBlockElement('9','MT',' id="search_model" class="inputsearch" name="search_model" onchange="ssel2();"');
+	}
+
+
+
+	$formSearch=
+	'
+	<form action="/search?search=model" method="post"> 
+ 
+ 	<table class="nobr"> 
+  <tr><td width="230"><br />Поиск:<br /><br /></td> 
+      <td colspan="2"><br /><select class="inputsearch" id="selsearch" name="selsearch" onchange="selseach();"> 
+              <option value="name" >по названию</option> 
+              <option value="model" selected >по модели</option> 
+              <option value="th"  >по характеристикам</option>	
+           </select> <br /><br /> 
+  </td></tr> 
+  
+ 	      
+ 
+ 	     
+         <tr><td>Выберите серию:</td><td colspan="2">
+		
+           '.$seriya.'
+</td> 
+          </tr> 
+          <tr><td>Выберите Модель:</td><td  colspan="2">'.$model.'</td></tr> 
+      
+ 
+ 	              </table> 
+ 
+       <br /> 
+ 
+	</form> 
+	';
+	
+		
+		//echo ": ".$USER_FIELD_MANAGER->GetUserField (9, 17, "UF_SERIYA");
+
+		
+		
+	
+}
+
+
+if($_GET['search']=='th' || $_GET['selsearch']=='th')
+{
+	$formSearch=
+	'
+		<form action="/search?search=th" method="GET"> 
+		 
+			<table class="nobr"> 
+		  <tr><td width="230"><br />Поиск:<br /><br /></td> 
+			  <td colspan="2"><br /><select class="inputsearch" id="selsearch" name="selsearch" onchange="selseach();"> 
+					  <option value="name" >по названию</option> 
+					  <option value="model"  >по модели</option> 
+					  <option value="th" selected >по характеристикам</option>	
+				   </select> <br /><br /> 
+		  </td></tr> 
+					<tr><td>Грузовой момент, Тм (тонометры).</td> 
+						<td>от <input type="text" value="'.$_GET['gmmin'].'" name="gmmin" size="5"/> </td> 
+						<td>до <input type="text" value="'.$_GET['gmmax'].'" name="gmmax" size="5"/></td></tr> 
+					<tr><td>Вылет стрелы, м. </td> 
+						<td colspan="2">от <input type="text" value="'.$_GET['viletmin'].'" name="viletmin" size="5"/></td></tr>                                                
+					<tr><td>Грузоподъемность, кг.</td> 
+						<td>от <input type="text" value="'.$_GET['gpmin'].'" name="gpmin" size="5"/></td> 
+						<td>до <input type="text" value="'.$_GET['gpmax'].'" name="gpmax" size="5"/></td></tr> 
+					<tr><td>Грузоподъемность на max вылете, кг.</td> 
+						<td>от <input type="text" value="'.$_GET['gpvmin'].'" name="gpvmin" size="5"/></td> 
+						<td>до <input type="text" value="'.$_GET['gpvmax'].'" name="gpvmax" size="5"/></td></tr>            
+					<tr><td>Собственный вес, кг. </td> 
+						<td><br _moz_editor_bogus_node='on'></td><td>до <input type="text" value="'.$_GET['vesmax'].'" name="vesmax" size="5"/></td></tr>                        
+					<tr><td colspan="3"><br /><input type="submit" class="button" name="search2" value="Поиск" /><br /></td></tr>       
+						</table> 
+		 
+			   <br /> 
+		 
+		 
+			</form> 
+	
+	';
+}
+
+
+echo $formSearch;
+?> <?
+
+
+$modelname=$_GET['modelname'];
+
+if(CModule::IncludeModule('iblock'))  //обязательное условие для работы указанных методов
+{ 
+	$arSelect = Array("ID","property_SER","property_MCOM","property_MEH","property_MHP","property_MK","property_MLEL","property_MODT","property_ML","property_MS","property_MT","property_GM","property_VS","property_GKG","property_GMAX","property_VES","property_UGOL","DETAIL_PAGE_URL","NAME");
+	$arFilter = Array("IBLOCK_ID"=>"9", "ACTIVE_DATE"=>"Y", "ACTIVE"=>"Y");
+	$res = CIBlockElement::GetList(Array(), $arFilter, false, Array("nPageSize"=>50), $arSelect);
+	while($ob = $res->GetNextElement())
+	{
+	  $arFields = $ob->GetFields();
+	 // print_r($arFields);
+	 // $res2 = CIBlockElement::GetByID($arFields ['ID']); //в предыдущем запросе мы вытащили ID нужных нам товаров, теперь вытаскиваемнужные нам данные (наименование,URL и т.д.) по каждому ID
+	  //$ar_res2 = $res2->GetNext();
+	  //print_r($ar_res2);
+	  //echo $arFields['PROPERTY_SER_VALUE'];
+
+	 /*if($arFields['PROPERTY_SER_VALUE']=='High Perfomanse')	$model=$arFields['PROPERTY_MHP_VALUE'];
+	 if($arFields['PROPERTY_SER_VALUE']=='Compact') $model=$arFields['PROPERTY_MCOM_VALUE'];
+	 if($arFields['PROPERTY_SER_VALUE']=='EH') $model=$arFields['PROPERTY_MEH_VALUE'];
+	 if($arFields['PROPERTY_SER_VALUE']=='K') $model=$arFields['PROPERTY_MK_VALUE'];	
+	 if($arFields['PROPERTY_SER_VALUE']=='L/EL') $model=$arFields['PROPERTY_MLEL_VALUE'];	
+	 if($arFields['PROPERTY_SER_VALUE']=='T') $model=$arFields['PROPERTY_MODT_VALUE'];	
+	 if($arFields['PROPERTY_SER_VALUE']=='Лёгкие') $model=$arFields['PROPERTY_ML_VALUE'];	
+	 if($arFields['PROPERTY_SER_VALUE']=='Средние') $model=$arFields['PROPERTY_MS_VALUE'];		 
+	 if($arFields['PROPERTY_SER_VALUE']=='Тяжелые') $model=$arFields['PROPERTY_MТ_VALUE'];	*/
+	 
+	 if($arFields['PROPERTY_SER_VALUE']=='High Perfomanse')	$model=$arFields['NAME'];
+	 if($arFields['PROPERTY_SER_VALUE']=='Compact') $model=$arFields['NAME'];
+	 if($arFields['PROPERTY_SER_VALUE']=='EH') $model=$arFields['NAME'];
+	 if($arFields['PROPERTY_SER_VALUE']=='K') $model=$arFields['NAME'];	
+	 if($arFields['PROPERTY_SER_VALUE']=='L/EL') $model=$arFields['NAME'];	
+	 if($arFields['PROPERTY_SER_VALUE']=='T') $model=$arFields['NAME'];	
+	 if($arFields['PROPERTY_SER_VALUE']=='Лёгкие') $model=$arFields['NAME'];	
+	 if($arFields['PROPERTY_SER_VALUE']=='Средние') $model=$arFields['NAME'];		 
+	 if($arFields['PROPERTY_SER_VALUE']=='Тяжелые') $model=$arFields['NAME'];
+	 //$model;
+	 
+	 $modelHtm	='<a id="bxid_945782" href="'.$arFields['DETAIL_PAGE_URL'].'" >'.$model.'</a>';
+	 $gm		=$arFields['PROPERTY_GM_VALUE'];
+	 $vs		=$arFields['PROPERTY_VS_VALUE'];
+	 $gkg		=$arFields['PROPERTY_GKG_VALUE'];
+	 $gmax		=$arFields['PROPERTY_GMAX_VALUE'];
+	 $ugol		=$arFields['PROPERTY_UGOL_VALUE'];
+	 $ves		=$arFields['PROPERTY_VES_VALUE'];	 
+	 
+	 
+	 $vivod=false;
+	 /// ----------------------фильтры
+	 if(isset($_GET['modelname']) && $_GET['search']='name')/// имя
+	 {
+		if (stripos($modelHtm, $modelname) !== false) 
+		{
+				$vivod=true;
+		}
+		
+		if($_GET['modelname']=='')
+		{
+				$vivod=true;			
+		}
+		
+	 }
+	 
+	 if( $_GET['selsearch']=='th') /// характеристики
+	 {
+		$vivod=true;
+		//print_r($_GET);
+		if($_GET['gmmin']!='' )
+		{
+			if($gm < $_GET['gmmin'])$vivod=false; 
+		}
+		if($_GET['gmmax']!='' )
+		{
+			if($gm > $_GET['gmmax'])$vivod=false; 
+		}
+		///-------------------------------
+		if($_GET['viletmin']!='' )
+		{
+			if($vs < $_GET['viletmin'])$vivod=false; 
+		}
+		///------------------------------
+		if($_GET['gpmin']!='' )
+		{
+			if($gkg < $_GET['gpmin'])$vivod=false; 
+		}
+		if($_GET['gpmax']!='' )
+		{
+			if($gkg > $_GET['gpmax'])$vivod=false; 
+		}
+		///--------------------------------------
+		
+		if($_GET['gpvmin']!='' )
+		{
+			if($gmax < $_GET['gpvmin'])$vivod=false; 
+		}		
+		if($_GET['gpvmax']!='' )
+		{
+			if($gmax > $_GET['gpvmax'])$vivod=false; 
+		}	
+		///--------------------------------------	
+		
+		if($_GET['vesmax']!='' )
+		{
+			if($ves > $_GET['vesmax'])$vivod=false;
+		}
+		
+	 }
+	// -------------------------------end 
+	 if($vivod==true)
+	 {
+	 $tpl		.=
+	 '<tr>
+	   <td>'.$modelHtm.'</td>
+       <td align="center">'.$gm.'</td>
+       <td align="center">'.$vs.'</td>
+       <td align="center">'.$gkg.'</td>
+       <td align="center">'.$gmax.'</td>
+       <td align="center">'.$ugol.'</td>
+	   <td align="center">'.$ves.'</td>
+	   </tr>
+	 ';
+	 }
+	 
+
+	 
+	 
+	}
+	
+}
+
+
+if($tpl!='')
+{
+$htm=
+'
+<h3>Результаты поиска</h3>
+	<table  id="sorttable" border="0" cellspacing="0" cellpadding="0" width="744" >
+  <thead>
+    <tr align="center">
+    <th width="20%"><a id="bxid_720499" href="#" >Модель</th>
+    <th><a href="#">Максимальный грузовой момент, т.м</th>
+    <th><a href="#">Максимальный вылет стрелы, м</th>
+    <th><a href="#">Грузоподъемность максимальная, кг</th>
+    <th><a href="#">Грузоподъемность на максим. вылете, кг</a></th>    
+    <th><a href="#">Угол поворота град.</th>
+    <th><a href="#">Собственный вес (стандартный кран), кг</th></tr>
+  </thead>
+  <tbody>
+	
+ '.$tpl.'
+     
+</tbody>
+</table>
+';
+}
+else
+{
+
+	if(isset($_GET['modelname']))$htm='Поиск не дал результатов, попробуйте изменить запрос';
+}
+
+
+
+?> <?=$htm;?> <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
