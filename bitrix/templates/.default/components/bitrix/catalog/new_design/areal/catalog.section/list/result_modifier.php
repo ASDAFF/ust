@@ -1,5 +1,8 @@
 <?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();?>
 <?
+//$sections_url_id=get_sections_url_on_id();
+//$domains=get_domains(); 
+ //    pr($sections_url_id);
 if(!empty($arResult["ITEMS"])) {
 	foreach($arResult["ITEMS"] as $key => $arItem) {
 		unset($serieses);
@@ -47,10 +50,13 @@ if(!empty($arResult["ITEMS"])) {
 		}		
 		
 		if(!empty($arItem["PROPERTIES"]["GROUP_PAGE"]["VALUE"])) {
-			if(!empty($arItem["PROPERTIES"]["DISPLAY_AS_SERIES"]["VALUE"]))
-				$arResult["ITEMS"][$key]["DETAIL_PAGE_URL"] = $arResult["SECTION_PAGE_URL"].$arItem["PROPERTIES"]["GROUP_PAGE"]["VALUE"]."/";
+			if(!empty($arItem["PROPERTIES"]["DISPLAY_AS_SERIES"]["VALUE"]))	$arResult["ITEMS"][$key]["DETAIL_PAGE_URL"] = $arResult["SECTION_PAGE_URL"].$arItem["PROPERTIES"]["GROUP_PAGE"]["VALUE"]."/";
 		}
-                
+                if(isset($sections_url_id[$arItem["IBLOCK_SECTION_ID"]]))
+                {
+                   // $link_domain=$domains[$sections_url_id[$arItem["IBLOCK_SECTION_ID"]]];
+                   
+                }
                 unset($arResult["ITEMS"][$key]["PROPERTIES"]["NEW"]);
                 unset($arResult["ITEMS"][$key]["PROPERTIES"]["BRAND"]);           
                 unset($arResult["ITEMS"][$key]["PROPERTIES"]["OPTIONS"]);
@@ -62,5 +68,7 @@ if(!empty($arResult["ITEMS"])) {
                 unset($arResult["ITEMS"][$key]["PROPERTIES"]["GROUP_PAGE"]);
                 unset($arResult["ITEMS"][$key]["PROPERTIES"]["RELATED_PRODUCTS"]);
 	}
+    
+       // pr($arResult["ITEMS"][1]);
 }
 ?>

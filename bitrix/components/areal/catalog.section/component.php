@@ -328,7 +328,8 @@ if ($this->StartResultCache(360000, array($arrFilter, ($arParams["CACHE_GROUPS"]
         if (isset($sections_UF[$arItem["IBLOCK_SECTION_ID"]]))
         {
             // $arResult[$key]["LINK_DOMAIN"] = $domains[$section_UF["UF_URL"]];
-            $link_domain = $domains[$section_UF["UF_URL"]];
+            $link_domain = $domains[$sections_UF[$arItem["IBLOCK_SECTION_ID"]]];
+            
             if (isset($link_domain))
                 $arItem["DETAIL_PAGE_URL"] = "http://" . $link_domain . $arItem["DETAIL_PAGE_URL"];
             else

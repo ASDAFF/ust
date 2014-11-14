@@ -1,0 +1,7 @@
+Array
+(
+    [naznachenie] => Товарный бетон
+    [proizvod] => до 600 м³
+    [sumarob] => 20-30
+    [himdob] => 2
+)

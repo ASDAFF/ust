@@ -1,4 +1,5 @@
 <? if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED !== true) die(); ?>
+
 <?
 $file = $_SERVER['DOCUMENT_ROOT'] . "/bitrix/templates/.default/components/bitrix/catalog/new_design/areal/catalog.element/.default/test.txt";
 
@@ -107,7 +108,32 @@ if ($arResult['SECTION']['PATH'][0]['ID'] == '243')
             <? endif; ?>
 
             <? if (!empty($arResult["PHOTOS"][0]["STANDART"]["src"])): ?>
-                <img class="photo" src="<?= $arResult["PHOTOS"][0]["NATURE"] ?>"  alt="<?= $arResult["NAME"] ?>" title="<?= $arResult["NAME"] ?>" />
+<?
+if ($USER->IsAdmin()){
+
+$arWaterMark = Array(
+            array(
+                "name" => "watermark",
+                "position" => "bottomright", // Положение
+                "type" => "image",
+                "size" => "real",
+                "file" => $_SERVER["DOCUMENT_ROOT"].'/images/logo_water.png', // Путь к картинке
+                "fill" => "exact",
+            )
+        );
+        $arFileTmp = CFile::ResizeImageGet(
+            $arResult["PHOTOS"][0]["STANDART"],
+            array("width" => 250, "height" => 127),
+            BX_RESIZE_IMAGE_EXACT,
+            true,
+            $arWaterMark
+        );
+//var_dump($arResult["PHOTOS"][0]);
+echo $arResult["PHOTOS"][0]["NATURE"];
+	?><img src="<?=$arResult["PHOTOS"][0]["NATURE"]?>"/><?
+} else {    
+?>
+                <img class="photo" src="<?= $arResult["PHOTOS"][0]["NATURE"] ?>"  alt="<?= $arResult["NAME"] ?>" title="<?= $arResult["NAME"] ?>" /><?}?>
             <? else: ?>
                 <img class="photo" src="<?= getImageNoPhoto(338, 278) ?>" alt="<?= $arResult["NAME"] ?>" title="<?= $arResult["NAME"] ?>" />
             <? endif; ?>
@@ -141,7 +167,7 @@ if ($arResult['SECTION']['PATH'][0]['ID'] == '243')
            <div class="pr dost"><span class="upper"><a href="http://ust-co.ru/dostavka/">Доставка</a> по всей России</span></div>
            <div class="pr podd"><span class="upper">Круглосуточная поддержка</span></div>
            <div class="pr zap"><span class="upper">Более 23000 запчастей в наличии</span></div>
-           <div class="pr fil"><span><a href="http://ust-co.ru/filialy/">Филиалы</a> и <a href="http://ust-co.ru/servis/">сервис</a> в 40 городах</span></div>
+           <div class="pr fil"><span><a href="http://ust-co.ru/filialy/">Филиалы</a> и <a href="http://ust-co.ru/servis/">сервис</a> в 35 городах</span></div>
            <div class="pr gar"><span>Расширенная гарантия</span></div>
          </div>
          <script>

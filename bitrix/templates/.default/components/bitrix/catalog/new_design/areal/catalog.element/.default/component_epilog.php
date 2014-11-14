@@ -3,14 +3,29 @@
 
 <?
 
-//$file = $_SERVER['DOCUMENT_ROOT']."/bitrix/templates/.default/components/bitrix/catalog/new_design/areal/catalog.element/.default/test.txt";
-//file_put_contents($file, print_r($arResult, true));
-
   if(CModule::IncludeModule("alexkova.megametatags")){
- // $file = $_SERVER['DOCUMENT_ROOT']."/bitrix/templates/.default/components/bitrix/catalog/new_design/areal/catalog.element/.default/test.txt";
-//file_put_contents($file, print_r("asd", true));
+
     $arKeys = array();
+	$brand_id = $arResult["PROPERTIES"]["BRAND"]["~VALUE"];
 	
+
+	
+	$brand_res = CIBlockElement::GetByID($brand_id);
+	
+		$db_props = CIBlockElement::GetProperty(9, $brand_id, array("sort" => "asc"), Array());
+	while ($ar_props = $db_props->Fetch()) {
+		if ($ar_props["NAME"] == "Рус. название")
+			$brand_rus = $ar_props["VALUE"];
+		
+				//$file = $_SERVER['DOCUMENT_ROOT']."/bitrix/templates/.default/components/bitrix/catalog/new_design/areal/catalog.element/.default/test.txt";
+				//file_put_contents($file, print_r($brand_rus, true));
+		}
+
+	
+	if($ar_res = $brand_res->GetNext())
+		$brand_name = $ar_res['NAME'];
+	//  $file = $_SERVER['DOCUMENT_ROOT']."/bitrix/templates/.default/components/bitrix/catalog/new_design/areal/catalog.element/.default/test.txt";
+	//file_put_contents($file, print_r($ar_res, true));
 	if (strlen($arResult["PREVIEW_TEXT"])>180)
 				  {
 						$cleared = strip_tags($arResult["PREVIEW_TEXT"]);
@@ -19,6 +34,8 @@
 						$detail_text=preg_replace('/\s+/',' ',$detail_text);
 				  }  
       $arKeys[] = array("KEY"=>"ELEMENT_DETAIL_TEXT","VALUE"=>$detail_text,"WHERE_SET"=>"");   
+      $arKeys[] = array("KEY"=>"ELEMENT_BRAND","VALUE"=>$brand_name,"WHERE_SET"=>"");   
+      $arKeys[] = array("KEY"=>"ELEMENT_BRAND_RUS","VALUE"=>$brand_rus,"WHERE_SET"=>"");   
    if ($arKeys){
       CMegaMetaKeys::setKeys($arKeys);      
    } 

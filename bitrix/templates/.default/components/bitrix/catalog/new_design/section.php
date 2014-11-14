@@ -25,6 +25,200 @@ if ($ar_result_uf = $db_list->GetNext())
     $_REQUEST["UF_TEMPLATE"] = $ar_result_uf["UF_TEMPLATE"];
 }
 
+?>
+
+
+	<?
+	$file = $_SERVER['DOCUMENT_ROOT']."/bitrix/templates/.default/components/bitrix/catalog/new_design/test.txt";
+	
+	$propsUserArray = array();
+	$counter = 0;
+	$count = 0;
+ 	$dbProps = CIBlockProperty::GetList(array("SORT"=>"ASC"), array("IBLOCK_ID"=>155));
+      while ($arProp = $dbProps->GetNext())
+      {
+		$dbPropEnum = CIBlockProperty::GetPropertyEnum($arProp["ID"], array("ID"=>"ASC"));
+		
+			$curName = $arProp["NAME"];
+			$curID= $arProp["ID"];
+		while($arPropEnum = $dbPropEnum->Fetch())
+		{
+			$propsUserArray[$count]["VAL"][] = print_r($arPropEnum["VALUE"], true);
+		}
+		if ($propsUserArray[$count]["NAME"] == "") { 
+			$propsUserArray[$count]["NAME"] = $curName;
+			$propsUserArray[$count]["ID"] = $curID;
+			}
+		$count++;
+      }
+		//file_put_contents($file, print_r($propsUserArray, true));
+	
+
+	
+	?>
+<?if ($APPLICATION->GetCurDir() == "/catalog/betonnye-zavody/"):?>
+
+<div style="display:nones">
+<style type="text/css">
+.k-wrp {
+    display: table;
+    width: 100%;
+}
+	.k-send {
+    float: right;
+    width: 44%;
+}
+.konfigurator {
+    float: left;
+    width: 49%;
+}
+.k-row {
+    display: table-row;
+    width: 100%;
+}
+.k-name {
+    display: table-cell;
+    padding: 0 20px 10px 0;
+    vertical-align: middle;
+    width: 60%;
+}
+.k-row .sbHolder {
+    float: right;
+    width: 100%;
+	margin-bottom: 10px;
+}
+.sort_button_div
+{
+    background: url("/design/images/button_red.jpg") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+    border: 1px solid #b1151a;
+    border-radius: 4px;
+    color: #ffffff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Verdana;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 25px;
+    outline: medium none;
+    padding: 0 10px;
+    position: relative;
+    text-align: center;
+}
+.k-model {
+    font-size: 14px;
+    font-weight: bold;
+	margin: 5px 0 0 10px;
+	float:right;
+}
+.k-send .k-row input {
+    margin-bottom: 10px;
+}
+.k-info {
+    float: left;
+    width: 100%;
+	margin: 12px 0;
+}
+.k-number-title {
+    float: left;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 17px;
+    margin-right: 20px;
+    margin-top: 17px;
+}
+.k-num {
+	color: #ec2b32;
+    float: left;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 17px;
+    margin-top: 17px;
+}
+.k-half-row {
+    float: left;
+    margin-bottom: 10px;
+    width: 49%;
+}
+.k-send .sort_button_div {
+    width: 100%;
+}
+label.k-half-name {
+    background-position: left top;
+    display: inline-block;
+    padding: 0 0 0 25px;
+    position: relative;
+}
+</style>
+
+	<form action="" class="k-wrp">
+	<div class="konfigurator">
+	<?$counter = 0;?>
+		<?foreach($propsUserArray as $userPropItem):?>
+		<?if ($userPropItem["ID"] != 2259 && $userPropItem["ID"] != 2260 && $userPropItem["ID"] != 2261):?>
+		<div class="k-row">
+			<span class="k-name"><?=$userPropItem["NAME"]?>:</span>
+			<select id="var_<?=$counter;?>" value="" class="k-select">
+				<?foreach($userPropItem["VAL"] as $propElem):?>
+				<option value="<?=$propElem?>"><?=$propElem?></option>
+				<?endforeach;?>
+			</select>
+		</div>
+		<?else:?>
+		<div class="k-half-row">
+			<label class="k-half-name label_checked checkbox_off"><input  id="var_<?=$counter;?>" class="kombox-hidden-input k-select" type="checkbox" value="Y" /><?=$userPropItem["NAME"]?></label>
+		</div>
+		<?endif;?>
+		<?$counter++;?>
+		<?endforeach;?>
+			<div class="sort_button_div">Рекомендуемая модель завода:</div>
+			<span class="k-model">Euromix 60</span>
+	</div>
+	<div class="k-send">
+		<div class="k-row">
+			<span class="k-name">Имя<span class="req">*</span>:</span>
+			<input type="text"/>
+		</div>
+		<div class="k-row">
+			<span class="k-name">E-mail:</span>
+			<input type="text"/>
+		</div>
+		<div class="k-row">
+			<span class="k-name">Телефон<span class="req">*</span>:</span>
+			<input type="text"/>
+		</div>
+		<div class="k-row">
+			<span class="k-name">Регион:</span>
+			<input type="text"/>
+		</div>
+			<span class="k-info">* - поля, обязательные для заполнения</span>
+		<span class="k-number-title">Ваш уникальный номер: </span>
+		<span class="k-num">26459</span>
+		<input class="sort_button_div" type="submit" value="Заказать консультацию специалиста" />
+	</div>
+	</form>
+</div>
+
+<script type="text/javascript">
+	$( ".k-row .k-select" ).change(function() {
+		//alert( $("body").find(".k-row select#var_1").val() );
+ 		$.ajax({
+		type: "POST",
+		url: "/bitrix/templates/.default/components/bitrix/catalog/new_design/konfigurator.php",
+		data: { 
+			naznachenie: $("body").find(".k-row .k-select#var_0").val(), 
+			proizvod: $("body").find(".k-row .k-select#var_1").val(),
+			sumarob: $("body").find(".k-row .k-select#var_2").val(),
+			himdob: $("body").find(".k-row .k-select#var_3").val(),
+			obshivka: $("body").find(".k-row .checkbox_on #var_4").val(),
+			obogrev: $("body").find(".k-row .checkbox_on #var_5").val(),
+			generator: $("body").find(".k-row .checkbox_on #var_6").val()
+			}
+		}) 
+	});
+</script>
+<?endif;?>
+<?
+
 //($ar_result_uf["UF_TEMPLATE"])?$ar_result_uf["UF_TEMPLATE"]:".default",
 $APPLICATION->IncludeComponent(
         "kombox:filter", ($ar_result_uf["UF_TEMPLATE"]) ? $ar_result_uf["UF_TEMPLATE"] : ".default",
@@ -46,7 +240,9 @@ $APPLICATION->IncludeComponent(
         ), $component
 );
 //}
-print 1;
+include($_SERVER['DOCUMENT_ROOT'].'/bitrix/php_interface/meta_tags.php');
+print_r ($s_meta_array[$_SERVER['REQUEST_URI']][seosmall]);
+//echo $_SERVER['REQUEST_URI'];
 ?>
 <?
 //if (0)

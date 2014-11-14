@@ -4216,3 +4216,6 @@ redirect301("http://u-st.ru/catalog/svaeboynoe-oborudovanie/svaeboynaya-ustanovk
 redirect301("http://u-st.ru/o-kompanii/novosti/stroitelnaya-tekhnika/universal-spetstekhnika-fiksiruet-tseny/","http://u-st.ru/akcii/stroitelnaya-tekhnika/universal-spetstekhnika-fiksiruet-tseny/");
 
 redirect301("http://www.forestry.u-st.ru/","http://forestry.u-st.ru/");
+
+// 13.11 BDN
+//redirect301("http://u-st.ru/catalog/asfaltoukladchiki/asfaltoukladchik-kolesnyy-ammann-afw-5003/","http://ust-co.ru/catalog/asfaltoukladchiki/asfaltoukladchik-kolesnyy-ammann-afw-5003/");

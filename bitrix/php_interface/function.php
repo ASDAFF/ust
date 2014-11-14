@@ -229,7 +229,7 @@ function setMetaTagsOnUrl($meta_array)
     {
         $meta_tags = $meta_array[$link];
         $APPLICATION->SetPageProperty("title", $meta_tags["title"]);
-        $APPLICATION->SetTitle($meta_tags["h1"]);
+        $APPLICATION->SetTitle($meta_tags["h1"]); 
         $APPLICATION->SetPageProperty("keywords", $meta_tags["keywords"]);
         $APPLICATION->SetPageProperty("description", $meta_tags["description"]);
     }
@@ -443,21 +443,21 @@ function get_sections_url_on_id()
 {
     $obCache = new CPHPCache();
     $cacheLifetime = 360000;
-    $cacheID = 'sectionsID';
+    $cacheID = 'sectionsURLID';
     $cachePath = '/' . $cacheID;
     if ($obCache->InitCache($cacheLifetime, $cacheID, $cachePath))
     {
         $vars = $obCache->GetVars();
-        $sections_Id = $vars['sectionsID'];
+        $sections_Id = $vars['sectionsURLID'];
     }
     elseif ($obCache->StartDataCache())
     {
-        $sections = CIBlockSection::GetList(array(), array("IBLOCK_ID" => CATALOG, "ACTIVE" => "Y"), false, array("NAME", "UF_URL"));
+        $sections = CIBlockSection::GetList(array(), array("IBLOCK_ID" => CATALOG, "ACTIVE" => "Y"), false, array("ID","NAME", "UF_URL"));
         while ($section_Id = $sections->GetNext())
         {
             $sections_Id[$section_Id["ID"]] = $section_Id["UF_URL"];
         }
-        $obCache->EndDataCache(array('sectionsID' => $sections_Id));
+        $obCache->EndDataCache(array('sectionsURLID' => $sections_Id));
     }
     return $sections_Id;
 }

@@ -64,6 +64,7 @@ if ('Y' == $arParams['USE_VOTE_RATING'])
 ?>
 		<span><? echo $arResult['NAME']; ?></span>
 	</h1>
+
 	<div class="bx_item_container">
 		<div class="bx_lt">
 <div class="bx_item_slider" id="<? echo $arItemIDs['BIG_SLIDER_ID']; ?>">
@@ -76,6 +77,8 @@ if ('Y' == $arParams['USE_VOTE_RATING'])
 				title="<?=$arResult["DETAIL_PICTURE"]["TITLE"]?>"
 				id="image_<?=$arResult["DETAIL_PICTURE"]["ID"]?>"
 			>
+
+
 <?
 if ('Y' == $arParams['SHOW_DISCOUNT_PERCENT'])
 {

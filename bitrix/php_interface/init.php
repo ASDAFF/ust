@@ -264,8 +264,8 @@ function ShowTitleAndBannerComponent()
     if ($APPLICATION->GetProperty("HIDE_MENU") != "Y")
     {
         echo '<h1>';
-        echo $APPLICATION->GetTitle();
-        //echo $APPLICATION->GetPageProperty("h1");
+       if ($APPLICATION->GetPageProperty("h1") != "") echo $APPLICATION->GetPageProperty("h1");
+		 else echo $APPLICATION->GetTitle();
         echo '</h1>';
         echo '<hr />';
         $APPLICATION->IncludeComponent("areal:banners.secondary", "template2", Array(
@@ -311,7 +311,7 @@ function _Check404Error()
     }
 }
 
-AddEventHandler('main', 'OnEpilog', 'setMetaTags', 1);
+AddEventHandler('main', 'OnEpilog', 'setMetaTags', 100);
 
 function setMetaTags()
 {
